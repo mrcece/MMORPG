@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 24da3354d8b057b4f91bc776012f6b85
+timeCreated: 1508484228
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L Hand
+    100044: Bip001 L Thigh
+    100046: Bip001 L Toe0
+    100048: Bip001 L UpperArm
+    100050: Bip001 Neck
+    100052: Bip001 Pelvis
+    100054: Bip001 Prop1
+    100056: Bip001 R Calf
+    100058: Bip001 R Clavicle
+    100060: Bip001 R Finger0
+    100062: Bip001 R Finger01
+    100064: Bip001 R Finger02
+    100066: Bip001 R Finger1
+    100068: Bip001 R Finger11
+    100070: Bip001 R Finger12
+    100072: Bip001 R Finger2
+    100074: Bip001 R Finger21
+    100076: Bip001 R Finger22
+    100078: Bip001 R Finger3
+    100080: Bip001 R Finger31
+    100082: Bip001 R Finger32
+    100084: Bip001 R Finger4
+    100086: Bip001 R Finger41
+    100088: Bip001 R Finger42
+    100090: Bip001 R Foot
+    100092: Bip001 R Forearm
+    100094: Bip001 R Hand
+    100096: Bip001 R Thigh
+    100098: Bip001 R Toe0
+    100100: Bip001 R UpperArm
+    100102: Bip001 Spine
+    100104: Bip001 Spine1
+    100106: breast_01
+    100108: breast_02
+    100110: breast_03
+    100112: breast_04
+    100114: breast_05
+    100116: breast_06
+    100118: cloth
+    100120: face
+    100122: hair
+    100124: hair_01
+    100126: hair_02
+    100128: hair_03
+    100130: hair_04
+    100132: hair_05
+    100134: hair_06
+    100136: hair_07
+    100138: hair_08
+    100140: hair_09
+    100142: hair_10
+    100144: hair_11
+    100146: hair_12
+    100148: hair_13
+    100150: hair_14
+    100152: hair_15
+    100154: hair_16
+    100156: hair_17
+    100158: hair_18
+    100160: hair_19
+    100162: hair_20
+    100164: hair_21
+    100166: hair_22
+    100168: hair_23
+    100170: hair_24
+    100172: hair_25
+    100174: hair_26
+    100176: hair_27
+    100178: hair_28
+    100180: hair_29
+    100182: hair_30
+    100184: hair_31
+    100186: hair_32
+    100188: hair_33
+    100190: left_weapon
+    100192: //RootNode
+    100194: ribbon_01
+    100196: ribbon_02
+    100198: ribbon_03
+    100200: ribbon_04
+    100202: ribbon_05
+    100204: ribbon_06
+    100206: ribbon_07
+    100208: ribbon_08
+    100210: ribbon_09
+    100212: ribbon_10
+    100214: ribbon_11
+    100216: ribbon_12
+    100218: ribbon_13
+    100220: ribbon_14
+    100222: ribbon_15
+    100224: ribbon_16
+    100226: ribbon_17
+    100228: ribbon_18
+    100230: ribbon_19
+    100232: ribbon_20
+    100234: ribbon_21
+    100236: ribbon_22
+    100238: ribbon_23
+    100240: ribbon_new_01
+    100242: ribbon_new_02
+    100244: ribbon_new_03
+    100246: ribbon_new_04
+    100248: ribbon_new_05
+    100250: ribbon_new_06
+    100252: ribbon_new_07
+    100254: ribbon_new_08
+    100256: ribbon_new_09
+    100258: ribbon_new_10
+    100260: ribbon_new_11
+    100262: ribbon_new_12
+    100264: ribbon_new_13
+    100266: ribbon_new_14
+    100268: ribbon_new_15
+    100270: ribbon_new_16
+    100272: right_weapon
+    100274: Bip001 HeadNub
+    100276: Bip001 L Finger0Nub
+    100278: Bip001 L Finger1Nub
+    100280: Bip001 L Finger2Nub
+    100282: Bip001 L Finger3Nub
+    100284: Bip001 L Finger4Nub
+    100286: Bip001 L Toe0Nub
+    100288: Bip001 R Finger0Nub
+    100290: Bip001 R Finger1Nub
+    100292: Bip001 R Finger2Nub
+    100294: Bip001 R Finger3Nub
+    100296: Bip001 R Finger4Nub
+    100298: Bip001 R Toe0Nub
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L Hand
+    400044: Bip001 L Thigh
+    400046: Bip001 L Toe0
+    400048: Bip001 L UpperArm
+    400050: Bip001 Neck
+    400052: Bip001 Pelvis
+    400054: Bip001 Prop1
+    400056: Bip001 R Calf
+    400058: Bip001 R Clavicle
+    400060: Bip001 R Finger0
+    400062: Bip001 R Finger01
+    400064: Bip001 R Finger02
+    400066: Bip001 R Finger1
+    400068: Bip001 R Finger11
+    400070: Bip001 R Finger12
+    400072: Bip001 R Finger2
+    400074: Bip001 R Finger21
+    400076: Bip001 R Finger22
+    400078: Bip001 R Finger3
+    400080: Bip001 R Finger31
+    400082: Bip001 R Finger32
+    400084: Bip001 R Finger4
+    400086: Bip001 R Finger41
+    400088: Bip001 R Finger42
+    400090: Bip001 R Foot
+    400092: Bip001 R Forearm
+    400094: Bip001 R Hand
+    400096: Bip001 R Thigh
+    400098: Bip001 R Toe0
+    400100: Bip001 R UpperArm
+    400102: Bip001 Spine
+    400104: Bip001 Spine1
+    400106: breast_01
+    400108: breast_02
+    400110: breast_03
+    400112: breast_04
+    400114: breast_05
+    400116: breast_06
+    400118: cloth
+    400120: face
+    400122: hair
+    400124: hair_01
+    400126: hair_02
+    400128: hair_03
+    400130: hair_04
+    400132: hair_05
+    400134: hair_06
+    400136: hair_07
+    400138: hair_08
+    400140: hair_09
+    400142: hair_10
+    400144: hair_11
+    400146: hair_12
+    400148: hair_13
+    400150: hair_14
+    400152: hair_15
+    400154: hair_16
+    400156: hair_17
+    400158: hair_18
+    400160: hair_19
+    400162: hair_20
+    400164: hair_21
+    400166: hair_22
+    400168: hair_23
+    400170: hair_24
+    400172: hair_25
+    400174: hair_26
+    400176: hair_27
+    400178: hair_28
+    400180: hair_29
+    400182: hair_30
+    400184: hair_31
+    400186: hair_32
+    400188: hair_33
+    400190: left_weapon
+    400192: //RootNode
+    400194: ribbon_01
+    400196: ribbon_02
+    400198: ribbon_03
+    400200: ribbon_04
+    400202: ribbon_05
+    400204: ribbon_06
+    400206: ribbon_07
+    400208: ribbon_08
+    400210: ribbon_09
+    400212: ribbon_10
+    400214: ribbon_11
+    400216: ribbon_12
+    400218: ribbon_13
+    400220: ribbon_14
+    400222: ribbon_15
+    400224: ribbon_16
+    400226: ribbon_17
+    400228: ribbon_18
+    400230: ribbon_19
+    400232: ribbon_20
+    400234: ribbon_21
+    400236: ribbon_22
+    400238: ribbon_23
+    400240: ribbon_new_01
+    400242: ribbon_new_02
+    400244: ribbon_new_03
+    400246: ribbon_new_04
+    400248: ribbon_new_05
+    400250: ribbon_new_06
+    400252: ribbon_new_07
+    400254: ribbon_new_08
+    400256: ribbon_new_09
+    400258: ribbon_new_10
+    400260: ribbon_new_11
+    400262: ribbon_new_12
+    400264: ribbon_new_13
+    400266: ribbon_new_14
+    400268: ribbon_new_15
+    400270: ribbon_new_16
+    400272: right_weapon
+    400274: Bip001 HeadNub
+    400276: Bip001 L Finger0Nub
+    400278: Bip001 L Finger1Nub
+    400280: Bip001 L Finger2Nub
+    400282: Bip001 L Finger3Nub
+    400284: Bip001 L Finger4Nub
+    400286: Bip001 L Toe0Nub
+    400288: Bip001 R Finger0Nub
+    400290: Bip001 R Finger1Nub
+    400292: Bip001 R Finger2Nub
+    400294: Bip001 R Finger3Nub
+    400296: Bip001 R Finger4Nub
+    400298: Bip001 R Toe0Nub
+    4300000: hair
+    4300002: face
+    4300004: cloth
+    4300006: left_weapon
+    4300008: right_weapon
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cloth
+    13700002: face
+    13700004: hair
+    13700006: left_weapon
+    13700008: right_weapon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 60c6c7169febdbc41ae7ddaba4d21d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth
+    second: {fileID: 2100000, guid: 20688ffe08673114bab93ac107d8e484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_l
+    second: {fileID: 2100000, guid: 9f3d366f4501c7345b09da2049f7337d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_r
+    second: {fileID: 2100000, guid: 9f3d366f4501c7345b09da2049f7337d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: 61a4d220808d3bd4fa40cd9e53bea461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: 8442f33a485f2594790376de2407db97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lilith_body
+    second: {fileID: 2100000, guid: cc3b56ee28ab006438907dada0043030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lilith_cloth
+    second: {fileID: 2100000, guid: 9ab21f836fa673d43adce1c74320bd0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lilith_hair
+    second: {fileID: 2100000, guid: cd2514e44775f9844897bca41756bb97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 576fad1d2fecdb244a0aa59ea22f5bec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

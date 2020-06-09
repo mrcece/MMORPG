@@ -1,0 +1,2166 @@
+fileFormatVersion: 2
+guid: 47eece8216bdf9f4fa0e2191a164f9fe
+timeCreated: 1510109097
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: biped Head
+    100002: biped Spine1
+    100004: biped_bone105
+    100006: biped_bone106
+    100008: biped_bone109
+    100010: biped_bone110
+    100012: biped_bone111
+    100014: biped_bone112
+    100016: biped_bone113
+    100018: biped_bone114
+    100020: biped_bone115
+    100022: biped_bone116
+    100024: biped_bone117
+    100026: biped_bone118
+    100028: biped_bone119
+    100030: biped_bone120
+    100032: biped_bone121
+    100034: biped_bone122
+    100036: biped_bone123
+    100038: biped_bone124
+    100040: biped_bone125
+    100042: biped_bone126
+    100044: biped_bone127
+    100046: biped_bone128
+    100048: biped_bone129
+    100050: biped_bone130
+    100052: biped_bone131
+    100054: biped_bone132
+    100056: biped_bone133
+    100058: biped_bone134
+    100060: biped_bone135
+    100062: biped_bone136
+    100064: biped_bone137
+    100066: biped_bone138
+    100068: biped_bone139
+    100070: biped_bone140
+    100072: biped_bone141
+    100074: biped_bone142
+    100076: biped_bone143
+    100078: biped_bone166
+    100080: biped_bone175
+    100082: biped_bone185
+    100084: biped_bone186
+    100086: biped_bone187
+    100088: biped_bone188
+    100090: biped_bone189
+    100092: biped_bone190
+    100094: biped_bone191
+    100096: biped_bone192
+    100098: biped_bone193
+    100100: biped_bone194
+    100102: biped_bone195
+    100104: biped_bone196
+    100106: biped_bone197
+    100108: biped_bone198.
+    100110: biped_bone47
+    100112: biped_bone48
+    100114: biped_bone51
+    100116: biped_bone52
+    100118: biped_bone53
+    100120: biped_bone54
+    100122: biped_bone73
+    100124: biped_bone75
+    100126: biped_bone92
+    100128: biped_bone94
+    100130: Bone01
+    100132: Bone016
+    100134: Bone017
+    100136: Bone018
+    100138: Bone019
+    100140: Bone02
+    100142: Bone020
+    100144: Bone021
+    100146: Bone022
+    100148: Bone023
+    100150: Bone024
+    100152: Bone025
+    100154: Bone026
+    100156: Bone027
+    100158: Bone028
+    100160: Bone029
+    100162: Bone03
+    100164: Bone030
+    100166: Bone031
+    100168: Bone032
+    100170: Bone033
+    100172: Bone034
+    100174: Bone035
+    100176: Bone036
+    100178: Bone037
+    100180: Bone038
+    100182: Bone039
+    100184: Bone04
+    100186: Bone040
+    100188: Bone041
+    100190: Bone042
+    100192: Bone043
+    100194: Bone044
+    100196: Bone05
+    100198: Bone06
+    100200: Bone07
+    100202: Bone08
+    100204: Bone09
+    100206: Bone10
+    100208: Bone11
+    100210: Bone12
+    100212: Bone13
+    100214: Bone14
+    100216: Bone15
+    100218: Box01
+    100220: //RootNode
+    100222: IK Chain01
+    100224: Line01
+    100226: Line02
+    100228: Point01
+    100230: Point02
+    100232: Point03
+    100234: Point04
+    100236: Point05
+    100238: Point06
+    100240: Point07
+    100242: Point08
+    100244: Point09
+    100246: Point10
+    100248: Point100
+    100250: Point101
+    100252: Point102
+    100254: Point103
+    100256: Point104
+    100258: Point105
+    100260: Point106
+    100262: Point107
+    100264: Point108
+    100266: Point109
+    100268: Point11
+    100270: Point110
+    100272: Point111
+    100274: Point112
+    100276: Point113
+    100278: Point114
+    100280: Point115
+    100282: Point116
+    100284: Point117
+    100286: Point118
+    100288: Point119
+    100290: Point12
+    100292: Point120
+    100294: Point121
+    100296: Point122
+    100298: Point123
+    100300: Point124
+    100302: Point125
+    100304: Point126
+    100306: Point127
+    100308: Point128
+    100310: Point129
+    100312: Point13
+    100314: Point130
+    100316: Point131
+    100318: Point132
+    100320: Point133
+    100322: Point134
+    100324: Point135
+    100326: Point136
+    100328: Point137
+    100330: Point138
+    100332: Point139
+    100334: Point14
+    100336: Point140
+    100338: Point141
+    100340: Point142
+    100342: Point15
+    100344: Point17
+    100346: Point18
+    100348: Point19
+    100350: Point20
+    100352: Point21
+    100354: Point22
+    100356: Point23
+    100358: Point24
+    100360: Point25
+    100362: Point26
+    100364: Point27
+    100366: Point28
+    100368: Point29
+    100370: Point30
+    100372: Point31
+    100374: Point32
+    100376: Point33
+    100378: Point34
+    100380: Point35
+    100382: Point37
+    100384: Point38
+    100386: Point39
+    100388: Point40
+    100390: Point41
+    100392: Point43
+    100394: Point44
+    100396: Point45
+    100398: Point46
+    100400: Point47
+    100402: Point48
+    100404: Point49
+    100406: Point50
+    100408: Point51
+    100410: Point52
+    100412: Point53
+    100414: Point54
+    100416: Point55
+    100418: Point56
+    100420: Point57
+    100422: Point58
+    100424: Point59
+    100426: Point60
+    100428: Point62
+    100430: Point63
+    100432: Point64
+    100434: Point65
+    100436: Point66
+    100438: Point68
+    100440: Point69
+    100442: Point70
+    100444: Point71
+    100446: Point72
+    100448: Point73
+    100450: Point74
+    100452: Point75
+    100454: Point76
+    100456: Point77
+    100458: Point78
+    100460: Point79
+    100462: Point80
+    100464: Point81
+    100466: Point82
+    100468: Point83
+    100470: Point84
+    100472: Point86
+    100474: Point87
+    100476: Point88
+    100478: Point89
+    100480: Point90
+    100482: Point92
+    100484: Point93
+    100486: Point94
+    100488: Point95
+    100490: Point96
+    100492: Point97
+    100494: Point98
+    100496: Point99
+    400000: biped Head
+    400002: biped Spine1
+    400004: biped_bone105
+    400006: biped_bone106
+    400008: biped_bone109
+    400010: biped_bone110
+    400012: biped_bone111
+    400014: biped_bone112
+    400016: biped_bone113
+    400018: biped_bone114
+    400020: biped_bone115
+    400022: biped_bone116
+    400024: biped_bone117
+    400026: biped_bone118
+    400028: biped_bone119
+    400030: biped_bone120
+    400032: biped_bone121
+    400034: biped_bone122
+    400036: biped_bone123
+    400038: biped_bone124
+    400040: biped_bone125
+    400042: biped_bone126
+    400044: biped_bone127
+    400046: biped_bone128
+    400048: biped_bone129
+    400050: biped_bone130
+    400052: biped_bone131
+    400054: biped_bone132
+    400056: biped_bone133
+    400058: biped_bone134
+    400060: biped_bone135
+    400062: biped_bone136
+    400064: biped_bone137
+    400066: biped_bone138
+    400068: biped_bone139
+    400070: biped_bone140
+    400072: biped_bone141
+    400074: biped_bone142
+    400076: biped_bone143
+    400078: biped_bone166
+    400080: biped_bone175
+    400082: biped_bone185
+    400084: biped_bone186
+    400086: biped_bone187
+    400088: biped_bone188
+    400090: biped_bone189
+    400092: biped_bone190
+    400094: biped_bone191
+    400096: biped_bone192
+    400098: biped_bone193
+    400100: biped_bone194
+    400102: biped_bone195
+    400104: biped_bone196
+    400106: biped_bone197
+    400108: biped_bone198.
+    400110: biped_bone47
+    400112: biped_bone48
+    400114: biped_bone51
+    400116: biped_bone52
+    400118: biped_bone53
+    400120: biped_bone54
+    400122: biped_bone73
+    400124: biped_bone75
+    400126: biped_bone92
+    400128: biped_bone94
+    400130: Bone01
+    400132: Bone016
+    400134: Bone017
+    400136: Bone018
+    400138: Bone019
+    400140: Bone02
+    400142: Bone020
+    400144: Bone021
+    400146: Bone022
+    400148: Bone023
+    400150: Bone024
+    400152: Bone025
+    400154: Bone026
+    400156: Bone027
+    400158: Bone028
+    400160: Bone029
+    400162: Bone03
+    400164: Bone030
+    400166: Bone031
+    400168: Bone032
+    400170: Bone033
+    400172: Bone034
+    400174: Bone035
+    400176: Bone036
+    400178: Bone037
+    400180: Bone038
+    400182: Bone039
+    400184: Bone04
+    400186: Bone040
+    400188: Bone041
+    400190: Bone042
+    400192: Bone043
+    400194: Bone044
+    400196: Bone05
+    400198: Bone06
+    400200: Bone07
+    400202: Bone08
+    400204: Bone09
+    400206: Bone10
+    400208: Bone11
+    400210: Bone12
+    400212: Bone13
+    400214: Bone14
+    400216: Bone15
+    400218: Box01
+    400220: //RootNode
+    400222: IK Chain01
+    400224: Line01
+    400226: Line02
+    400228: Point01
+    400230: Point02
+    400232: Point03
+    400234: Point04
+    400236: Point05
+    400238: Point06
+    400240: Point07
+    400242: Point08
+    400244: Point09
+    400246: Point10
+    400248: Point100
+    400250: Point101
+    400252: Point102
+    400254: Point103
+    400256: Point104
+    400258: Point105
+    400260: Point106
+    400262: Point107
+    400264: Point108
+    400266: Point109
+    400268: Point11
+    400270: Point110
+    400272: Point111
+    400274: Point112
+    400276: Point113
+    400278: Point114
+    400280: Point115
+    400282: Point116
+    400284: Point117
+    400286: Point118
+    400288: Point119
+    400290: Point12
+    400292: Point120
+    400294: Point121
+    400296: Point122
+    400298: Point123
+    400300: Point124
+    400302: Point125
+    400304: Point126
+    400306: Point127
+    400308: Point128
+    400310: Point129
+    400312: Point13
+    400314: Point130
+    400316: Point131
+    400318: Point132
+    400320: Point133
+    400322: Point134
+    400324: Point135
+    400326: Point136
+    400328: Point137
+    400330: Point138
+    400332: Point139
+    400334: Point14
+    400336: Point140
+    400338: Point141
+    400340: Point142
+    400342: Point15
+    400344: Point17
+    400346: Point18
+    400348: Point19
+    400350: Point20
+    400352: Point21
+    400354: Point22
+    400356: Point23
+    400358: Point24
+    400360: Point25
+    400362: Point26
+    400364: Point27
+    400366: Point28
+    400368: Point29
+    400370: Point30
+    400372: Point31
+    400374: Point32
+    400376: Point33
+    400378: Point34
+    400380: Point35
+    400382: Point37
+    400384: Point38
+    400386: Point39
+    400388: Point40
+    400390: Point41
+    400392: Point43
+    400394: Point44
+    400396: Point45
+    400398: Point46
+    400400: Point47
+    400402: Point48
+    400404: Point49
+    400406: Point50
+    400408: Point51
+    400410: Point52
+    400412: Point53
+    400414: Point54
+    400416: Point55
+    400418: Point56
+    400420: Point57
+    400422: Point58
+    400424: Point59
+    400426: Point60
+    400428: Point62
+    400430: Point63
+    400432: Point64
+    400434: Point65
+    400436: Point66
+    400438: Point68
+    400440: Point69
+    400442: Point70
+    400444: Point71
+    400446: Point72
+    400448: Point73
+    400450: Point74
+    400452: Point75
+    400454: Point76
+    400456: Point77
+    400458: Point78
+    400460: Point79
+    400462: Point80
+    400464: Point81
+    400466: Point82
+    400468: Point83
+    400470: Point84
+    400472: Point86
+    400474: Point87
+    400476: Point88
+    400478: Point89
+    400480: Point90
+    400482: Point92
+    400484: Point93
+    400486: Point94
+    400488: Point95
+    400490: Point96
+    400492: Point97
+    400494: Point98
+    400496: Point99
+    7400000: hydra_idle
+    7400002: hydra_idle_turnr
+    7400004: hydra_idle_turnl
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hydra_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biped Head
+        weight: 1
+      - path: biped Head/biped_bone143
+        weight: 1
+      - path: biped Head/Bone016
+        weight: 1
+      - path: biped Head/Bone016/Bone017
+        weight: 1
+      - path: biped Head/Bone016/Bone023
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027/Bone028
+        weight: 1
+      - path: biped Head/Bone016/Bone029
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: biped Head/Bone016/Bone034
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: biped Head/Bone016/Bone040
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: biped Spine1
+        weight: 1
+      - path: biped Spine1/biped_bone94
+        weight: 1
+      - path: biped_bone47
+        weight: 1
+      - path: biped_bone47/biped_bone48
+        weight: 1
+      - path: biped_bone51
+        weight: 1
+      - path: biped_bone51/biped_bone52
+        weight: 1
+      - path: biped_bone53
+        weight: 1
+      - path: biped_bone53/biped_bone54
+        weight: 1
+      - path: biped_bone73
+        weight: 1
+      - path: biped_bone73/biped_bone123
+        weight: 1
+      - path: biped_bone75
+        weight: 1
+      - path: biped_bone75/biped_bone124
+        weight: 1
+      - path: biped_bone105
+        weight: 1
+      - path: biped_bone105/biped_bone106
+        weight: 1
+      - path: biped_bone109
+        weight: 1
+      - path: biped_bone109/biped_bone110
+        weight: 1
+      - path: biped_bone111
+        weight: 1
+      - path: biped_bone111/biped_bone112
+        weight: 1
+      - path: biped_bone113
+        weight: 1
+      - path: biped_bone113/biped_bone114
+        weight: 1
+      - path: biped_bone115
+        weight: 1
+      - path: biped_bone115/biped_bone116
+        weight: 1
+      - path: biped_bone117
+        weight: 1
+      - path: biped_bone117/biped_bone118
+        weight: 1
+      - path: biped_bone119
+        weight: 1
+      - path: biped_bone119/biped_bone120
+        weight: 1
+      - path: biped_bone121
+        weight: 1
+      - path: biped_bone121/biped_bone122
+        weight: 1
+      - path: biped_bone125
+        weight: 1
+      - path: biped_bone125/biped_bone142
+        weight: 1
+      - path: biped_bone126
+        weight: 1
+      - path: biped_bone126/biped_bone127
+        weight: 1
+      - path: biped_bone128
+        weight: 1
+      - path: biped_bone128/biped_bone129
+        weight: 1
+      - path: biped_bone130
+        weight: 1
+      - path: biped_bone130/biped_bone131
+        weight: 1
+      - path: biped_bone132
+        weight: 1
+      - path: biped_bone132/biped_bone133
+        weight: 1
+      - path: biped_bone134
+        weight: 1
+      - path: biped_bone134/biped_bone135
+        weight: 1
+      - path: biped_bone136
+        weight: 1
+      - path: biped_bone136/biped_bone137
+        weight: 1
+      - path: biped_bone138
+        weight: 1
+      - path: biped_bone138/biped_bone139
+        weight: 1
+      - path: biped_bone140
+        weight: 1
+      - path: biped_bone140/biped_bone141
+        weight: 1
+      - path: biped_bone166
+        weight: 1
+      - path: biped_bone166/biped_bone175
+        weight: 1
+      - path: biped_bone185
+        weight: 1
+      - path: biped_bone185/biped_bone186
+        weight: 1
+      - path: biped_bone187
+        weight: 1
+      - path: biped_bone187/biped_bone188
+        weight: 1
+      - path: biped_bone189
+        weight: 1
+      - path: biped_bone189/biped_bone190
+        weight: 1
+      - path: biped_bone191
+        weight: 1
+      - path: biped_bone191/biped_bone192
+        weight: 1
+      - path: biped_bone193
+        weight: 1
+      - path: biped_bone193/biped_bone194
+        weight: 1
+      - path: biped_bone195
+        weight: 1
+      - path: biped_bone195/biped_bone92
+        weight: 1
+      - path: biped_bone196
+        weight: 1
+      - path: biped_bone196/biped_bone197
+        weight: 1
+      - path: biped_bone196/biped_bone197/biped_bone198.
+        weight: 1
+      - path: Box01
+        weight: 1
+      - path: Box01/Bone01
+        weight: 1
+      - path: Box01/Bone01/Bone02
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Point52
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Point51
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Point50
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Point49
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Point48
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Point47
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Point46
+        weight: 1
+      - path: Box01/Bone01/Bone02/Point45
+        weight: 1
+      - path: Box01/Bone11
+        weight: 1
+      - path: Box01/Bone11/Bone13
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Bone12
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Point140
+        weight: 1
+      - path: Box01/Bone11/Point141
+        weight: 1
+      - path: Box01/IK Chain01
+        weight: 1
+      - path: Box01/Point04
+        weight: 1
+      - path: Box01/Point44
+        weight: 1
+      - path: Box01/Point44/Point142
+        weight: 1
+      - path: Line01
+        weight: 1
+      - path: Line02
+        weight: 1
+      - path: Point26
+        weight: 1
+      - path: Point26/Point27
+        weight: 1
+      - path: Point26/Point28
+        weight: 1
+      - path: Point26/Point28/Point29
+        weight: 1
+      - path: Point30
+        weight: 1
+      - path: Point30/Point31
+        weight: 1
+      - path: Point30/Point32
+        weight: 1
+      - path: Point30/Point32/Point33
+        weight: 1
+      - path: Point34
+        weight: 1
+      - path: Point34/Point59
+        weight: 1
+      - path: Point34/Point83
+        weight: 1
+      - path: Point34/Point83/Point01
+        weight: 1
+      - path: Point35
+        weight: 1
+      - path: Point35/Point60
+        weight: 1
+      - path: Point35/Point84
+        weight: 1
+      - path: Point35/Point84/Point02
+        weight: 1
+      - path: Point37
+        weight: 1
+      - path: Point37/Point62
+        weight: 1
+      - path: Point37/Point86
+        weight: 1
+      - path: Point37/Point86/Point03
+        weight: 1
+      - path: Point38
+        weight: 1
+      - path: Point38/Point63
+        weight: 1
+      - path: Point38/Point87
+        weight: 1
+      - path: Point38/Point87/Point08
+        weight: 1
+      - path: Point39
+        weight: 1
+      - path: Point39/Point64
+        weight: 1
+      - path: Point39/Point88
+        weight: 1
+      - path: Point39/Point88/Point07
+        weight: 1
+      - path: Point40
+        weight: 1
+      - path: Point40/Point65
+        weight: 1
+      - path: Point40/Point89
+        weight: 1
+      - path: Point40/Point89/Point06
+        weight: 1
+      - path: Point41
+        weight: 1
+      - path: Point41/Point66
+        weight: 1
+      - path: Point41/Point90
+        weight: 1
+      - path: Point41/Point90/Point05
+        weight: 1
+      - path: Point43
+        weight: 1
+      - path: Point43/Point68
+        weight: 1
+      - path: Point43/Point92
+        weight: 1
+      - path: Point43/Point92/Point15
+        weight: 1
+      - path: Point53
+        weight: 1
+      - path: Point53/Point54
+        weight: 1
+      - path: Point53/Point55
+        weight: 1
+      - path: Point53/Point55/Point119
+        weight: 1
+      - path: Point56
+        weight: 1
+      - path: Point56/Point81
+        weight: 1
+      - path: Point56/Point105
+        weight: 1
+      - path: Point56/Point105/Point23
+        weight: 1
+      - path: Point57
+        weight: 1
+      - path: Point57/Point82
+        weight: 1
+      - path: Point57/Point106
+        weight: 1
+      - path: Point57/Point106/Point24
+        weight: 1
+      - path: Point58
+        weight: 1
+      - path: Point107
+        weight: 1
+      - path: Point107/Point69
+        weight: 1
+      - path: Point107/Point93
+        weight: 1
+      - path: Point107/Point93/Point14
+        weight: 1
+      - path: Point108
+        weight: 1
+      - path: Point108/Point70
+        weight: 1
+      - path: Point108/Point94
+        weight: 1
+      - path: Point108/Point94/Point13
+        weight: 1
+      - path: Point109
+        weight: 1
+      - path: Point109/Point71
+        weight: 1
+      - path: Point109/Point95
+        weight: 1
+      - path: Point109/Point95/Point12
+        weight: 1
+      - path: Point110
+        weight: 1
+      - path: Point110/Point72
+        weight: 1
+      - path: Point110/Point96
+        weight: 1
+      - path: Point110/Point96/Point11
+        weight: 1
+      - path: Point111
+        weight: 1
+      - path: Point111/Point73
+        weight: 1
+      - path: Point111/Point97
+        weight: 1
+      - path: Point111/Point97/Point10
+        weight: 1
+      - path: Point112
+        weight: 1
+      - path: Point112/Point74
+        weight: 1
+      - path: Point112/Point98
+        weight: 1
+      - path: Point112/Point98/Point09
+        weight: 1
+      - path: Point113
+        weight: 1
+      - path: Point113/Point75
+        weight: 1
+      - path: Point113/Point99
+        weight: 1
+      - path: Point113/Point99/Point22
+        weight: 1
+      - path: Point114
+        weight: 1
+      - path: Point114/Point76
+        weight: 1
+      - path: Point114/Point100
+        weight: 1
+      - path: Point114/Point100/Point21
+        weight: 1
+      - path: Point115
+        weight: 1
+      - path: Point115/Point77
+        weight: 1
+      - path: Point115/Point101
+        weight: 1
+      - path: Point115/Point101/Point20
+        weight: 1
+      - path: Point116
+        weight: 1
+      - path: Point116/Point78
+        weight: 1
+      - path: Point116/Point102
+        weight: 1
+      - path: Point116/Point102/Point19
+        weight: 1
+      - path: Point117
+        weight: 1
+      - path: Point117/Point79
+        weight: 1
+      - path: Point117/Point103
+        weight: 1
+      - path: Point117/Point103/Point18
+        weight: 1
+      - path: Point118
+        weight: 1
+      - path: Point118/Point80
+        weight: 1
+      - path: Point118/Point104
+        weight: 1
+      - path: Point118/Point104/Point17
+        weight: 1
+      - path: Point120
+        weight: 1
+      - path: Point120/Point121
+        weight: 1
+      - path: Point120/Point122
+        weight: 1
+      - path: Point120/Point122/Point123
+        weight: 1
+      - path: Point124
+        weight: 1
+      - path: Point124/Point125
+        weight: 1
+      - path: Point124/Point126
+        weight: 1
+      - path: Point124/Point126/Point127
+        weight: 1
+      - path: Point128
+        weight: 1
+      - path: Point128/Point129
+        weight: 1
+      - path: Point128/Point130
+        weight: 1
+      - path: Point128/Point130/Point131
+        weight: 1
+      - path: Point132
+        weight: 1
+      - path: Point132/Point133
+        weight: 1
+      - path: Point132/Point134
+        weight: 1
+      - path: Point132/Point134/Point135
+        weight: 1
+      - path: Point136
+        weight: 1
+      - path: Point136/Point137
+        weight: 1
+      - path: Point136/Point138
+        weight: 1
+      - path: Point136/Point138/Point139
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hydra_idle_turnr
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biped Head
+        weight: 1
+      - path: biped Head/biped_bone143
+        weight: 1
+      - path: biped Head/Bone016
+        weight: 1
+      - path: biped Head/Bone016/Bone017
+        weight: 1
+      - path: biped Head/Bone016/Bone023
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027/Bone028
+        weight: 1
+      - path: biped Head/Bone016/Bone029
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: biped Head/Bone016/Bone034
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: biped Head/Bone016/Bone040
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: biped Spine1
+        weight: 1
+      - path: biped Spine1/biped_bone94
+        weight: 1
+      - path: biped_bone47
+        weight: 1
+      - path: biped_bone47/biped_bone48
+        weight: 1
+      - path: biped_bone51
+        weight: 1
+      - path: biped_bone51/biped_bone52
+        weight: 1
+      - path: biped_bone53
+        weight: 1
+      - path: biped_bone53/biped_bone54
+        weight: 1
+      - path: biped_bone73
+        weight: 1
+      - path: biped_bone73/biped_bone123
+        weight: 1
+      - path: biped_bone75
+        weight: 1
+      - path: biped_bone75/biped_bone124
+        weight: 1
+      - path: biped_bone105
+        weight: 1
+      - path: biped_bone105/biped_bone106
+        weight: 1
+      - path: biped_bone109
+        weight: 1
+      - path: biped_bone109/biped_bone110
+        weight: 1
+      - path: biped_bone111
+        weight: 1
+      - path: biped_bone111/biped_bone112
+        weight: 1
+      - path: biped_bone113
+        weight: 1
+      - path: biped_bone113/biped_bone114
+        weight: 1
+      - path: biped_bone115
+        weight: 1
+      - path: biped_bone115/biped_bone116
+        weight: 1
+      - path: biped_bone117
+        weight: 1
+      - path: biped_bone117/biped_bone118
+        weight: 1
+      - path: biped_bone119
+        weight: 1
+      - path: biped_bone119/biped_bone120
+        weight: 1
+      - path: biped_bone121
+        weight: 1
+      - path: biped_bone121/biped_bone122
+        weight: 1
+      - path: biped_bone125
+        weight: 1
+      - path: biped_bone125/biped_bone142
+        weight: 1
+      - path: biped_bone126
+        weight: 1
+      - path: biped_bone126/biped_bone127
+        weight: 1
+      - path: biped_bone128
+        weight: 1
+      - path: biped_bone128/biped_bone129
+        weight: 1
+      - path: biped_bone130
+        weight: 1
+      - path: biped_bone130/biped_bone131
+        weight: 1
+      - path: biped_bone132
+        weight: 1
+      - path: biped_bone132/biped_bone133
+        weight: 1
+      - path: biped_bone134
+        weight: 1
+      - path: biped_bone134/biped_bone135
+        weight: 1
+      - path: biped_bone136
+        weight: 1
+      - path: biped_bone136/biped_bone137
+        weight: 1
+      - path: biped_bone138
+        weight: 1
+      - path: biped_bone138/biped_bone139
+        weight: 1
+      - path: biped_bone140
+        weight: 1
+      - path: biped_bone140/biped_bone141
+        weight: 1
+      - path: biped_bone166
+        weight: 1
+      - path: biped_bone166/biped_bone175
+        weight: 1
+      - path: biped_bone185
+        weight: 1
+      - path: biped_bone185/biped_bone186
+        weight: 1
+      - path: biped_bone187
+        weight: 1
+      - path: biped_bone187/biped_bone188
+        weight: 1
+      - path: biped_bone189
+        weight: 1
+      - path: biped_bone189/biped_bone190
+        weight: 1
+      - path: biped_bone191
+        weight: 1
+      - path: biped_bone191/biped_bone192
+        weight: 1
+      - path: biped_bone193
+        weight: 1
+      - path: biped_bone193/biped_bone194
+        weight: 1
+      - path: biped_bone195
+        weight: 1
+      - path: biped_bone195/biped_bone92
+        weight: 1
+      - path: biped_bone196
+        weight: 1
+      - path: biped_bone196/biped_bone197
+        weight: 1
+      - path: biped_bone196/biped_bone197/biped_bone198.
+        weight: 1
+      - path: Box01
+        weight: 1
+      - path: Box01/Bone01
+        weight: 1
+      - path: Box01/Bone01/Bone02
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Point52
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Point51
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Point50
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Point49
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Point48
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Point47
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Point46
+        weight: 1
+      - path: Box01/Bone01/Bone02/Point45
+        weight: 1
+      - path: Box01/Bone11
+        weight: 1
+      - path: Box01/Bone11/Bone13
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Bone12
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Point140
+        weight: 1
+      - path: Box01/Bone11/Point141
+        weight: 1
+      - path: Box01/IK Chain01
+        weight: 1
+      - path: Box01/Point04
+        weight: 1
+      - path: Box01/Point44
+        weight: 1
+      - path: Box01/Point44/Point142
+        weight: 1
+      - path: Line01
+        weight: 1
+      - path: Line02
+        weight: 1
+      - path: Point26
+        weight: 1
+      - path: Point26/Point27
+        weight: 1
+      - path: Point26/Point28
+        weight: 1
+      - path: Point26/Point28/Point29
+        weight: 1
+      - path: Point30
+        weight: 1
+      - path: Point30/Point31
+        weight: 1
+      - path: Point30/Point32
+        weight: 1
+      - path: Point30/Point32/Point33
+        weight: 1
+      - path: Point34
+        weight: 1
+      - path: Point34/Point59
+        weight: 1
+      - path: Point34/Point83
+        weight: 1
+      - path: Point34/Point83/Point01
+        weight: 1
+      - path: Point35
+        weight: 1
+      - path: Point35/Point60
+        weight: 1
+      - path: Point35/Point84
+        weight: 1
+      - path: Point35/Point84/Point02
+        weight: 1
+      - path: Point37
+        weight: 1
+      - path: Point37/Point62
+        weight: 1
+      - path: Point37/Point86
+        weight: 1
+      - path: Point37/Point86/Point03
+        weight: 1
+      - path: Point38
+        weight: 1
+      - path: Point38/Point63
+        weight: 1
+      - path: Point38/Point87
+        weight: 1
+      - path: Point38/Point87/Point08
+        weight: 1
+      - path: Point39
+        weight: 1
+      - path: Point39/Point64
+        weight: 1
+      - path: Point39/Point88
+        weight: 1
+      - path: Point39/Point88/Point07
+        weight: 1
+      - path: Point40
+        weight: 1
+      - path: Point40/Point65
+        weight: 1
+      - path: Point40/Point89
+        weight: 1
+      - path: Point40/Point89/Point06
+        weight: 1
+      - path: Point41
+        weight: 1
+      - path: Point41/Point66
+        weight: 1
+      - path: Point41/Point90
+        weight: 1
+      - path: Point41/Point90/Point05
+        weight: 1
+      - path: Point43
+        weight: 1
+      - path: Point43/Point68
+        weight: 1
+      - path: Point43/Point92
+        weight: 1
+      - path: Point43/Point92/Point15
+        weight: 1
+      - path: Point53
+        weight: 1
+      - path: Point53/Point54
+        weight: 1
+      - path: Point53/Point55
+        weight: 1
+      - path: Point53/Point55/Point119
+        weight: 1
+      - path: Point56
+        weight: 1
+      - path: Point56/Point81
+        weight: 1
+      - path: Point56/Point105
+        weight: 1
+      - path: Point56/Point105/Point23
+        weight: 1
+      - path: Point57
+        weight: 1
+      - path: Point57/Point82
+        weight: 1
+      - path: Point57/Point106
+        weight: 1
+      - path: Point57/Point106/Point24
+        weight: 1
+      - path: Point58
+        weight: 1
+      - path: Point107
+        weight: 1
+      - path: Point107/Point69
+        weight: 1
+      - path: Point107/Point93
+        weight: 1
+      - path: Point107/Point93/Point14
+        weight: 1
+      - path: Point108
+        weight: 1
+      - path: Point108/Point70
+        weight: 1
+      - path: Point108/Point94
+        weight: 1
+      - path: Point108/Point94/Point13
+        weight: 1
+      - path: Point109
+        weight: 1
+      - path: Point109/Point71
+        weight: 1
+      - path: Point109/Point95
+        weight: 1
+      - path: Point109/Point95/Point12
+        weight: 1
+      - path: Point110
+        weight: 1
+      - path: Point110/Point72
+        weight: 1
+      - path: Point110/Point96
+        weight: 1
+      - path: Point110/Point96/Point11
+        weight: 1
+      - path: Point111
+        weight: 1
+      - path: Point111/Point73
+        weight: 1
+      - path: Point111/Point97
+        weight: 1
+      - path: Point111/Point97/Point10
+        weight: 1
+      - path: Point112
+        weight: 1
+      - path: Point112/Point74
+        weight: 1
+      - path: Point112/Point98
+        weight: 1
+      - path: Point112/Point98/Point09
+        weight: 1
+      - path: Point113
+        weight: 1
+      - path: Point113/Point75
+        weight: 1
+      - path: Point113/Point99
+        weight: 1
+      - path: Point113/Point99/Point22
+        weight: 1
+      - path: Point114
+        weight: 1
+      - path: Point114/Point76
+        weight: 1
+      - path: Point114/Point100
+        weight: 1
+      - path: Point114/Point100/Point21
+        weight: 1
+      - path: Point115
+        weight: 1
+      - path: Point115/Point77
+        weight: 1
+      - path: Point115/Point101
+        weight: 1
+      - path: Point115/Point101/Point20
+        weight: 1
+      - path: Point116
+        weight: 1
+      - path: Point116/Point78
+        weight: 1
+      - path: Point116/Point102
+        weight: 1
+      - path: Point116/Point102/Point19
+        weight: 1
+      - path: Point117
+        weight: 1
+      - path: Point117/Point79
+        weight: 1
+      - path: Point117/Point103
+        weight: 1
+      - path: Point117/Point103/Point18
+        weight: 1
+      - path: Point118
+        weight: 1
+      - path: Point118/Point80
+        weight: 1
+      - path: Point118/Point104
+        weight: 1
+      - path: Point118/Point104/Point17
+        weight: 1
+      - path: Point120
+        weight: 1
+      - path: Point120/Point121
+        weight: 1
+      - path: Point120/Point122
+        weight: 1
+      - path: Point120/Point122/Point123
+        weight: 1
+      - path: Point124
+        weight: 1
+      - path: Point124/Point125
+        weight: 1
+      - path: Point124/Point126
+        weight: 1
+      - path: Point124/Point126/Point127
+        weight: 1
+      - path: Point128
+        weight: 1
+      - path: Point128/Point129
+        weight: 1
+      - path: Point128/Point130
+        weight: 1
+      - path: Point128/Point130/Point131
+        weight: 1
+      - path: Point132
+        weight: 1
+      - path: Point132/Point133
+        weight: 1
+      - path: Point132/Point134
+        weight: 1
+      - path: Point132/Point134/Point135
+        weight: 1
+      - path: Point136
+        weight: 1
+      - path: Point136/Point137
+        weight: 1
+      - path: Point136/Point138
+        weight: 1
+      - path: Point136/Point138/Point139
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hydra_idle_turnl
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biped Head
+        weight: 1
+      - path: biped Head/biped_bone143
+        weight: 1
+      - path: biped Head/Bone016
+        weight: 1
+      - path: biped Head/Bone016/Bone017
+        weight: 1
+      - path: biped Head/Bone016/Bone023
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027/Bone028
+        weight: 1
+      - path: biped Head/Bone016/Bone029
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: biped Head/Bone016/Bone034
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: biped Head/Bone016/Bone040
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: biped Spine1
+        weight: 1
+      - path: biped Spine1/biped_bone94
+        weight: 1
+      - path: biped_bone47
+        weight: 1
+      - path: biped_bone47/biped_bone48
+        weight: 1
+      - path: biped_bone51
+        weight: 1
+      - path: biped_bone51/biped_bone52
+        weight: 1
+      - path: biped_bone53
+        weight: 1
+      - path: biped_bone53/biped_bone54
+        weight: 1
+      - path: biped_bone73
+        weight: 1
+      - path: biped_bone73/biped_bone123
+        weight: 1
+      - path: biped_bone75
+        weight: 1
+      - path: biped_bone75/biped_bone124
+        weight: 1
+      - path: biped_bone105
+        weight: 1
+      - path: biped_bone105/biped_bone106
+        weight: 1
+      - path: biped_bone109
+        weight: 1
+      - path: biped_bone109/biped_bone110
+        weight: 1
+      - path: biped_bone111
+        weight: 1
+      - path: biped_bone111/biped_bone112
+        weight: 1
+      - path: biped_bone113
+        weight: 1
+      - path: biped_bone113/biped_bone114
+        weight: 1
+      - path: biped_bone115
+        weight: 1
+      - path: biped_bone115/biped_bone116
+        weight: 1
+      - path: biped_bone117
+        weight: 1
+      - path: biped_bone117/biped_bone118
+        weight: 1
+      - path: biped_bone119
+        weight: 1
+      - path: biped_bone119/biped_bone120
+        weight: 1
+      - path: biped_bone121
+        weight: 1
+      - path: biped_bone121/biped_bone122
+        weight: 1
+      - path: biped_bone125
+        weight: 1
+      - path: biped_bone125/biped_bone142
+        weight: 1
+      - path: biped_bone126
+        weight: 1
+      - path: biped_bone126/biped_bone127
+        weight: 1
+      - path: biped_bone128
+        weight: 1
+      - path: biped_bone128/biped_bone129
+        weight: 1
+      - path: biped_bone130
+        weight: 1
+      - path: biped_bone130/biped_bone131
+        weight: 1
+      - path: biped_bone132
+        weight: 1
+      - path: biped_bone132/biped_bone133
+        weight: 1
+      - path: biped_bone134
+        weight: 1
+      - path: biped_bone134/biped_bone135
+        weight: 1
+      - path: biped_bone136
+        weight: 1
+      - path: biped_bone136/biped_bone137
+        weight: 1
+      - path: biped_bone138
+        weight: 1
+      - path: biped_bone138/biped_bone139
+        weight: 1
+      - path: biped_bone140
+        weight: 1
+      - path: biped_bone140/biped_bone141
+        weight: 1
+      - path: biped_bone166
+        weight: 1
+      - path: biped_bone166/biped_bone175
+        weight: 1
+      - path: biped_bone185
+        weight: 1
+      - path: biped_bone185/biped_bone186
+        weight: 1
+      - path: biped_bone187
+        weight: 1
+      - path: biped_bone187/biped_bone188
+        weight: 1
+      - path: biped_bone189
+        weight: 1
+      - path: biped_bone189/biped_bone190
+        weight: 1
+      - path: biped_bone191
+        weight: 1
+      - path: biped_bone191/biped_bone192
+        weight: 1
+      - path: biped_bone193
+        weight: 1
+      - path: biped_bone193/biped_bone194
+        weight: 1
+      - path: biped_bone195
+        weight: 1
+      - path: biped_bone195/biped_bone92
+        weight: 1
+      - path: biped_bone196
+        weight: 1
+      - path: biped_bone196/biped_bone197
+        weight: 1
+      - path: biped_bone196/biped_bone197/biped_bone198.
+        weight: 1
+      - path: Box01
+        weight: 1
+      - path: Box01/Bone01
+        weight: 1
+      - path: Box01/Bone01/Bone02
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Point52
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Point51
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Point50
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Point49
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Point48
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Bone04/Point47
+        weight: 1
+      - path: Box01/Bone01/Bone02/Bone03/Point46
+        weight: 1
+      - path: Box01/Bone01/Bone02/Point45
+        weight: 1
+      - path: Box01/Bone11
+        weight: 1
+      - path: Box01/Bone11/Bone13
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Bone12
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Box01/Bone11/Bone13/Bone14/Point140
+        weight: 1
+      - path: Box01/Bone11/Point141
+        weight: 1
+      - path: Box01/IK Chain01
+        weight: 1
+      - path: Box01/Point04
+        weight: 1
+      - path: Box01/Point44
+        weight: 1
+      - path: Box01/Point44/Point142
+        weight: 1
+      - path: Line01
+        weight: 1
+      - path: Line02
+        weight: 1
+      - path: Point26
+        weight: 1
+      - path: Point26/Point27
+        weight: 1
+      - path: Point26/Point28
+        weight: 1
+      - path: Point26/Point28/Point29
+        weight: 1
+      - path: Point30
+        weight: 1
+      - path: Point30/Point31
+        weight: 1
+      - path: Point30/Point32
+        weight: 1
+      - path: Point30/Point32/Point33
+        weight: 1
+      - path: Point34
+        weight: 1
+      - path: Point34/Point59
+        weight: 1
+      - path: Point34/Point83
+        weight: 1
+      - path: Point34/Point83/Point01
+        weight: 1
+      - path: Point35
+        weight: 1
+      - path: Point35/Point60
+        weight: 1
+      - path: Point35/Point84
+        weight: 1
+      - path: Point35/Point84/Point02
+        weight: 1
+      - path: Point37
+        weight: 1
+      - path: Point37/Point62
+        weight: 1
+      - path: Point37/Point86
+        weight: 1
+      - path: Point37/Point86/Point03
+        weight: 1
+      - path: Point38
+        weight: 1
+      - path: Point38/Point63
+        weight: 1
+      - path: Point38/Point87
+        weight: 1
+      - path: Point38/Point87/Point08
+        weight: 1
+      - path: Point39
+        weight: 1
+      - path: Point39/Point64
+        weight: 1
+      - path: Point39/Point88
+        weight: 1
+      - path: Point39/Point88/Point07
+        weight: 1
+      - path: Point40
+        weight: 1
+      - path: Point40/Point65
+        weight: 1
+      - path: Point40/Point89
+        weight: 1
+      - path: Point40/Point89/Point06
+        weight: 1
+      - path: Point41
+        weight: 1
+      - path: Point41/Point66
+        weight: 1
+      - path: Point41/Point90
+        weight: 1
+      - path: Point41/Point90/Point05
+        weight: 1
+      - path: Point43
+        weight: 1
+      - path: Point43/Point68
+        weight: 1
+      - path: Point43/Point92
+        weight: 1
+      - path: Point43/Point92/Point15
+        weight: 1
+      - path: Point53
+        weight: 1
+      - path: Point53/Point54
+        weight: 1
+      - path: Point53/Point55
+        weight: 1
+      - path: Point53/Point55/Point119
+        weight: 1
+      - path: Point56
+        weight: 1
+      - path: Point56/Point81
+        weight: 1
+      - path: Point56/Point105
+        weight: 1
+      - path: Point56/Point105/Point23
+        weight: 1
+      - path: Point57
+        weight: 1
+      - path: Point57/Point82
+        weight: 1
+      - path: Point57/Point106
+        weight: 1
+      - path: Point57/Point106/Point24
+        weight: 1
+      - path: Point58
+        weight: 1
+      - path: Point107
+        weight: 1
+      - path: Point107/Point69
+        weight: 1
+      - path: Point107/Point93
+        weight: 1
+      - path: Point107/Point93/Point14
+        weight: 1
+      - path: Point108
+        weight: 1
+      - path: Point108/Point70
+        weight: 1
+      - path: Point108/Point94
+        weight: 1
+      - path: Point108/Point94/Point13
+        weight: 1
+      - path: Point109
+        weight: 1
+      - path: Point109/Point71
+        weight: 1
+      - path: Point109/Point95
+        weight: 1
+      - path: Point109/Point95/Point12
+        weight: 1
+      - path: Point110
+        weight: 1
+      - path: Point110/Point72
+        weight: 1
+      - path: Point110/Point96
+        weight: 1
+      - path: Point110/Point96/Point11
+        weight: 1
+      - path: Point111
+        weight: 1
+      - path: Point111/Point73
+        weight: 1
+      - path: Point111/Point97
+        weight: 1
+      - path: Point111/Point97/Point10
+        weight: 1
+      - path: Point112
+        weight: 1
+      - path: Point112/Point74
+        weight: 1
+      - path: Point112/Point98
+        weight: 1
+      - path: Point112/Point98/Point09
+        weight: 1
+      - path: Point113
+        weight: 1
+      - path: Point113/Point75
+        weight: 1
+      - path: Point113/Point99
+        weight: 1
+      - path: Point113/Point99/Point22
+        weight: 1
+      - path: Point114
+        weight: 1
+      - path: Point114/Point76
+        weight: 1
+      - path: Point114/Point100
+        weight: 1
+      - path: Point114/Point100/Point21
+        weight: 1
+      - path: Point115
+        weight: 1
+      - path: Point115/Point77
+        weight: 1
+      - path: Point115/Point101
+        weight: 1
+      - path: Point115/Point101/Point20
+        weight: 1
+      - path: Point116
+        weight: 1
+      - path: Point116/Point78
+        weight: 1
+      - path: Point116/Point102
+        weight: 1
+      - path: Point116/Point102/Point19
+        weight: 1
+      - path: Point117
+        weight: 1
+      - path: Point117/Point79
+        weight: 1
+      - path: Point117/Point103
+        weight: 1
+      - path: Point117/Point103/Point18
+        weight: 1
+      - path: Point118
+        weight: 1
+      - path: Point118/Point80
+        weight: 1
+      - path: Point118/Point104
+        weight: 1
+      - path: Point118/Point104/Point17
+        weight: 1
+      - path: Point120
+        weight: 1
+      - path: Point120/Point121
+        weight: 1
+      - path: Point120/Point122
+        weight: 1
+      - path: Point120/Point122/Point123
+        weight: 1
+      - path: Point124
+        weight: 1
+      - path: Point124/Point125
+        weight: 1
+      - path: Point124/Point126
+        weight: 1
+      - path: Point124/Point126/Point127
+        weight: 1
+      - path: Point128
+        weight: 1
+      - path: Point128/Point129
+        weight: 1
+      - path: Point128/Point130
+        weight: 1
+      - path: Point128/Point130/Point131
+        weight: 1
+      - path: Point132
+        weight: 1
+      - path: Point132/Point133
+        weight: 1
+      - path: Point132/Point134
+        weight: 1
+      - path: Point132/Point134/Point135
+        weight: 1
+      - path: Point136
+        weight: 1
+      - path: Point136/Point137
+        weight: 1
+      - path: Point136/Point138
+        weight: 1
+      - path: Point136/Point138/Point139
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f1e7e359aba00e0468f695b8c3d5c93c,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

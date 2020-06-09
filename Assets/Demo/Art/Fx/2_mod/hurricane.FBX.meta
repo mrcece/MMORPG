@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 004d148eb884cdd42b78a3f9e4582f3f
+timeCreated: 1492172709
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone02
+    100004: Bone03
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone08
+    100016: Circle01
+    100018: Circle02
+    100020: Circle03
+    100022: Circle04
+    100024: Circle05
+    100026: Circle06
+    100028: Circle07
+    100030: Dummy01
+    100032: //RootNode
+    100034: hurricane
+    100036: PcTrl01
+    100038: PcTrl02
+    100040: PcTrl03
+    100042: PcTrl04
+    100044: PcTrl05
+    100046: PcTrl06
+    100048: PcTrl07
+    100050: PcTrl08
+    100052: Point01
+    100054: Point02
+    100056: Point03
+    100058: Point04
+    100060: Point05
+    100062: Point06
+    100064: Point07
+    100066: Point08
+    400000: Bone01
+    400002: Bone02
+    400004: Bone03
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone08
+    400016: Circle01
+    400018: Circle02
+    400020: Circle03
+    400022: Circle04
+    400024: Circle05
+    400026: Circle06
+    400028: Circle07
+    400030: Dummy01
+    400032: //RootNode
+    400034: hurricane
+    400036: PcTrl01
+    400038: PcTrl02
+    400040: PcTrl03
+    400042: PcTrl04
+    400044: PcTrl05
+    400046: PcTrl06
+    400048: PcTrl07
+    400050: PcTrl08
+    400052: Point01
+    400054: Point02
+    400056: Point03
+    400058: Point04
+    400060: Point05
+    400062: Point06
+    400064: Point07
+    400066: Point08
+    2300000: Circle01
+    2300002: Circle02
+    2300004: Circle03
+    2300006: Circle04
+    2300008: Circle05
+    2300010: Circle06
+    2300012: Circle07
+    3300000: Circle01
+    3300002: Circle02
+    3300004: Circle03
+    3300006: Circle04
+    3300008: Circle05
+    3300010: Circle06
+    3300012: Circle07
+    4300000: hurricane
+    4300002: Circle01
+    4300004: Circle02
+    4300006: Circle03
+    4300008: Circle04
+    4300010: Circle05
+    4300012: Circle06
+    4300014: Circle07
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: hurricane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

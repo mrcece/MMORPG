@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 8c3fcd6117562fd478b94ab10bd570a5
+timeCreated: 1532067727
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Finger2
+    100030: Bip001 L Finger21
+    100032: Bip001 L Finger22
+    100034: Bip001 L Finger2Nub
+    100036: Bip001 L Finger3
+    100038: Bip001 L Finger31
+    100040: Bip001 L Finger32
+    100042: Bip001 L Finger3Nub
+    100044: Bip001 L Finger4
+    100046: Bip001 L Finger41
+    100048: Bip001 L Finger42
+    100050: Bip001 L Finger4Nub
+    100052: Bip001 L Foot
+    100054: Bip001 L Forearm
+    100056: Bip001 L Hand
+    100058: Bip001 L Thigh
+    100060: Bip001 L Toe0
+    100062: Bip001 L Toe0Nub
+    100064: Bip001 L UpperArm
+    100066: Bip001 Neck
+    100068: Bip001 Pelvis
+    100070: Bip001 Prop1
+    100072: Bip001 R Calf
+    100074: Bip001 R Clavicle
+    100076: Bip001 R Finger0
+    100078: Bip001 R Finger01
+    100080: Bip001 R Finger02
+    100082: Bip001 R Finger0Nub
+    100084: Bip001 R Finger1
+    100086: Bip001 R Finger11
+    100088: Bip001 R Finger12
+    100090: Bip001 R Finger1Nub
+    100092: Bip001 R Finger2
+    100094: Bip001 R Finger21
+    100096: Bip001 R Finger22
+    100098: Bip001 R Finger2Nub
+    100100: Bip001 R Finger3
+    100102: Bip001 R Finger31
+    100104: Bip001 R Finger32
+    100106: Bip001 R Finger3Nub
+    100108: Bip001 R Finger4
+    100110: Bip001 R Finger41
+    100112: Bip001 R Finger42
+    100114: Bip001 R Finger4Nub
+    100116: Bip001 R Foot
+    100118: Bip001 R Forearm
+    100120: Bip001 R Hand
+    100122: Bip001 R Thigh
+    100124: Bip001 R Toe0
+    100126: Bip001 R Toe0Nub
+    100128: Bip001 R UpperArm
+    100130: Bip001 Spine
+    100132: Bip001 Spine1
+    100134: breast_01
+    100136: breast_02
+    100138: breast_03
+    100140: breast_04
+    100142: breast_05
+    100144: breast_06
+    100146: fashi_01
+    100148: fashi_02
+    100150: fashi_03
+    100152: fashi_04
+    100154: hair_01
+    100156: hair_02
+    100158: hair_03
+    100160: hair_04
+    100162: hair_05
+    100164: hair_06
+    100166: hair_07
+    100168: hair_08
+    100170: hair_09
+    100172: hair_10
+    100174: hair_11
+    100176: hair_12
+    100178: hair_13
+    100180: hair_14
+    100182: hair_15
+    100184: hair_16
+    100186: hair_17
+    100188: hair_18
+    100190: //RootNode
+    100192: pifeng_01
+    100194: pifeng_02
+    100196: pifeng_03
+    100198: pifeng_04
+    100200: pifeng_05
+    100202: pifeng_06
+    100204: pifeng_07
+    100206: pifeng_08
+    100208: pifeng_09
+    100210: pifeng_10
+    100212: pifeng_11
+    100214: pifeng_12
+    100216: pifeng_13
+    100218: pifeng_14
+    100220: pifeng_15
+    100222: pifeng_16
+    100224: ribbon_01
+    100226: ribbon_02
+    100228: ribbon_03
+    100230: ribbon_04
+    100232: ribbon_05
+    100234: ribbon_06
+    100236: ribbon_07
+    100238: ribbon_08
+    100240: ribbon_09
+    100242: ribbon_10
+    100244: ribbon_11
+    100246: ribbon_12
+    100248: ribbon_13
+    100250: ribbon_14
+    100252: ribbon_15
+    100254: ribbon_16
+    100256: ribbon_17
+    100258: ribbon_18
+    100260: ribbon_19
+    100262: ribbon_20
+    100264: ribbon_21
+    100266: ribbon_22
+    100268: ribbon_23
+    100270: ribbon_24
+    100272: ribbon_25
+    100274: ribbon_26
+    100276: ribbon_27
+    100278: ribbon_28
+    100280: ribbon_29
+    100282: ribbon_30
+    100284: ribbon_31
+    100286: ribbon_32
+    100288: ribbon_33
+    100290: ribbon_34
+    100292: ribbon_35
+    100294: ribbon_36
+    100296: ribbon_37
+    100298: ribbon_38
+    100300: ribbon_39
+    100302: ribbon_40
+    100304: ribbon_41
+    100306: ribbon_42
+    100308: wuqi_01
+    100310: wuqi_02
+    100312: wuqi_03
+    100314: wuqi_04
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Finger2
+    400030: Bip001 L Finger21
+    400032: Bip001 L Finger22
+    400034: Bip001 L Finger2Nub
+    400036: Bip001 L Finger3
+    400038: Bip001 L Finger31
+    400040: Bip001 L Finger32
+    400042: Bip001 L Finger3Nub
+    400044: Bip001 L Finger4
+    400046: Bip001 L Finger41
+    400048: Bip001 L Finger42
+    400050: Bip001 L Finger4Nub
+    400052: Bip001 L Foot
+    400054: Bip001 L Forearm
+    400056: Bip001 L Hand
+    400058: Bip001 L Thigh
+    400060: Bip001 L Toe0
+    400062: Bip001 L Toe0Nub
+    400064: Bip001 L UpperArm
+    400066: Bip001 Neck
+    400068: Bip001 Pelvis
+    400070: Bip001 Prop1
+    400072: Bip001 R Calf
+    400074: Bip001 R Clavicle
+    400076: Bip001 R Finger0
+    400078: Bip001 R Finger01
+    400080: Bip001 R Finger02
+    400082: Bip001 R Finger0Nub
+    400084: Bip001 R Finger1
+    400086: Bip001 R Finger11
+    400088: Bip001 R Finger12
+    400090: Bip001 R Finger1Nub
+    400092: Bip001 R Finger2
+    400094: Bip001 R Finger21
+    400096: Bip001 R Finger22
+    400098: Bip001 R Finger2Nub
+    400100: Bip001 R Finger3
+    400102: Bip001 R Finger31
+    400104: Bip001 R Finger32
+    400106: Bip001 R Finger3Nub
+    400108: Bip001 R Finger4
+    400110: Bip001 R Finger41
+    400112: Bip001 R Finger42
+    400114: Bip001 R Finger4Nub
+    400116: Bip001 R Foot
+    400118: Bip001 R Forearm
+    400120: Bip001 R Hand
+    400122: Bip001 R Thigh
+    400124: Bip001 R Toe0
+    400126: Bip001 R Toe0Nub
+    400128: Bip001 R UpperArm
+    400130: Bip001 Spine
+    400132: Bip001 Spine1
+    400134: breast_01
+    400136: breast_02
+    400138: breast_03
+    400140: breast_04
+    400142: breast_05
+    400144: breast_06
+    400146: fashi_01
+    400148: fashi_02
+    400150: fashi_03
+    400152: fashi_04
+    400154: hair_01
+    400156: hair_02
+    400158: hair_03
+    400160: hair_04
+    400162: hair_05
+    400164: hair_06
+    400166: hair_07
+    400168: hair_08
+    400170: hair_09
+    400172: hair_10
+    400174: hair_11
+    400176: hair_12
+    400178: hair_13
+    400180: hair_14
+    400182: hair_15
+    400184: hair_16
+    400186: hair_17
+    400188: hair_18
+    400190: //RootNode
+    400192: pifeng_01
+    400194: pifeng_02
+    400196: pifeng_03
+    400198: pifeng_04
+    400200: pifeng_05
+    400202: pifeng_06
+    400204: pifeng_07
+    400206: pifeng_08
+    400208: pifeng_09
+    400210: pifeng_10
+    400212: pifeng_11
+    400214: pifeng_12
+    400216: pifeng_13
+    400218: pifeng_14
+    400220: pifeng_15
+    400222: pifeng_16
+    400224: ribbon_01
+    400226: ribbon_02
+    400228: ribbon_03
+    400230: ribbon_04
+    400232: ribbon_05
+    400234: ribbon_06
+    400236: ribbon_07
+    400238: ribbon_08
+    400240: ribbon_09
+    400242: ribbon_10
+    400244: ribbon_11
+    400246: ribbon_12
+    400248: ribbon_13
+    400250: ribbon_14
+    400252: ribbon_15
+    400254: ribbon_16
+    400256: ribbon_17
+    400258: ribbon_18
+    400260: ribbon_19
+    400262: ribbon_20
+    400264: ribbon_21
+    400266: ribbon_22
+    400268: ribbon_23
+    400270: ribbon_24
+    400272: ribbon_25
+    400274: ribbon_26
+    400276: ribbon_27
+    400278: ribbon_28
+    400280: ribbon_29
+    400282: ribbon_30
+    400284: ribbon_31
+    400286: ribbon_32
+    400288: ribbon_33
+    400290: ribbon_34
+    400292: ribbon_35
+    400294: ribbon_36
+    400296: ribbon_37
+    400298: ribbon_38
+    400300: ribbon_39
+    400302: ribbon_40
+    400304: ribbon_41
+    400306: ribbon_42
+    400308: wuqi_01
+    400310: wuqi_02
+    400312: wuqi_03
+    400314: wuqi_04
+    7400000: Mrswhite_loginpm
+    7400002: Mrswhite_feel1_2
+    7400004: Mrswhite_feel2_1
+    7400006: Mrswhite_feel3_1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mrswhite_loginpm
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ShowMouth
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4051
+        messageOptions: 0
+      - time: 0
+        functionName: ShowEyes
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4005
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mrswhite_feel1_2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ShowMouth
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4054
+        messageOptions: 0
+      - time: 0
+        functionName: ShowEyes
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4007
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mrswhite_feel2_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ShowMouth
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4056
+        messageOptions: 0
+      - time: 0
+        functionName: ShowEyes
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4001
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mrswhite_feel3_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: ShowMouth
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4059
+        messageOptions: 0
+      - time: 0
+        functionName: ShowEyes
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4001
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

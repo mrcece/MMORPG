@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 4d4557ba2d4b4154ca1b1a27a962da66
+timeCreated: 1524302061
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L Hand
+    100044: Bip001 L Thigh
+    100046: Bip001 L Toe0
+    100048: Bip001 L UpperArm
+    100050: Bip001 Neck
+    100052: Bip001 Pelvis
+    100054: Bip001 Prop1
+    100056: Bip001 Prop2
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger42
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R Hand
+    100098: Bip001 R Thigh
+    100100: Bip001 R Toe0
+    100102: Bip001 R UpperArm
+    100104: Bip001 Spine
+    100106: Bip001 Spine1
+    100108: Bone001
+    100110: Bone002
+    100112: Bone003
+    100114: Bone004
+    100116: Bone005
+    100118: Bone006
+    100120: Bone007
+    100122: Bone008
+    100124: Bone009
+    100126: Bone010
+    100128: Bone011
+    100130: Bone012
+    100132: Bone013
+    100134: Bone014
+    100136: Bone015
+    100138: Bone016
+    100140: Bone017
+    100142: Bone018
+    100144: Bone019
+    100146: Bone020
+    100148: Bone021
+    100150: Bone022
+    100152: Bone023
+    100154: Bone024
+    100156: Bone025
+    100158: Bone026
+    100160: Bone027
+    100162: Bone028
+    100164: Bone029
+    100166: Bone030
+    100168: Bone031
+    100170: Bone032
+    100172: Bone033
+    100174: Bone034
+    100176: breast_01
+    100178: breast_02
+    100180: breast_03
+    100182: breast_04
+    100184: breast_05
+    100186: breast_06
+    100188: hair_01
+    100190: hair_02
+    100192: hair_03
+    100194: hair_04
+    100196: hair_05
+    100198: hair_06
+    100200: hair_07
+    100202: hair_08
+    100204: hair_09
+    100206: hair_10
+    100208: hair_11
+    100210: hair_12
+    100212: hair_13
+    100214: hair_14
+    100216: hair_15
+    100218: hair_16
+    100220: hair_17
+    100222: hair_18
+    100224: hair_19
+    100226: hair_20
+    100228: hair_21
+    100230: hair_22
+    100232: hair_23
+    100234: hair_24
+    100236: hair_25
+    100238: hair_26
+    100240: hair_27
+    100242: hair_28
+    100244: hair_29
+    100246: hair_30
+    100248: //RootNode
+    100250: weapon_01
+    100252: weapon_02
+    100254: weapon_03
+    100256: weapon_04
+    100258: weapon_05
+    100260: weapon_06
+    100262: weapon_07
+    100264: weapon_08
+    100266: weapon_09
+    100268: weapon_10
+    100270: weapon_11
+    100272: weapon_12
+    100274: weapon_13
+    100276: weapon_14
+    100278: weapon_15
+    100280: weapon_16
+    100282: weapon_17
+    100284: weapon_18
+    100286: weapon_19
+    100288: weapon_20
+    100290: weapon_21
+    100292: weapon_22
+    100294: weapon_23
+    100296: weapon_24
+    100298: weapon_25
+    100300: weapon_26
+    100302: weapon_27
+    100304: weapon_28
+    100306: weapon_29
+    100308: weapon_30
+    100310: weapon_31
+    100312: weapon_32
+    100314: weapon_33
+    100316: weapon_34
+    100318: weapon_35
+    100320: weapon_36
+    100322: weapon_37
+    100324: weapon_38
+    100326: weapon_39
+    100328: weapon_40
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L Hand
+    400044: Bip001 L Thigh
+    400046: Bip001 L Toe0
+    400048: Bip001 L UpperArm
+    400050: Bip001 Neck
+    400052: Bip001 Pelvis
+    400054: Bip001 Prop1
+    400056: Bip001 Prop2
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger42
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R Hand
+    400098: Bip001 R Thigh
+    400100: Bip001 R Toe0
+    400102: Bip001 R UpperArm
+    400104: Bip001 Spine
+    400106: Bip001 Spine1
+    400108: Bone001
+    400110: Bone002
+    400112: Bone003
+    400114: Bone004
+    400116: Bone005
+    400118: Bone006
+    400120: Bone007
+    400122: Bone008
+    400124: Bone009
+    400126: Bone010
+    400128: Bone011
+    400130: Bone012
+    400132: Bone013
+    400134: Bone014
+    400136: Bone015
+    400138: Bone016
+    400140: Bone017
+    400142: Bone018
+    400144: Bone019
+    400146: Bone020
+    400148: Bone021
+    400150: Bone022
+    400152: Bone023
+    400154: Bone024
+    400156: Bone025
+    400158: Bone026
+    400160: Bone027
+    400162: Bone028
+    400164: Bone029
+    400166: Bone030
+    400168: Bone031
+    400170: Bone032
+    400172: Bone033
+    400174: Bone034
+    400176: breast_01
+    400178: breast_02
+    400180: breast_03
+    400182: breast_04
+    400184: breast_05
+    400186: breast_06
+    400188: hair_01
+    400190: hair_02
+    400192: hair_03
+    400194: hair_04
+    400196: hair_05
+    400198: hair_06
+    400200: hair_07
+    400202: hair_08
+    400204: hair_09
+    400206: hair_10
+    400208: hair_11
+    400210: hair_12
+    400212: hair_13
+    400214: hair_14
+    400216: hair_15
+    400218: hair_16
+    400220: hair_17
+    400222: hair_18
+    400224: hair_19
+    400226: hair_20
+    400228: hair_21
+    400230: hair_22
+    400232: hair_23
+    400234: hair_24
+    400236: hair_25
+    400238: hair_26
+    400240: hair_27
+    400242: hair_28
+    400244: hair_29
+    400246: hair_30
+    400248: //RootNode
+    400250: weapon_01
+    400252: weapon_02
+    400254: weapon_03
+    400256: weapon_04
+    400258: weapon_05
+    400260: weapon_06
+    400262: weapon_07
+    400264: weapon_08
+    400266: weapon_09
+    400268: weapon_10
+    400270: weapon_11
+    400272: weapon_12
+    400274: weapon_13
+    400276: weapon_14
+    400278: weapon_15
+    400280: weapon_16
+    400282: weapon_17
+    400284: weapon_18
+    400286: weapon_19
+    400288: weapon_20
+    400290: weapon_21
+    400292: weapon_22
+    400294: weapon_23
+    400296: weapon_24
+    400298: weapon_25
+    400300: weapon_26
+    400302: weapon_27
+    400304: weapon_28
+    400306: weapon_29
+    400308: weapon_30
+    400310: weapon_31
+    400312: weapon_32
+    400314: weapon_33
+    400316: weapon_34
+    400318: weapon_35
+    400320: weapon_36
+    400322: weapon_37
+    400324: weapon_38
+    400326: weapon_39
+    400328: weapon_40
+    7400000: Princess_Fan_B_skill01A_Pre
+    7400002: Princess_Fan_B_skill01A_Atk
+    7400004: Princess_Fan_B_skill01A_End
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Princess_Fan_B_skill01A_Pre
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlaySound
+        data: 101920
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Princess_Fan_B_skill01A_Atk
+      takeName: Take 001
+      firstFrame: 17
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.33147633
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 119060
+        messageOptions: 0
+      - time: 0.57381624
+        functionName: CameraShake
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 119060
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Princess_Fan_B_skill01A_End
+      takeName: Take 001
+      firstFrame: 44
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d98ec913c314f8d43985ee2fdd252912,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 4f8fbe202df542d49908cf0574f3da54
+timeCreated: 1524139233
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger0Nub
+    100018: Bip001 L Foot
+    100020: Bip001 L Forearm
+    100022: Bip001 L Hand
+    100024: Bip001 L HorseLink
+    100026: Bip001 L Thigh
+    100028: Bip001 L Toe0
+    100030: Bip001 L Toe01
+    100032: Bip001 L Toe0Nub
+    100034: Bip001 L UpperArm
+    100036: Bip001 Neck
+    100038: Bip001 Neck1
+    100040: Bip001 Neck2
+    100042: Bip001 Pelvis
+    100044: Bip001 R Calf
+    100046: Bip001 R Clavicle
+    100048: Bip001 R Finger0
+    100050: Bip001 R Finger01
+    100052: Bip001 R Finger0Nub
+    100054: Bip001 R Foot
+    100056: Bip001 R Forearm
+    100058: Bip001 R Hand
+    100060: Bip001 R HorseLink
+    100062: Bip001 R Thigh
+    100064: Bip001 R Toe0
+    100066: Bip001 R Toe01
+    100068: Bip001 R Toe0Nub
+    100070: Bip001 R UpperArm
+    100072: Bip001 Spine
+    100074: Bip001 Spine1
+    100076: Bip001 Spine2
+    100078: Particle View 01
+    100080: Particle View 01 1
+    100082: Particle View 01 2
+    100084: xieshi_ear_01
+    100086: xieshi_ear_02
+    100088: xieshi_ear_03
+    100090: xieshi_ear_04
+    100092: xieshi_ear_05
+    100094: xieshi_ear_06
+    100096: xieshi_ear_07
+    100098: xieshi_ear_08
+    100100: xieshi_hair_01
+    100102: xieshi_hair_02
+    100104: xieshi_hair_03
+    100106: xieshi_hair_04
+    100108: xieshi_hair_05
+    100110: xieshi_hair_06
+    100112: xieshi_hair_07
+    100114: xieshi_hair_08
+    100116: xieshi_hair_09
+    100118: xieshi_hair_10
+    100120: xieshi_hair_11
+    100122: xieshi_hair_12
+    100124: xieshi_hair_13
+    100126: xieshi_hair_14
+    100128: xieshi_hair_15
+    100130: xieshi_hair_16
+    100132: xieshi_hair_17
+    100134: xieshi_hair_18
+    100136: xieshi_hair_19
+    100138: xieshi_hair_20
+    100140: xieshi_hair_21
+    100142: xieshi_hair_22
+    100144: xieshi_hair_23
+    100146: xieshi_hair_24
+    100148: xieshi_hair_25
+    100150: xieshi_hair_26
+    100152: xieshi_hair_27
+    100154: xieshi_hair_28
+    100156: xieshi_hair_29
+    100158: xieshi_mouth_01
+    100160: xieshi_mouth_02
+    100162: xieshi_piaodai_01
+    100164: xieshi_piaodai_02
+    100166: xieshi_piaodai_03
+    100168: xieshi_piaodai_04
+    100170: xieshi_piaodai_05
+    100172: xieshi_piaodai_06
+    100174: xieshi_piaodai_07
+    100176: xieshi_piaodai_08
+    100178: xiezhi
+    100180: xiezhi_tail_01
+    100182: xiezhi_tail_02
+    100184: xiezhi_tail_03
+    100186: xiezhi_tail_04
+    100188: xiezhi_tail_05
+    100190: xiezhi_tail_06
+    100192: xiezhi_tail_07
+    100194: xiezhi_tail_08
+    100196: xiezhi_tail_09
+    100198: xiezhi_tail_10
+    100200: xiezhi_tail_11
+    100202: xiezhi_tail_12
+    100204: xiezhi_tail_13
+    100206: xiezhi_tail_14
+    100208: xiezhi_tail_15
+    100210: xiezhi_tail_16
+    100212: xiezhi_tail_17
+    100214: xiezhi_tail_18
+    100216: xiezhi_tail_19
+    100218: xiezhi_tail_20
+    100220: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger0Nub
+    400018: Bip001 L Foot
+    400020: Bip001 L Forearm
+    400022: Bip001 L Hand
+    400024: Bip001 L HorseLink
+    400026: Bip001 L Thigh
+    400028: Bip001 L Toe0
+    400030: Bip001 L Toe01
+    400032: Bip001 L Toe0Nub
+    400034: Bip001 L UpperArm
+    400036: Bip001 Neck
+    400038: Bip001 Neck1
+    400040: Bip001 Neck2
+    400042: Bip001 Pelvis
+    400044: Bip001 R Calf
+    400046: Bip001 R Clavicle
+    400048: Bip001 R Finger0
+    400050: Bip001 R Finger01
+    400052: Bip001 R Finger0Nub
+    400054: Bip001 R Foot
+    400056: Bip001 R Forearm
+    400058: Bip001 R Hand
+    400060: Bip001 R HorseLink
+    400062: Bip001 R Thigh
+    400064: Bip001 R Toe0
+    400066: Bip001 R Toe01
+    400068: Bip001 R Toe0Nub
+    400070: Bip001 R UpperArm
+    400072: Bip001 Spine
+    400074: Bip001 Spine1
+    400076: Bip001 Spine2
+    400078: Particle View 01
+    400080: Particle View 01 1
+    400082: Particle View 01 2
+    400084: xieshi_ear_01
+    400086: xieshi_ear_02
+    400088: xieshi_ear_03
+    400090: xieshi_ear_04
+    400092: xieshi_ear_05
+    400094: xieshi_ear_06
+    400096: xieshi_ear_07
+    400098: xieshi_ear_08
+    400100: xieshi_hair_01
+    400102: xieshi_hair_02
+    400104: xieshi_hair_03
+    400106: xieshi_hair_04
+    400108: xieshi_hair_05
+    400110: xieshi_hair_06
+    400112: xieshi_hair_07
+    400114: xieshi_hair_08
+    400116: xieshi_hair_09
+    400118: xieshi_hair_10
+    400120: xieshi_hair_11
+    400122: xieshi_hair_12
+    400124: xieshi_hair_13
+    400126: xieshi_hair_14
+    400128: xieshi_hair_15
+    400130: xieshi_hair_16
+    400132: xieshi_hair_17
+    400134: xieshi_hair_18
+    400136: xieshi_hair_19
+    400138: xieshi_hair_20
+    400140: xieshi_hair_21
+    400142: xieshi_hair_22
+    400144: xieshi_hair_23
+    400146: xieshi_hair_24
+    400148: xieshi_hair_25
+    400150: xieshi_hair_26
+    400152: xieshi_hair_27
+    400154: xieshi_hair_28
+    400156: xieshi_hair_29
+    400158: xieshi_mouth_01
+    400160: xieshi_mouth_02
+    400162: xieshi_piaodai_01
+    400164: xieshi_piaodai_02
+    400166: xieshi_piaodai_03
+    400168: xieshi_piaodai_04
+    400170: xieshi_piaodai_05
+    400172: xieshi_piaodai_06
+    400174: xieshi_piaodai_07
+    400176: xieshi_piaodai_08
+    400178: xiezhi
+    400180: xiezhi_tail_01
+    400182: xiezhi_tail_02
+    400184: xiezhi_tail_03
+    400186: xiezhi_tail_04
+    400188: xiezhi_tail_05
+    400190: xiezhi_tail_06
+    400192: xiezhi_tail_07
+    400194: xiezhi_tail_08
+    400196: xiezhi_tail_09
+    400198: xiezhi_tail_10
+    400200: xiezhi_tail_11
+    400202: xiezhi_tail_12
+    400204: xiezhi_tail_13
+    400206: xiezhi_tail_14
+    400208: xiezhi_tail_15
+    400210: xiezhi_tail_16
+    400212: xiezhi_tail_17
+    400214: xiezhi_tail_18
+    400216: xiezhi_tail_19
+    400218: xiezhi_tail_20
+    400220: //RootNode
+    4300000: xiezhi
+    7400000: xiezhi_turnright
+    9500000: //RootNode
+    13700000: xiezhi
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiezhi
+    second: {fileID: 2100000, guid: c5bf6b85deafea040bd8b8c83b0dcb8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: xiezhi_turnright
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6559508
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

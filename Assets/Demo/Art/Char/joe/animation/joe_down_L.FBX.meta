@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: d12ac0cf8dcb9ea44990f497b742afbd
+timeCreated: 1525346604
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L ForeTwist
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L UpperArm
+    100052: Bip001 Neck
+    100054: Bip001 Pelvis
+    100056: Bip001 Prop1
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger42
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R ForeTwist
+    100098: Bip001 R Hand
+    100100: Bip001 R Thigh
+    100102: Bip001 R Toe0
+    100104: Bip001 R UpperArm
+    100106: Bip001 Spine
+    100108: Bip001 Spine1
+    100110: Bip001 Spine2
+    100112: Joe_Cloak_00
+    100114: Joe_Cloak_01
+    100116: Joe_Cloak_02
+    100118: Joe_Cloak_03
+    100120: Joe_Cloak_04
+    100122: Joe_Cloak_05
+    100124: Joe_Cloak_06
+    100126: Joe_Cloak_07
+    100128: Joe_Cloak_08
+    100130: Joe_Cloak_09
+    100132: Joe_Cloak_10
+    100134: Joe_Cloak_11
+    100136: Joe_Cloak_12
+    100138: Joe_Cloak_13
+    100140: Joe_Cloak_14
+    100142: Joe_Cloak_15
+    100144: Joe_Cloak_end
+    100146: Joe_Cloak_end 1
+    100148: Joe_Cloak_end01
+    100150: Joe_Cloak_end02
+    100152: //RootNode
+    100154: Joe_Hair_00
+    100156: Joe_Hair_01
+    100158: Joe_Hair_end
+    100160: Joe_Pelvis_00
+    100162: Joe_Pelvis_01
+    100164: Joe_Pelvis_02
+    100166: Joe_Pelvis_03
+    100168: Joe_Pelvis_04
+    100170: Joe_Pelvis_05
+    100172: Joe_Pelvis_06
+    100174: Joe_Pelvis_07
+    100176: Joe_Pelvis_end00
+    100178: Joe_Pelvis_end01
+    100180: Joe_Pelvis_end02
+    100182: Joe_Pelvis_end03
+    100184: Joe_spine_00
+    100186: Joe_spine_01
+    100188: Joe_spine_02
+    100190: Joe_spine_03
+    100192: Joe_spine_04
+    100194: Joe_spine_05
+    100196: Joe_spine_06
+    100198: Joe_spine_07
+    100200: Joe_spine_08
+    100202: Joe_spine_end
+    100204: Joe_spine_end01
+    100206: Joe_spine_end02
+    100208: Joe_spine_end03
+    100210: Joe_Thigh_01
+    100212: Joe_Thigh_02
+    100214: Joe_Thigh_end
+    100216: Joe_Thigh_end01
+    100218: 'Joe_waist_01 '
+    100220: Joe_waist_02
+    100222: Joe_waist_end
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L ForeTwist
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L UpperArm
+    400052: Bip001 Neck
+    400054: Bip001 Pelvis
+    400056: Bip001 Prop1
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger42
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R ForeTwist
+    400098: Bip001 R Hand
+    400100: Bip001 R Thigh
+    400102: Bip001 R Toe0
+    400104: Bip001 R UpperArm
+    400106: Bip001 Spine
+    400108: Bip001 Spine1
+    400110: Bip001 Spine2
+    400112: Joe_Cloak_00
+    400114: Joe_Cloak_01
+    400116: Joe_Cloak_02
+    400118: Joe_Cloak_03
+    400120: Joe_Cloak_04
+    400122: Joe_Cloak_05
+    400124: Joe_Cloak_06
+    400126: Joe_Cloak_07
+    400128: Joe_Cloak_08
+    400130: Joe_Cloak_09
+    400132: Joe_Cloak_10
+    400134: Joe_Cloak_11
+    400136: Joe_Cloak_12
+    400138: Joe_Cloak_13
+    400140: Joe_Cloak_14
+    400142: Joe_Cloak_15
+    400144: Joe_Cloak_end
+    400146: Joe_Cloak_end 1
+    400148: Joe_Cloak_end01
+    400150: Joe_Cloak_end02
+    400152: //RootNode
+    400154: Joe_Hair_00
+    400156: Joe_Hair_01
+    400158: Joe_Hair_end
+    400160: Joe_Pelvis_00
+    400162: Joe_Pelvis_01
+    400164: Joe_Pelvis_02
+    400166: Joe_Pelvis_03
+    400168: Joe_Pelvis_04
+    400170: Joe_Pelvis_05
+    400172: Joe_Pelvis_06
+    400174: Joe_Pelvis_07
+    400176: Joe_Pelvis_end00
+    400178: Joe_Pelvis_end01
+    400180: Joe_Pelvis_end02
+    400182: Joe_Pelvis_end03
+    400184: Joe_spine_00
+    400186: Joe_spine_01
+    400188: Joe_spine_02
+    400190: Joe_spine_03
+    400192: Joe_spine_04
+    400194: Joe_spine_05
+    400196: Joe_spine_06
+    400198: Joe_spine_07
+    400200: Joe_spine_08
+    400202: Joe_spine_end
+    400204: Joe_spine_end01
+    400206: Joe_spine_end02
+    400208: Joe_spine_end03
+    400210: Joe_Thigh_01
+    400212: Joe_Thigh_02
+    400214: Joe_Thigh_end
+    400216: Joe_Thigh_end01
+    400218: 'Joe_waist_01 '
+    400220: Joe_waist_02
+    400222: Joe_waist_end
+    7400000: joe_down_L_Pre
+    7400002: joe_down_L_End
+    7400004: joe_down_L_dead
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: joe_down_L_Pre
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: joe_down_L_End
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: joe_down_L_dead
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

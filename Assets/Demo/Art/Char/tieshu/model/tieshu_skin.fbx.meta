@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: a129581fa48893b479d58e01df6f175c
+timeCreated: 1490260695
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Foot
+    100034: Bip001 L Forearm
+    100036: Bip001 L Hand
+    100038: Bip001 L Thigh
+    100040: Bip001 L Toe0
+    100042: Bip001 L Toe01
+    100044: Bip001 L Toe02
+    100046: Bip001 L Toe1
+    100048: Bip001 L Toe11
+    100050: Bip001 L Toe12
+    100052: Bip001 L Toe2
+    100054: Bip001 L Toe21
+    100056: Bip001 L Toe22
+    100058: Bip001 L UpperArm
+    100060: Bip001 Neck
+    100062: Bip001 Pelvis
+    100064: Bip001 R Calf
+    100066: Bip001 R Clavicle
+    100068: Bip001 R Finger0
+    100070: Bip001 R Finger01
+    100072: Bip001 R Finger02
+    100074: Bip001 R Finger1
+    100076: Bip001 R Finger11
+    100078: Bip001 R Finger12
+    100080: Bip001 R Finger2
+    100082: Bip001 R Finger21
+    100084: Bip001 R Finger22
+    100086: Bip001 R Finger3
+    100088: Bip001 R Finger31
+    100090: Bip001 R Finger32
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R Hand
+    100098: Bip001 R Thigh
+    100100: Bip001 R Toe0
+    100102: Bip001 R Toe01
+    100104: Bip001 R Toe02
+    100106: Bip001 R Toe1
+    100108: Bip001 R Toe11
+    100110: Bip001 R Toe12
+    100112: Bip001 R Toe2
+    100114: Bip001 R Toe21
+    100116: Bip001 R Toe22
+    100118: Bip001 R UpperArm
+    100120: Bip001 Spine
+    100122: Bip001 Spine1
+    100124: tieshu
+    100126: Tieshu_ear_01
+    100128: Tieshu_ear_02
+    100130: Tieshu_ear_03
+    100132: Tieshu_ear_04
+    100134: Tieshu_ear_05
+    100136: Tieshu_ear_06
+    100138: Tieshu_hair_01
+    100140: Tieshu_hair_010
+    100142: Tieshu_hair_011
+    100144: Tieshu_hair_012
+    100146: Tieshu_hair_013
+    100148: Tieshu_hair_014
+    100150: Tieshu_hair_015
+    100152: Tieshu_hair_016
+    100154: Tieshu_hair_017
+    100156: Tieshu_hair_018
+    100158: Tieshu_hair_019
+    100160: Tieshu_hair_02
+    100162: Tieshu_hair_020
+    100164: Tieshu_hair_021
+    100166: Tieshu_hair_022
+    100168: Tieshu_hair_023
+    100170: Tieshu_hair_024
+    100172: Tieshu_hair_025
+    100174: Tieshu_hair_026
+    100176: Tieshu_hair_027
+    100178: Tieshu_hair_028
+    100180: Tieshu_hair_029
+    100182: Tieshu_hair_03
+    100184: Tieshu_hair_030
+    100186: Tieshu_hair_031
+    100188: Tieshu_hair_032
+    100190: Tieshu_hair_033
+    100192: Tieshu_hair_034
+    100194: Tieshu_hair_035
+    100196: Tieshu_hair_036
+    100198: Tieshu_hair_037
+    100200: Tieshu_hair_038
+    100202: Tieshu_hair_039
+    100204: Tieshu_hair_04
+    100206: Tieshu_hair_05
+    100208: Tieshu_hair_06
+    100210: Tieshu_hair_07
+    100212: Tieshu_hair_08
+    100214: Tieshu_hair_09
+    100216: Tieshu_mouth_01
+    100218: Tieshu_pendant_01
+    100220: Tieshu_pendant_02
+    100222: Tieshu_pendant_03
+    100224: Tieshu_pendant_04
+    100226: Tieshu_pendant_05
+    100228: Tieshu_pendant_06
+    100230: Tieshu_pendant_07
+    100232: //RootNode
+    100234: Tieshu_tail_01
+    100236: Tieshu_tail_02
+    100238: Tieshu_tail_03
+    100240: Tieshu_tail_04
+    100242: Tieshu_tail_05
+    100244: Tieshu_tail_06
+    100246: Tieshu_tail_07
+    100248: Tieshu_tail_08
+    100250: Tieshu_tail_09
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Foot
+    400034: Bip001 L Forearm
+    400036: Bip001 L Hand
+    400038: Bip001 L Thigh
+    400040: Bip001 L Toe0
+    400042: Bip001 L Toe01
+    400044: Bip001 L Toe02
+    400046: Bip001 L Toe1
+    400048: Bip001 L Toe11
+    400050: Bip001 L Toe12
+    400052: Bip001 L Toe2
+    400054: Bip001 L Toe21
+    400056: Bip001 L Toe22
+    400058: Bip001 L UpperArm
+    400060: Bip001 Neck
+    400062: Bip001 Pelvis
+    400064: Bip001 R Calf
+    400066: Bip001 R Clavicle
+    400068: Bip001 R Finger0
+    400070: Bip001 R Finger01
+    400072: Bip001 R Finger02
+    400074: Bip001 R Finger1
+    400076: Bip001 R Finger11
+    400078: Bip001 R Finger12
+    400080: Bip001 R Finger2
+    400082: Bip001 R Finger21
+    400084: Bip001 R Finger22
+    400086: Bip001 R Finger3
+    400088: Bip001 R Finger31
+    400090: Bip001 R Finger32
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R Hand
+    400098: Bip001 R Thigh
+    400100: Bip001 R Toe0
+    400102: Bip001 R Toe01
+    400104: Bip001 R Toe02
+    400106: Bip001 R Toe1
+    400108: Bip001 R Toe11
+    400110: Bip001 R Toe12
+    400112: Bip001 R Toe2
+    400114: Bip001 R Toe21
+    400116: Bip001 R Toe22
+    400118: Bip001 R UpperArm
+    400120: Bip001 Spine
+    400122: Bip001 Spine1
+    400124: tieshu
+    400126: Tieshu_ear_01
+    400128: Tieshu_ear_02
+    400130: Tieshu_ear_03
+    400132: Tieshu_ear_04
+    400134: Tieshu_ear_05
+    400136: Tieshu_ear_06
+    400138: Tieshu_hair_01
+    400140: Tieshu_hair_010
+    400142: Tieshu_hair_011
+    400144: Tieshu_hair_012
+    400146: Tieshu_hair_013
+    400148: Tieshu_hair_014
+    400150: Tieshu_hair_015
+    400152: Tieshu_hair_016
+    400154: Tieshu_hair_017
+    400156: Tieshu_hair_018
+    400158: Tieshu_hair_019
+    400160: Tieshu_hair_02
+    400162: Tieshu_hair_020
+    400164: Tieshu_hair_021
+    400166: Tieshu_hair_022
+    400168: Tieshu_hair_023
+    400170: Tieshu_hair_024
+    400172: Tieshu_hair_025
+    400174: Tieshu_hair_026
+    400176: Tieshu_hair_027
+    400178: Tieshu_hair_028
+    400180: Tieshu_hair_029
+    400182: Tieshu_hair_03
+    400184: Tieshu_hair_030
+    400186: Tieshu_hair_031
+    400188: Tieshu_hair_032
+    400190: Tieshu_hair_033
+    400192: Tieshu_hair_034
+    400194: Tieshu_hair_035
+    400196: Tieshu_hair_036
+    400198: Tieshu_hair_037
+    400200: Tieshu_hair_038
+    400202: Tieshu_hair_039
+    400204: Tieshu_hair_04
+    400206: Tieshu_hair_05
+    400208: Tieshu_hair_06
+    400210: Tieshu_hair_07
+    400212: Tieshu_hair_08
+    400214: Tieshu_hair_09
+    400216: Tieshu_mouth_01
+    400218: Tieshu_pendant_01
+    400220: Tieshu_pendant_02
+    400222: Tieshu_pendant_03
+    400224: Tieshu_pendant_04
+    400226: Tieshu_pendant_05
+    400228: Tieshu_pendant_06
+    400230: Tieshu_pendant_07
+    400232: //RootNode
+    400234: Tieshu_tail_01
+    400236: Tieshu_tail_02
+    400238: Tieshu_tail_03
+    400240: Tieshu_tail_04
+    400242: Tieshu_tail_05
+    400244: Tieshu_tail_06
+    400246: Tieshu_tail_07
+    400248: Tieshu_tail_08
+    400250: Tieshu_tail_09
+    4300000: tieshu
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: tieshu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.312361
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

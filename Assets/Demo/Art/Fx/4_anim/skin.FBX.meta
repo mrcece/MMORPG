@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: b176c35befb7cfc47822d058d916931b
+timeCreated: 1495593923
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 70006_001_weapon
+    100002: A
+    100004: A 1
+    100006: A 2
+    100008: A 3
+    100010: A 4
+    100012: A 5
+    100014: A 6
+    100016: A 7
+    100018: A 8
+    100020: A 9
+    100022: A_Circle
+    100024: A_Rectangle
+    100026: Angry
+    100028: Angry 1
+    100030: Angry01
+    100032: Angry02
+    100034: Angry03
+    100036: Angry04
+    100038: Angry05
+    100040: Angry06
+    100042: Angry07
+    100044: Angry08
+    100046: Angry09
+    100048: Angry_Circle
+    100050: Angry_Rectangle
+    100052: biped
+    100054: biped Footsteps
+    100056: biped Head
+    100058: biped HeadNub
+    100060: biped L Calf
+    100062: biped L Clavicle
+    100064: biped L Finger0
+    100066: biped L Finger01
+    100068: biped L Finger02
+    100070: biped L Finger0Nub
+    100072: biped L Finger1
+    100074: biped L Finger11
+    100076: biped L Finger12
+    100078: biped L Finger1Nub
+    100080: biped L Finger2
+    100082: biped L Finger21
+    100084: biped L Finger22
+    100086: biped L Finger2Nub
+    100088: biped L Finger3
+    100090: biped L Finger31
+    100092: biped L Finger32
+    100094: biped L Finger3Nub
+    100096: biped L Finger4
+    100098: biped L Finger41
+    100100: biped L Finger42
+    100102: biped L Finger4Nub
+    100104: biped L Foot
+    100106: biped L Forearm
+    100108: biped L ForeTwist
+    100110: biped L ForeTwist1
+    100112: biped L Hand
+    100114: biped L Thigh
+    100116: biped L Toe0
+    100118: biped L Toe0Nub
+    100120: biped L UpperArm
+    100122: biped Neck
+    100124: biped Pelvis
+    100126: biped R Calf
+    100128: biped R Clavicle
+    100130: biped R Finger0
+    100132: biped R Finger01
+    100134: biped R Finger02
+    100136: biped R Finger0Nub
+    100138: biped R Finger1
+    100140: biped R Finger11
+    100142: biped R Finger12
+    100144: biped R Finger1Nub
+    100146: biped R Finger2
+    100148: biped R Finger21
+    100150: biped R Finger22
+    100152: biped R Finger2Nub
+    100154: biped R Finger3
+    100156: biped R Finger31
+    100158: biped R Finger32
+    100160: biped R Finger3Nub
+    100162: biped R Finger4
+    100164: biped R Finger41
+    100166: biped R Finger42
+    100168: biped R Finger4Nub
+    100170: biped R Foot
+    100172: biped R Forearm
+    100174: biped R ForeTwist
+    100176: biped R ForeTwist1
+    100178: biped R Hand
+    100180: biped R Thigh
+    100182: biped R Toe0
+    100184: biped R Toe0Nub
+    100186: biped R UpperArm
+    100188: biped Spine
+    100190: biped Spine1
+    100192: biped Spine2
+    100194: biped weapon L
+    100196: biped weapon R
+    100198: blink_L
+    100200: blink_R
+    100202: body
+    100204: bone-nub01
+    100206: bone-nub02
+    100208: bone-nub03
+    100210: bone-nub04
+    100212: bone-nub05
+    100214: bone-nub06
+    100216: bone-nub07
+    100218: bone-nub08
+    100220: bone-nub09
+    100222: bone-nub10
+    100224: bone-nub11
+    100226: bone-nub13
+    100228: bone-nub18
+    100230: bone-nub21
+    100232: bone-nub24
+    100234: bone-nub25
+    100236: bone-nub25(mirrored)
+    100238: bone-nub26
+    100240: bone-nub26(mirrored)
+    100242: bone-nub27
+    100244: bone-nub27(mirrored)
+    100246: breast_L01
+    100248: breast_L02
+    100250: breast_R01
+    100252: breast_R02
+    100254: cheek_R_control
+    100256: chin_control
+    100258: Circle
+    100260: Circle04
+    100262: E
+    100264: E 1
+    100266: E 2
+    100268: E 3
+    100270: E 4
+    100272: E 5
+    100274: E 6
+    100276: E 7
+    100278: E 8
+    100280: E 9
+    100282: E_Circle
+    100284: E_Rectangle
+    100286: elbow_repair_L
+    100288: elbow_repair_R
+    100290: eyeball_L_control
+    100292: eyeball_R_control
+    100294: eyebrow_control_L
+    100296: eyebrow_control_L 1
+    100298: eyebrow_control_R
+    100300: eyebrow_control_R 1
+    100302: eyebrows_end_L
+    100304: eyebrows_end_R
+    100306: eyebrows_start_L
+    100308: eyebrows_start_R
+    100310: eyes_control_L
+    100312: eyes_control_R
+    100314: hand
+    100316: head_cheek_L
+    100318: head_cheek_R
+    100320: head_chin
+    100322: head_eveball_L
+    100324: head_eveball_R
+    100326: head_eyebrows_end_L
+    100328: head_eyebrows_end_R
+    100330: head_eyebrows_start_L
+    100332: head_eyebrows_start_R
+    100334: head_eyelid_lower_L
+    100336: head_eyelid_lower_R
+    100338: head_eyelid_upper_L
+    100340: head_eyelid_upper_R
+    100342: head_lip_corner_L
+    100344: head_lip_corner_R
+    100346: head_lip_lower_L
+    100348: head_lip_lower_M
+    100350: head_lip_lower_R
+    100352: head_lip_upper_L
+    100354: head_lip_upper_M
+    100356: head_lip_upper_R
+    100358: head_lowerlip_control
+    100360: head_nose
+    100362: head_upperlip_control
+    100364: hips_repair_L
+    100366: hips_repair_R
+    100368: HP_hand_right_item1
+    100370: HP_LL_back_item1
+    100372: leg
+    100374: lip_corner_L_control
+    100376: lip_corner_L_control05
+    100378: lip_corner_L_control06
+    100380: lip_corner_R_control
+    100382: lip_lower_L_control
+    100384: lip_lower_M_control
+    100386: lip_lower_R_control
+    100388: lip_upper_L_control
+    100390: LL_back_item
+    100392: M
+    100394: M 1
+    100396: M 2
+    100398: M 3
+    100400: M 4
+    100402: M 5
+    100404: M 6
+    100406: M 7
+    100408: M 8
+    100410: M 9
+    100412: M_Circle
+    100414: M_Rectangle
+    100416: mouth_control
+    100418: newhead
+    100420: O
+    100422: O 1
+    100424: O 2
+    100426: O 3
+    100428: O 4
+    100430: O 5
+    100432: O 6
+    100434: O 7
+    100436: O 8
+    100438: O 9
+    100440: O_Circle
+    100442: O_Rectangle
+    100444: openmouth
+    100446: openmouth 1
+    100448: openmouth 2
+    100450: openmouth 3
+    100452: openmouth 4
+    100454: openmouth 5
+    100456: openmouth 6
+    100458: openmouth 7
+    100460: openmouth 8
+    100462: Point17
+    100464: Point18
+    100466: pout_01
+    100468: pout_01 1
+    100470: pout_01 2
+    100472: pout_01 3
+    100474: pout_01 4
+    100476: pout_01 5
+    100478: pout_01 6
+    100480: pout_01 7
+    100482: pout_02
+    100484: pout_02 1
+    100486: pout_02 2
+    100488: pout_02 3
+    100490: pout_02 4
+    100492: pout_02 5
+    100494: pout_02 6
+    100496: pout_02 7
+    100498: Rectangle
+    100500: Rectangle01
+    100502: ride_control
+    100504: shoe
+    100506: shoulder_repair_L
+    100508: shoulder_repair_R
+    100510: //RootNode
+    100512: Smile
+    100514: Smile 1
+    100516: Smile01
+    100518: Smile02
+    100520: Smile03
+    100522: Smile04
+    100524: Smile05
+    100526: Smile06
+    100528: Smile07
+    100530: Smile08
+    100532: Smile09
+    100534: Smile_Circle
+    100536: Smile_Rectangle
+    100538: Sorrow
+    100540: Sorrow 1
+    100542: Sorrow01
+    100544: Sorrow02
+    100546: Sorrow03
+    100548: Sorrow04
+    100550: Sorrow05
+    100552: Sorrow06
+    100554: Sorrow07
+    100556: Sorrow08
+    100558: Sorrow09
+    100560: Sorrow_Circle
+    100562: Sorrow_Rectangle
+    100564: V
+    100566: V 1
+    100568: V 2
+    100570: V 3
+    100572: V 4
+    100574: V 5
+    100576: V 6
+    100578: V 7
+    100580: V 8
+    100582: V 9
+    100584: V_Circle
+    100586: V_Rectangle
+    100588: "\u53E3\u578B "
+    400000: 70006_001_weapon
+    400002: A
+    400004: A 1
+    400006: A 2
+    400008: A 3
+    400010: A 4
+    400012: A 5
+    400014: A 6
+    400016: A 7
+    400018: A 8
+    400020: A 9
+    400022: A_Circle
+    400024: A_Rectangle
+    400026: Angry
+    400028: Angry 1
+    400030: Angry01
+    400032: Angry02
+    400034: Angry03
+    400036: Angry04
+    400038: Angry05
+    400040: Angry06
+    400042: Angry07
+    400044: Angry08
+    400046: Angry09
+    400048: Angry_Circle
+    400050: Angry_Rectangle
+    400052: biped
+    400054: biped Footsteps
+    400056: biped Head
+    400058: biped HeadNub
+    400060: biped L Calf
+    400062: biped L Clavicle
+    400064: biped L Finger0
+    400066: biped L Finger01
+    400068: biped L Finger02
+    400070: biped L Finger0Nub
+    400072: biped L Finger1
+    400074: biped L Finger11
+    400076: biped L Finger12
+    400078: biped L Finger1Nub
+    400080: biped L Finger2
+    400082: biped L Finger21
+    400084: biped L Finger22
+    400086: biped L Finger2Nub
+    400088: biped L Finger3
+    400090: biped L Finger31
+    400092: biped L Finger32
+    400094: biped L Finger3Nub
+    400096: biped L Finger4
+    400098: biped L Finger41
+    400100: biped L Finger42
+    400102: biped L Finger4Nub
+    400104: biped L Foot
+    400106: biped L Forearm
+    400108: biped L ForeTwist
+    400110: biped L ForeTwist1
+    400112: biped L Hand
+    400114: biped L Thigh
+    400116: biped L Toe0
+    400118: biped L Toe0Nub
+    400120: biped L UpperArm
+    400122: biped Neck
+    400124: biped Pelvis
+    400126: biped R Calf
+    400128: biped R Clavicle
+    400130: biped R Finger0
+    400132: biped R Finger01
+    400134: biped R Finger02
+    400136: biped R Finger0Nub
+    400138: biped R Finger1
+    400140: biped R Finger11
+    400142: biped R Finger12
+    400144: biped R Finger1Nub
+    400146: biped R Finger2
+    400148: biped R Finger21
+    400150: biped R Finger22
+    400152: biped R Finger2Nub
+    400154: biped R Finger3
+    400156: biped R Finger31
+    400158: biped R Finger32
+    400160: biped R Finger3Nub
+    400162: biped R Finger4
+    400164: biped R Finger41
+    400166: biped R Finger42
+    400168: biped R Finger4Nub
+    400170: biped R Foot
+    400172: biped R Forearm
+    400174: biped R ForeTwist
+    400176: biped R ForeTwist1
+    400178: biped R Hand
+    400180: biped R Thigh
+    400182: biped R Toe0
+    400184: biped R Toe0Nub
+    400186: biped R UpperArm
+    400188: biped Spine
+    400190: biped Spine1
+    400192: biped Spine2
+    400194: biped weapon L
+    400196: biped weapon R
+    400198: blink_L
+    400200: blink_R
+    400202: body
+    400204: bone-nub01
+    400206: bone-nub02
+    400208: bone-nub03
+    400210: bone-nub04
+    400212: bone-nub05
+    400214: bone-nub06
+    400216: bone-nub07
+    400218: bone-nub08
+    400220: bone-nub09
+    400222: bone-nub10
+    400224: bone-nub11
+    400226: bone-nub13
+    400228: bone-nub18
+    400230: bone-nub21
+    400232: bone-nub24
+    400234: bone-nub25
+    400236: bone-nub25(mirrored)
+    400238: bone-nub26
+    400240: bone-nub26(mirrored)
+    400242: bone-nub27
+    400244: bone-nub27(mirrored)
+    400246: breast_L01
+    400248: breast_L02
+    400250: breast_R01
+    400252: breast_R02
+    400254: cheek_R_control
+    400256: chin_control
+    400258: Circle
+    400260: Circle04
+    400262: E
+    400264: E 1
+    400266: E 2
+    400268: E 3
+    400270: E 4
+    400272: E 5
+    400274: E 6
+    400276: E 7
+    400278: E 8
+    400280: E 9
+    400282: E_Circle
+    400284: E_Rectangle
+    400286: elbow_repair_L
+    400288: elbow_repair_R
+    400290: eyeball_L_control
+    400292: eyeball_R_control
+    400294: eyebrow_control_L
+    400296: eyebrow_control_L 1
+    400298: eyebrow_control_R
+    400300: eyebrow_control_R 1
+    400302: eyebrows_end_L
+    400304: eyebrows_end_R
+    400306: eyebrows_start_L
+    400308: eyebrows_start_R
+    400310: eyes_control_L
+    400312: eyes_control_R
+    400314: hand
+    400316: head_cheek_L
+    400318: head_cheek_R
+    400320: head_chin
+    400322: head_eveball_L
+    400324: head_eveball_R
+    400326: head_eyebrows_end_L
+    400328: head_eyebrows_end_R
+    400330: head_eyebrows_start_L
+    400332: head_eyebrows_start_R
+    400334: head_eyelid_lower_L
+    400336: head_eyelid_lower_R
+    400338: head_eyelid_upper_L
+    400340: head_eyelid_upper_R
+    400342: head_lip_corner_L
+    400344: head_lip_corner_R
+    400346: head_lip_lower_L
+    400348: head_lip_lower_M
+    400350: head_lip_lower_R
+    400352: head_lip_upper_L
+    400354: head_lip_upper_M
+    400356: head_lip_upper_R
+    400358: head_lowerlip_control
+    400360: head_nose
+    400362: head_upperlip_control
+    400364: hips_repair_L
+    400366: hips_repair_R
+    400368: HP_hand_right_item1
+    400370: HP_LL_back_item1
+    400372: leg
+    400374: lip_corner_L_control
+    400376: lip_corner_L_control05
+    400378: lip_corner_L_control06
+    400380: lip_corner_R_control
+    400382: lip_lower_L_control
+    400384: lip_lower_M_control
+    400386: lip_lower_R_control
+    400388: lip_upper_L_control
+    400390: LL_back_item
+    400392: M
+    400394: M 1
+    400396: M 2
+    400398: M 3
+    400400: M 4
+    400402: M 5
+    400404: M 6
+    400406: M 7
+    400408: M 8
+    400410: M 9
+    400412: M_Circle
+    400414: M_Rectangle
+    400416: mouth_control
+    400418: newhead
+    400420: O
+    400422: O 1
+    400424: O 2
+    400426: O 3
+    400428: O 4
+    400430: O 5
+    400432: O 6
+    400434: O 7
+    400436: O 8
+    400438: O 9
+    400440: O_Circle
+    400442: O_Rectangle
+    400444: openmouth
+    400446: openmouth 1
+    400448: openmouth 2
+    400450: openmouth 3
+    400452: openmouth 4
+    400454: openmouth 5
+    400456: openmouth 6
+    400458: openmouth 7
+    400460: openmouth 8
+    400462: Point17
+    400464: Point18
+    400466: pout_01
+    400468: pout_01 1
+    400470: pout_01 2
+    400472: pout_01 3
+    400474: pout_01 4
+    400476: pout_01 5
+    400478: pout_01 6
+    400480: pout_01 7
+    400482: pout_02
+    400484: pout_02 1
+    400486: pout_02 2
+    400488: pout_02 3
+    400490: pout_02 4
+    400492: pout_02 5
+    400494: pout_02 6
+    400496: pout_02 7
+    400498: Rectangle
+    400500: Rectangle01
+    400502: ride_control
+    400504: shoe
+    400506: shoulder_repair_L
+    400508: shoulder_repair_R
+    400510: //RootNode
+    400512: Smile
+    400514: Smile 1
+    400516: Smile01
+    400518: Smile02
+    400520: Smile03
+    400522: Smile04
+    400524: Smile05
+    400526: Smile06
+    400528: Smile07
+    400530: Smile08
+    400532: Smile09
+    400534: Smile_Circle
+    400536: Smile_Rectangle
+    400538: Sorrow
+    400540: Sorrow 1
+    400542: Sorrow01
+    400544: Sorrow02
+    400546: Sorrow03
+    400548: Sorrow04
+    400550: Sorrow05
+    400552: Sorrow06
+    400554: Sorrow07
+    400556: Sorrow08
+    400558: Sorrow09
+    400560: Sorrow_Circle
+    400562: Sorrow_Rectangle
+    400564: V
+    400566: V 1
+    400568: V 2
+    400570: V 3
+    400572: V 4
+    400574: V 5
+    400576: V 6
+    400578: V 7
+    400580: V 8
+    400582: V 9
+    400584: V_Circle
+    400586: V_Rectangle
+    400588: "\u53E3\u578B "
+    2300000: 70006_001_weapon
+    2300002: HP_hand_right_item1
+    2300004: HP_LL_back_item1
+    3300000: 70006_001_weapon
+    3300002: HP_hand_right_item1
+    3300004: HP_LL_back_item1
+    4300000: body
+    4300002: leg
+    4300004: hand
+    4300006: shoe
+    4300008: newhead
+    4300010: 70006_001_weapon
+    4300012: HP_LL_back_item1
+    4300014: HP_hand_right_item1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: hand
+    13700004: leg
+    13700006: newhead
+    13700008: shoe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

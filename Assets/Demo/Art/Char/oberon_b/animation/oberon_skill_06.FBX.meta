@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 622c2a54a4833aa41b69aa2b26353165
+timeCreated: 1523589429
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L Hand
+    100044: Bip001 L Thigh
+    100046: Bip001 L Toe0
+    100048: Bip001 L UpperArm
+    100050: Bip001 Neck
+    100052: Bip001 Pelvis
+    100054: Bip001 Prop1
+    100056: Bip001 Prop2
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger42
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R Hand
+    100098: Bip001 R Thigh
+    100100: Bip001 R Toe0
+    100102: Bip001 R UpperArm
+    100104: Bip001 Spine
+    100106: Bip001 Spine1
+    100108: Bone001
+    100110: Bone002
+    100112: Bone003
+    100114: Bone004
+    100116: Bone005
+    100118: Bone006
+    100120: Bone007
+    100122: Bone008
+    100124: Bone009
+    100126: Bone010
+    100128: Bone011
+    100130: Bone012
+    100132: Bone013
+    100134: Bone014
+    100136: Bone015
+    100138: Bone016
+    100140: Bone017
+    100142: Bone018
+    100144: Bone018(mirrored)
+    100146: Bone019
+    100148: Bone019(mirrored)
+    100150: Bone020
+    100152: Bone020(mirrored)
+    100154: Bone021
+    100156: Bone022
+    100158: Bone023
+    100160: Bone024
+    100162: Bone025
+    100164: Bone025(mirrored)
+    100166: Bone026
+    100168: Bone026(mirrored)
+    100170: Bone027
+    100172: Bone027(mirrored)
+    100174: Bone028
+    100176: Bone028(mirrored)
+    100178: Bone029
+    100180: Bone029(mirrored)
+    100182: Bone030
+    100184: Bone030(mirrored)
+    100186: Bone031
+    100188: Bone031(mirrored)
+    100190: Bone032
+    100192: Bone032(mirrored)
+    100194: Bone033
+    100196: Bone033(mirrored)
+    100198: Bone034
+    100200: Bone034(mirrored)
+    100202: Bone071
+    100204: Bone071(mirrored)(mirrored)(mirrored)
+    100206: Bone072
+    100208: Bone072(mirrored)(mirrored)(mirrored)
+    100210: Bone073
+    100212: Bone073(mirrored)(mirrored)(mirrored)
+    100214: hairs00
+    100216: hairs01
+    100218: hairs02
+    100220: hairs03
+    100222: hairs04
+    100224: hairs05
+    100226: hairs06
+    100228: hairs07
+    100230: hairs08
+    100232: hairs09
+    100234: hairs10
+    100236: hairs11
+    100238: hairs12
+    100240: hairs13
+    100242: hairs14
+    100244: hairs15
+    100246: hairs16
+    100248: hairs17
+    100250: hairs18
+    100252: hairs19
+    100254: hairs20
+    100256: hairs21
+    100258: hairs22
+    100260: hairs23
+    100262: hairs24
+    100264: hairs25
+    100266: //RootNode
+    100268: wings00
+    100270: wings01
+    100272: wings02
+    100274: wings03
+    100276: wings04
+    100278: wings05
+    100280: wings06
+    100282: wings07
+    100284: wings08
+    100286: wings09
+    100288: wings10
+    100290: wings11
+    100292: wings12
+    100294: wings13
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L Hand
+    400044: Bip001 L Thigh
+    400046: Bip001 L Toe0
+    400048: Bip001 L UpperArm
+    400050: Bip001 Neck
+    400052: Bip001 Pelvis
+    400054: Bip001 Prop1
+    400056: Bip001 Prop2
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger42
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R Hand
+    400098: Bip001 R Thigh
+    400100: Bip001 R Toe0
+    400102: Bip001 R UpperArm
+    400104: Bip001 Spine
+    400106: Bip001 Spine1
+    400108: Bone001
+    400110: Bone002
+    400112: Bone003
+    400114: Bone004
+    400116: Bone005
+    400118: Bone006
+    400120: Bone007
+    400122: Bone008
+    400124: Bone009
+    400126: Bone010
+    400128: Bone011
+    400130: Bone012
+    400132: Bone013
+    400134: Bone014
+    400136: Bone015
+    400138: Bone016
+    400140: Bone017
+    400142: Bone018
+    400144: Bone018(mirrored)
+    400146: Bone019
+    400148: Bone019(mirrored)
+    400150: Bone020
+    400152: Bone020(mirrored)
+    400154: Bone021
+    400156: Bone022
+    400158: Bone023
+    400160: Bone024
+    400162: Bone025
+    400164: Bone025(mirrored)
+    400166: Bone026
+    400168: Bone026(mirrored)
+    400170: Bone027
+    400172: Bone027(mirrored)
+    400174: Bone028
+    400176: Bone028(mirrored)
+    400178: Bone029
+    400180: Bone029(mirrored)
+    400182: Bone030
+    400184: Bone030(mirrored)
+    400186: Bone031
+    400188: Bone031(mirrored)
+    400190: Bone032
+    400192: Bone032(mirrored)
+    400194: Bone033
+    400196: Bone033(mirrored)
+    400198: Bone034
+    400200: Bone034(mirrored)
+    400202: Bone071
+    400204: Bone071(mirrored)(mirrored)(mirrored)
+    400206: Bone072
+    400208: Bone072(mirrored)(mirrored)(mirrored)
+    400210: Bone073
+    400212: Bone073(mirrored)(mirrored)(mirrored)
+    400214: hairs00
+    400216: hairs01
+    400218: hairs02
+    400220: hairs03
+    400222: hairs04
+    400224: hairs05
+    400226: hairs06
+    400228: hairs07
+    400230: hairs08
+    400232: hairs09
+    400234: hairs10
+    400236: hairs11
+    400238: hairs12
+    400240: hairs13
+    400242: hairs14
+    400244: hairs15
+    400246: hairs16
+    400248: hairs17
+    400250: hairs18
+    400252: hairs19
+    400254: hairs20
+    400256: hairs21
+    400258: hairs22
+    400260: hairs23
+    400262: hairs24
+    400264: hairs25
+    400266: //RootNode
+    400268: wings00
+    400270: wings01
+    400272: wings02
+    400274: wings03
+    400276: wings04
+    400278: wings05
+    400280: wings06
+    400282: wings07
+    400284: wings08
+    400286: wings09
+    400288: wings10
+    400290: wings11
+    400292: wings12
+    400294: wings13
+    7400000: oberon_skill_06_Pre
+    7400002: oberon_skill_06_Atk
+    7400004: oberon_skill_06_End
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: oberon_skill_06_Pre
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlaySound
+        data: 1231201
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.0071301246
+        functionName: PlaySound
+        data: 202324;202324;202326
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.014260249
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 123122
+        messageOptions: 0
+      - time: 0.9108735
+        functionName: PlaySound
+        data: 1231202
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.92513365
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 123120
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: oberon_skill_06_Atk
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlaySound
+        data: 1231203
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.029411715
+        functionName: CameraShake
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 123112
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: oberon_skill_06_End
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 081b3578b2f3c9b4f9168cb98695b4a6,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

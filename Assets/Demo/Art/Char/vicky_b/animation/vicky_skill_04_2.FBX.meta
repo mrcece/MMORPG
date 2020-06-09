@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: a19d3e47e0c10d24aa11fcbde104e2d5
+timeCreated: 1529044498
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger02
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Finger12
+    100020: Bip001 L Finger2
+    100022: Bip001 L Finger21
+    100024: Bip001 L Finger22
+    100026: Bip001 L Finger3
+    100028: Bip001 L Finger31
+    100030: Bip001 L Finger32
+    100032: Bip001 L Finger4
+    100034: Bip001 L Finger41
+    100036: Bip001 L Finger42
+    100038: Bip001 L Foot
+    100040: Bip001 L Forearm
+    100042: Bip001 L ForeTwist
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L UpperArm
+    100052: Bip001 Neck
+    100054: Bip001 Pelvis
+    100056: Bip001 Prop1
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger42
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R ForeTwist
+    100098: Bip001 R Hand
+    100100: Bip001 R Thigh
+    100102: Bip001 R Toe0
+    100104: Bip001 R UpperArm
+    100106: Bip001 Spine
+    100108: Bip001 Spine1
+    100110: Bone002
+    100112: Bone002(mirrored)
+    100114: Point001
+    100116: Point002
+    100118: Point003
+    100120: Point004
+    100122: Point005
+    100124: Vicky_B_chest _L
+    100126: Vicky_B_chest _R
+    100128: Vicky_B_end00
+    100130: Vicky_B_end02
+    100132: Vicky_B_end03
+    100134: Vicky_B_end04
+    100136: Vicky_B_end05
+    100138: Vicky_B_end06
+    100140: Vicky_B_end07
+    100142: Vicky_B_end09
+    100144: Vicky_B_end_00
+    100146: Vicky_B_end_01
+    100148: Vicky_B_Hand_L
+    100150: Vicky_B_Hand_R
+    100152: Vicky_B_pifeng_00
+    100154: Vicky_B_pifeng_01
+    100156: Vicky_B_pifeng_02
+    100158: Vicky_B_pifeng_03
+    100160: Vicky_B_pifeng_04
+    100162: Vicky_B_pifeng_06
+    100164: Vicky_B_pifeng_07
+    100166: Vicky_B_pifeng_08
+    100168: Vicky_B_pifeng_09
+    100170: Vicky_B_pifeng_10
+    100172: Vicky_B_pifeng_12
+    100174: Vicky_B_pifeng_13
+    100176: Vicky_B_pifeng_14
+    100178: Vicky_B_qunbai_00
+    100180: Vicky_B_qunbai_01
+    100182: Vicky_B_qunbai_02
+    100184: Vicky_B_qunbai_03
+    100186: Vicky_B_qunbai_04
+    100188: Vicky_B_qunbai_07
+    100190: Vicky_B_qunbai_end
+    100192: Vicky_B_spine02_00
+    100194: Vicky_B_spine02_01
+    100196: Vicky_B_spine02_03
+    100198: Vicky_B_spine02_04
+    100200: Vicky_B_spine02_05
+    100202: Vicky_B_spine02_07
+    100204: Vicky_B_spine02_08
+    100206: Vicky_B_spine02_09
+    100208: Vicky_B_tielian_00
+    100210: Vicky_B_tielian_01
+    100212: Vicky_B_tielian_02
+    100214: Vicky_B_tielian_03
+    100216: Vicky_B_tielian_04
+    100218: Vicky_B_tielian_05
+    100220: Vicky_B_tielian_06
+    100222: Vicky_B_tielian_07
+    100224: Vicky_B_tielian_08
+    100226: //RootNode
+    100228: Bip001 Footsteps
+    100230: Bip001 HeadNub
+    100232: Bip001 L Finger0Nub
+    100234: Bip001 L Finger1Nub
+    100236: Bip001 L Finger2Nub
+    100238: Bip001 L Finger3Nub
+    100240: Bip001 L Finger4Nub
+    100242: Bip001 L Toe0Nub
+    100244: Bip001 R Finger0Nub
+    100246: Bip001 R Finger1Nub
+    100248: Bip001 R Finger2Nub
+    100250: Bip001 R Finger3Nub
+    100252: Bip001 R Finger4Nub
+    100254: Bip001 R Toe0Nub
+    100256: Line001
+    100258: Object05
+    100260: Object06
+    100262: Object07
+    100264: Particle View 01
+    100266: Point006
+    100268: Point007
+    100270: Point008
+    100272: Point009
+    100274: Point010
+    100276: Point011
+    100278: Point012
+    100280: Point013
+    100282: Point014
+    100284: Point015
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger02
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Finger12
+    400020: Bip001 L Finger2
+    400022: Bip001 L Finger21
+    400024: Bip001 L Finger22
+    400026: Bip001 L Finger3
+    400028: Bip001 L Finger31
+    400030: Bip001 L Finger32
+    400032: Bip001 L Finger4
+    400034: Bip001 L Finger41
+    400036: Bip001 L Finger42
+    400038: Bip001 L Foot
+    400040: Bip001 L Forearm
+    400042: Bip001 L ForeTwist
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L UpperArm
+    400052: Bip001 Neck
+    400054: Bip001 Pelvis
+    400056: Bip001 Prop1
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger42
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R ForeTwist
+    400098: Bip001 R Hand
+    400100: Bip001 R Thigh
+    400102: Bip001 R Toe0
+    400104: Bip001 R UpperArm
+    400106: Bip001 Spine
+    400108: Bip001 Spine1
+    400110: Bone002
+    400112: Bone002(mirrored)
+    400114: Point001
+    400116: Point002
+    400118: Point003
+    400120: Point004
+    400122: Point005
+    400124: Vicky_B_chest _L
+    400126: Vicky_B_chest _R
+    400128: Vicky_B_end00
+    400130: Vicky_B_end02
+    400132: Vicky_B_end03
+    400134: Vicky_B_end04
+    400136: Vicky_B_end05
+    400138: Vicky_B_end06
+    400140: Vicky_B_end07
+    400142: Vicky_B_end09
+    400144: Vicky_B_end_00
+    400146: Vicky_B_end_01
+    400148: Vicky_B_Hand_L
+    400150: Vicky_B_Hand_R
+    400152: Vicky_B_pifeng_00
+    400154: Vicky_B_pifeng_01
+    400156: Vicky_B_pifeng_02
+    400158: Vicky_B_pifeng_03
+    400160: Vicky_B_pifeng_04
+    400162: Vicky_B_pifeng_06
+    400164: Vicky_B_pifeng_07
+    400166: Vicky_B_pifeng_08
+    400168: Vicky_B_pifeng_09
+    400170: Vicky_B_pifeng_10
+    400172: Vicky_B_pifeng_12
+    400174: Vicky_B_pifeng_13
+    400176: Vicky_B_pifeng_14
+    400178: Vicky_B_qunbai_00
+    400180: Vicky_B_qunbai_01
+    400182: Vicky_B_qunbai_02
+    400184: Vicky_B_qunbai_03
+    400186: Vicky_B_qunbai_04
+    400188: Vicky_B_qunbai_07
+    400190: Vicky_B_qunbai_end
+    400192: Vicky_B_spine02_00
+    400194: Vicky_B_spine02_01
+    400196: Vicky_B_spine02_03
+    400198: Vicky_B_spine02_04
+    400200: Vicky_B_spine02_05
+    400202: Vicky_B_spine02_07
+    400204: Vicky_B_spine02_08
+    400206: Vicky_B_spine02_09
+    400208: Vicky_B_tielian_00
+    400210: Vicky_B_tielian_01
+    400212: Vicky_B_tielian_02
+    400214: Vicky_B_tielian_03
+    400216: Vicky_B_tielian_04
+    400218: Vicky_B_tielian_05
+    400220: Vicky_B_tielian_06
+    400222: Vicky_B_tielian_07
+    400224: Vicky_B_tielian_08
+    400226: //RootNode
+    400228: Bip001 Footsteps
+    400230: Bip001 HeadNub
+    400232: Bip001 L Finger0Nub
+    400234: Bip001 L Finger1Nub
+    400236: Bip001 L Finger2Nub
+    400238: Bip001 L Finger3Nub
+    400240: Bip001 L Finger4Nub
+    400242: Bip001 L Toe0Nub
+    400244: Bip001 R Finger0Nub
+    400246: Bip001 R Finger1Nub
+    400248: Bip001 R Finger2Nub
+    400250: Bip001 R Finger3Nub
+    400252: Bip001 R Finger4Nub
+    400254: Bip001 R Toe0Nub
+    400256: Line001
+    400258: Object05
+    400260: Object06
+    400262: Object07
+    400264: Particle View 01
+    400266: Point006
+    400268: Point007
+    400270: Point008
+    400272: Point009
+    400274: Point010
+    400276: Point011
+    400278: Point012
+    400280: Point013
+    400282: Point014
+    400284: Point015
+    2300000: Object05
+    2300002: Object06
+    2300004: Object07
+    3300000: Object05
+    3300002: Object06
+    3300004: Object07
+    4300000: Object05
+    4300002: Object06
+    4300004: Object07
+    7400000: vicky_skill_04_2_Atk
+    7400002: vicky_skill_04_2_End
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1571'
+    second: {fileID: 2100000, guid: 8d0bb368655501f44a739f7b77dd2e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_l
+    second: {fileID: 2100000, guid: cdd70756c0852c341981512b5bbdc03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_r
+    second: {fileID: 2100000, guid: 08bd564a2fc6dd745a5d31c4b9d72749, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: vicky_skill_04_2_Atk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 128102
+        messageOptions: 0
+      - time: 0.002797203
+        functionName: PlaySound
+        data: 102812
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.056807935
+        functionName: CameraShake
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 102808
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: vicky_skill_04_2_End
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 30d2b7fd5ec4bad4b98ea309b9b0bd0c,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

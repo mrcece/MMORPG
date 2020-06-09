@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 1eefe032233af254180249c55b072a00
+timeCreated: 1493369652
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001_frag_051
+    100002: Box001_frag_053
+    100004: Box001_frag_055
+    100006: Box001_frag_056
+    100008: Box001_frag_060
+    100010: Box001_frag_061
+    100012: Box001_frag_064
+    100014: Box001_frag_067
+    100016: Box001_frag_069
+    100018: Box001_frag_071
+    100020: Box001_frag_072
+    100022: Box001_frag_077
+    100024: Box001_frag_083
+    100026: Box001_frag_085
+    100028: Box001_frag_087
+    100030: Box001_frag_088
+    100032: Box001_frag_089
+    100034: Box001_frag_090
+    100036: Box001_frag_092
+    100038: Box001_frag_095
+    100040: Box001_frag_097
+    100042: Box001_frag_099
+    100044: //RootNode
+    400000: Box001_frag_051
+    400002: Box001_frag_053
+    400004: Box001_frag_055
+    400006: Box001_frag_056
+    400008: Box001_frag_060
+    400010: Box001_frag_061
+    400012: Box001_frag_064
+    400014: Box001_frag_067
+    400016: Box001_frag_069
+    400018: Box001_frag_071
+    400020: Box001_frag_072
+    400022: Box001_frag_077
+    400024: Box001_frag_083
+    400026: Box001_frag_085
+    400028: Box001_frag_087
+    400030: Box001_frag_088
+    400032: Box001_frag_089
+    400034: Box001_frag_090
+    400036: Box001_frag_092
+    400038: Box001_frag_095
+    400040: Box001_frag_097
+    400042: Box001_frag_099
+    400044: //RootNode
+    2300000: Box001_frag_051
+    2300002: Box001_frag_053
+    2300004: Box001_frag_055
+    2300006: Box001_frag_056
+    2300008: Box001_frag_060
+    2300010: Box001_frag_061
+    2300012: Box001_frag_064
+    2300014: Box001_frag_067
+    2300016: Box001_frag_069
+    2300018: Box001_frag_071
+    2300020: Box001_frag_072
+    2300022: Box001_frag_077
+    2300024: Box001_frag_083
+    2300026: Box001_frag_085
+    2300028: Box001_frag_087
+    2300030: Box001_frag_088
+    2300032: Box001_frag_089
+    2300034: Box001_frag_090
+    2300036: Box001_frag_092
+    2300038: Box001_frag_095
+    2300040: Box001_frag_097
+    2300042: Box001_frag_099
+    3300000: Box001_frag_051
+    3300002: Box001_frag_053
+    3300004: Box001_frag_055
+    3300006: Box001_frag_056
+    3300008: Box001_frag_060
+    3300010: Box001_frag_061
+    3300012: Box001_frag_064
+    3300014: Box001_frag_067
+    3300016: Box001_frag_069
+    3300018: Box001_frag_071
+    3300020: Box001_frag_072
+    3300022: Box001_frag_077
+    3300024: Box001_frag_083
+    3300026: Box001_frag_085
+    3300028: Box001_frag_087
+    3300030: Box001_frag_088
+    3300032: Box001_frag_089
+    3300034: Box001_frag_090
+    3300036: Box001_frag_092
+    3300038: Box001_frag_095
+    3300040: Box001_frag_097
+    3300042: Box001_frag_099
+    4300000: Box001_frag_051
+    4300002: Box001_frag_053
+    4300004: Box001_frag_055
+    4300006: Box001_frag_056
+    4300008: Box001_frag_060
+    4300010: Box001_frag_061
+    4300012: Box001_frag_064
+    4300014: Box001_frag_067
+    4300016: Box001_frag_069
+    4300018: Box001_frag_071
+    4300020: Box001_frag_072
+    4300022: Box001_frag_077
+    4300024: Box001_frag_083
+    4300026: Box001_frag_085
+    4300028: Box001_frag_087
+    4300030: Box001_frag_088
+    4300032: Box001_frag_089
+    4300034: Box001_frag_090
+    4300036: Box001_frag_092
+    4300038: Box001_frag_095
+    4300040: Box001_frag_097
+    4300042: Box001_frag_099
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

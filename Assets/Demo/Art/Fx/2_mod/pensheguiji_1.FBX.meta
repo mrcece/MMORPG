@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: ae1067ab0fe5dee4c8415f1d09b7d4dd
+timeCreated: 1503998373
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bastard
+    100002: Bip001
+    100004: Bip001 Footsteps
+    100006: Bip001 Head
+    100008: Bip001 HeadNub
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger0Nub
+    100018: Bip001 L Foot
+    100020: Bip001 L Forearm
+    100022: Bip001 L Hand
+    100024: Bip001 L Thigh
+    100026: Bip001 L Toe0
+    100028: Bip001 L Toe0Nub
+    100030: Bip001 L UpperArm
+    100032: Bip001 Neck
+    100034: Bip001 Neck1
+    100036: Bip001 Neck2
+    100038: Bip001 Pelvis
+    100040: Bip001 Ponytail1
+    100042: Bip001 Ponytail1Nub
+    100044: Bip001 R Calf
+    100046: Bip001 R Clavicle
+    100048: Bip001 R Finger0
+    100050: Bip001 R Finger0Nub
+    100052: Bip001 R Foot
+    100054: Bip001 R Forearm
+    100056: Bip001 R Hand
+    100058: Bip001 R Thigh
+    100060: Bip001 R Toe0
+    100062: Bip001 R Toe0Nub
+    100064: Bip001 R UpperArm
+    100066: Bip001 Spine
+    100068: Bip001 Spine1
+    100070: Bip001 Spine2
+    100072: Bone016
+    100074: Bone017
+    100076: Bone018
+    100078: Bone019
+    100080: Bone020
+    100082: Bone021
+    100084: Bone022
+    100086: Bone023
+    100088: Bone024
+    100090: Bone025
+    100092: Bone027
+    100094: Bone028
+    100096: Bone029
+    100098: Bone034
+    100100: Bone035
+    100102: Bone036
+    100104: Bone037
+    100106: Bone038
+    100108: Bone039
+    100110: Bone040
+    100112: Bone041
+    100114: Bone042
+    100116: Bone043
+    100118: Bone044
+    100120: Bone045
+    100122: Bone046
+    100124: Bone047
+    100126: Bone048
+    100128: Bone049
+    100130: Bone050
+    100132: Bone051
+    100134: Bone052
+    100136: Bone053
+    100138: Bone054
+    100140: Bone055
+    100142: Bone059
+    100144: Bone060
+    100146: Bone063
+    100148: Bone070
+    100150: Bone071
+    100152: Bone072
+    100154: Bone073
+    100156: Bone074
+    100158: Bone075
+    100160: Bone076
+    100162: Bone077
+    100164: Bone078
+    100166: Bone079
+    100168: Bone080
+    100170: Bone081
+    100172: Bone082
+    100174: Bone083
+    100176: Bone084
+    100178: Bone085
+    100180: Bone086
+    100182: Bone087
+    100184: Bone088
+    100186: Bone089
+    100188: Bone090
+    100190: Bone091
+    100192: Bone092
+    100194: Bone093
+    100196: Bone094
+    100198: Bone095
+    100200: Bone096
+    100202: Bone097
+    100204: Bone098
+    100206: Bone099
+    100208: Bone100
+    100210: Bone101
+    100212: Bone102
+    100214: Bone103
+    100216: Bone104
+    100218: Bone105
+    100220: Bone106
+    100222: Bone107
+    100224: Bone113
+    100226: Bone114
+    100228: Bone115
+    100230: Bone116
+    100232: Bone117
+    100234: Bone118
+    100236: Bone119
+    100238: Bone120
+    100240: Bone121
+    100242: Bone122
+    100244: Bone123
+    100246: Bone124
+    100248: Dummy001
+    100250: Dummy002
+    100252: Dummy003
+    100254: Dummy004
+    100256: Dummy005
+    100258: Dummy006
+    100260: Dummy007
+    100262: Dummy008
+    100264: Dummy009
+    100266: Dummy010
+    100268: Dummy011
+    100270: Dummy012
+    100272: Dummy013
+    100274: hair
+    100276: IK Chain001
+    100278: IK Chain002
+    100280: IK Chain003
+    100282: IK Chain004
+    100284: Line002
+    100286: Line003
+    100288: Object02
+    100290: Particle View 01
+    100292: //RootNode
+    100294: pensheguiji_1
+    100296: Plane001
+    100298: Point011
+    100300: Point012
+    100302: Point013
+    100304: Point014
+    100306: Point015
+    100308: Point016
+    100310: Point017
+    100312: Point018
+    100314: Point019
+    100316: Point020
+    100318: Point021
+    100320: Point022
+    100322: Point023
+    100324: Point024
+    100326: Point025
+    100328: Point026
+    100330: Point027
+    100332: Point028
+    100334: Point029
+    100336: Point030
+    100338: Point031
+    100340: Point032
+    400000: Bastard
+    400002: Bip001
+    400004: Bip001 Footsteps
+    400006: Bip001 Head
+    400008: Bip001 HeadNub
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger0Nub
+    400018: Bip001 L Foot
+    400020: Bip001 L Forearm
+    400022: Bip001 L Hand
+    400024: Bip001 L Thigh
+    400026: Bip001 L Toe0
+    400028: Bip001 L Toe0Nub
+    400030: Bip001 L UpperArm
+    400032: Bip001 Neck
+    400034: Bip001 Neck1
+    400036: Bip001 Neck2
+    400038: Bip001 Pelvis
+    400040: Bip001 Ponytail1
+    400042: Bip001 Ponytail1Nub
+    400044: Bip001 R Calf
+    400046: Bip001 R Clavicle
+    400048: Bip001 R Finger0
+    400050: Bip001 R Finger0Nub
+    400052: Bip001 R Foot
+    400054: Bip001 R Forearm
+    400056: Bip001 R Hand
+    400058: Bip001 R Thigh
+    400060: Bip001 R Toe0
+    400062: Bip001 R Toe0Nub
+    400064: Bip001 R UpperArm
+    400066: Bip001 Spine
+    400068: Bip001 Spine1
+    400070: Bip001 Spine2
+    400072: Bone016
+    400074: Bone017
+    400076: Bone018
+    400078: Bone019
+    400080: Bone020
+    400082: Bone021
+    400084: Bone022
+    400086: Bone023
+    400088: Bone024
+    400090: Bone025
+    400092: Bone027
+    400094: Bone028
+    400096: Bone029
+    400098: Bone034
+    400100: Bone035
+    400102: Bone036
+    400104: Bone037
+    400106: Bone038
+    400108: Bone039
+    400110: Bone040
+    400112: Bone041
+    400114: Bone042
+    400116: Bone043
+    400118: Bone044
+    400120: Bone045
+    400122: Bone046
+    400124: Bone047
+    400126: Bone048
+    400128: Bone049
+    400130: Bone050
+    400132: Bone051
+    400134: Bone052
+    400136: Bone053
+    400138: Bone054
+    400140: Bone055
+    400142: Bone059
+    400144: Bone060
+    400146: Bone063
+    400148: Bone070
+    400150: Bone071
+    400152: Bone072
+    400154: Bone073
+    400156: Bone074
+    400158: Bone075
+    400160: Bone076
+    400162: Bone077
+    400164: Bone078
+    400166: Bone079
+    400168: Bone080
+    400170: Bone081
+    400172: Bone082
+    400174: Bone083
+    400176: Bone084
+    400178: Bone085
+    400180: Bone086
+    400182: Bone087
+    400184: Bone088
+    400186: Bone089
+    400188: Bone090
+    400190: Bone091
+    400192: Bone092
+    400194: Bone093
+    400196: Bone094
+    400198: Bone095
+    400200: Bone096
+    400202: Bone097
+    400204: Bone098
+    400206: Bone099
+    400208: Bone100
+    400210: Bone101
+    400212: Bone102
+    400214: Bone103
+    400216: Bone104
+    400218: Bone105
+    400220: Bone106
+    400222: Bone107
+    400224: Bone113
+    400226: Bone114
+    400228: Bone115
+    400230: Bone116
+    400232: Bone117
+    400234: Bone118
+    400236: Bone119
+    400238: Bone120
+    400240: Bone121
+    400242: Bone122
+    400244: Bone123
+    400246: Bone124
+    400248: Dummy001
+    400250: Dummy002
+    400252: Dummy003
+    400254: Dummy004
+    400256: Dummy005
+    400258: Dummy006
+    400260: Dummy007
+    400262: Dummy008
+    400264: Dummy009
+    400266: Dummy010
+    400268: Dummy011
+    400270: Dummy012
+    400272: Dummy013
+    400274: hair
+    400276: IK Chain001
+    400278: IK Chain002
+    400280: IK Chain003
+    400282: IK Chain004
+    400284: Line002
+    400286: Line003
+    400288: Object02
+    400290: Particle View 01
+    400292: pensheguiji_1
+    400294: //RootNode
+    400296: Plane001
+    400298: Point011
+    400300: Point012
+    400302: Point013
+    400304: Point014
+    400306: Point015
+    400308: Point016
+    400310: Point017
+    400312: Point018
+    400314: Point019
+    400316: Point020
+    400318: Point021
+    400320: Point022
+    400322: Point023
+    400324: Point024
+    400326: Point025
+    400328: Point026
+    400330: Point027
+    400332: Point028
+    400334: Point029
+    400336: Point030
+    400338: Point031
+    400340: Point032
+    2300000: hair
+    2300002: Object02
+    2300004: Plane001
+    3300000: hair
+    3300002: Object02
+    3300004: Plane001
+    4300000: hair
+    4300002: Object02
+    4300004: Bastard
+    4300006: Plane001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bastard
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

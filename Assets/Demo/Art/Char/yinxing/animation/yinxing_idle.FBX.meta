@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 72c389657ff93eb48a9c306f2ebe9551
+timeCreated: 1497946447
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Finger2
+    100030: Bip001 L Finger21
+    100032: Bip001 L Finger22
+    100034: Bip001 L Finger2Nub
+    100036: Bip001 L Finger3
+    100038: Bip001 L Finger31
+    100040: Bip001 L Finger32
+    100042: Bip001 L Finger3Nub
+    100044: Bip001 L Finger4
+    100046: Bip001 L Finger41
+    100048: Bip001 L Finger42
+    100050: Bip001 L Finger4Nub
+    100052: Bip001 L Foot
+    100054: Bip001 L Forearm
+    100056: Bip001 L Hand
+    100058: Bip001 L Thigh
+    100060: Bip001 L Toe0
+    100062: Bip001 L Toe0Nub
+    100064: Bip001 L UpperArm
+    100066: Bip001 Neck
+    100068: Bip001 Pelvis
+    100070: Bip001 Prop1
+    100072: Bip001 Prop2
+    100074: Bip001 R Calf
+    100076: Bip001 R Clavicle
+    100078: Bip001 R Finger0
+    100080: Bip001 R Finger01
+    100082: Bip001 R Finger02
+    100084: Bip001 R Finger0Nub
+    100086: Bip001 R Finger1
+    100088: Bip001 R Finger11
+    100090: Bip001 R Finger12
+    100092: Bip001 R Finger1Nub
+    100094: Bip001 R Finger2
+    100096: Bip001 R Finger21
+    100098: Bip001 R Finger22
+    100100: Bip001 R Finger2Nub
+    100102: Bip001 R Finger3
+    100104: Bip001 R Finger31
+    100106: Bip001 R Finger32
+    100108: Bip001 R Finger3Nub
+    100110: Bip001 R Finger4
+    100112: Bip001 R Finger41
+    100114: Bip001 R Finger42
+    100116: Bip001 R Finger4Nub
+    100118: Bip001 R Foot
+    100120: Bip001 R Forearm
+    100122: Bip001 R Hand
+    100124: Bip001 R Thigh
+    100126: Bip001 R Toe0
+    100128: Bip001 R Toe0Nub
+    100130: Bip001 R UpperArm
+    100132: Bip001 Spine
+    100134: Bip001 Spine1
+    100136: Bone082
+    100138: Bone083
+    100140: Bone084
+    100142: Bone085
+    100144: Bone086
+    100146: Bone087
+    100148: Bone088
+    100150: chest_089
+    100152: chest_090
+    100154: chest_091
+    100156: chest_092
+    100158: chest_093
+    100160: chest_094
+    100162: dress_037
+    100164: dress_038
+    100166: dress_039
+    100168: dress_040
+    100170: dress_041
+    100172: dress_042
+    100174: dress_043
+    100176: dress_044
+    100178: dress_045
+    100180: dress_046
+    100182: dress_047
+    100184: dress_048
+    100186: dress_049
+    100188: dress_050
+    100190: dress_051
+    100192: dress_052
+    100194: dress_053
+    100196: dress_054
+    100198: dress_055
+    100200: dress_056
+    100202: dress_057
+    100204: dress_058
+    100206: dress_059
+    100208: dress_060
+    100210: dress_061
+    100212: dress_062
+    100214: dress_063
+    100216: dress_064
+    100218: dress_065
+    100220: dress_066
+    100222: dress_067
+    100224: dress_068
+    100226: dress_069
+    100228: dress_070
+    100230: dress_071
+    100232: dress_072
+    100234: dress_073
+    100236: dress_074
+    100238: dress_075
+    100240: dress_076
+    100242: dress_077
+    100244: dress_078
+    100246: dress_079
+    100248: dress_080
+    100250: dress_081
+    100252: dress_089
+    100254: dress_090
+    100256: dress_091
+    100258: dress_092
+    100260: dress_093
+    100262: dress_094
+    100264: dress_095
+    100266: dress_096
+    100268: dress_097
+    100270: dress_098
+    100272: dress_099
+    100274: dress_100
+    100276: frontdress_029
+    100278: frontdress_030
+    100280: frontdress_031
+    100282: frontdress_032
+    100284: frontdress_033
+    100286: frontdress_034
+    100288: frontdress_035
+    100290: frontdress_036
+    100292: Plane01
+    100294: tail_001
+    100296: tail_002
+    100298: tail_003
+    100300: tail_004
+    100302: tail_005
+    100304: tail_006
+    100306: tail_007
+    100308: tail_008
+    100310: tail_009
+    100312: tail_010
+    100314: tail_011
+    100316: tail_012
+    100318: tail_013
+    100320: tail_014
+    100322: tail_015
+    100324: tail_016
+    100326: tail_017
+    100328: tail_018
+    100330: tail_019
+    100332: tail_020
+    100334: tail_021
+    100336: tail_022
+    100338: tail_023
+    100340: tail_024
+    100342: tail_025
+    100344: tail_026
+    100346: tail_027
+    100348: tail_028
+    100350: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Finger2
+    400030: Bip001 L Finger21
+    400032: Bip001 L Finger22
+    400034: Bip001 L Finger2Nub
+    400036: Bip001 L Finger3
+    400038: Bip001 L Finger31
+    400040: Bip001 L Finger32
+    400042: Bip001 L Finger3Nub
+    400044: Bip001 L Finger4
+    400046: Bip001 L Finger41
+    400048: Bip001 L Finger42
+    400050: Bip001 L Finger4Nub
+    400052: Bip001 L Foot
+    400054: Bip001 L Forearm
+    400056: Bip001 L Hand
+    400058: Bip001 L Thigh
+    400060: Bip001 L Toe0
+    400062: Bip001 L Toe0Nub
+    400064: Bip001 L UpperArm
+    400066: Bip001 Neck
+    400068: Bip001 Pelvis
+    400070: Bip001 Prop1
+    400072: Bip001 Prop2
+    400074: Bip001 R Calf
+    400076: Bip001 R Clavicle
+    400078: Bip001 R Finger0
+    400080: Bip001 R Finger01
+    400082: Bip001 R Finger02
+    400084: Bip001 R Finger0Nub
+    400086: Bip001 R Finger1
+    400088: Bip001 R Finger11
+    400090: Bip001 R Finger12
+    400092: Bip001 R Finger1Nub
+    400094: Bip001 R Finger2
+    400096: Bip001 R Finger21
+    400098: Bip001 R Finger22
+    400100: Bip001 R Finger2Nub
+    400102: Bip001 R Finger3
+    400104: Bip001 R Finger31
+    400106: Bip001 R Finger32
+    400108: Bip001 R Finger3Nub
+    400110: Bip001 R Finger4
+    400112: Bip001 R Finger41
+    400114: Bip001 R Finger42
+    400116: Bip001 R Finger4Nub
+    400118: Bip001 R Foot
+    400120: Bip001 R Forearm
+    400122: Bip001 R Hand
+    400124: Bip001 R Thigh
+    400126: Bip001 R Toe0
+    400128: Bip001 R Toe0Nub
+    400130: Bip001 R UpperArm
+    400132: Bip001 Spine
+    400134: Bip001 Spine1
+    400136: Bone082
+    400138: Bone083
+    400140: Bone084
+    400142: Bone085
+    400144: Bone086
+    400146: Bone087
+    400148: Bone088
+    400150: chest_089
+    400152: chest_090
+    400154: chest_091
+    400156: chest_092
+    400158: chest_093
+    400160: chest_094
+    400162: dress_037
+    400164: dress_038
+    400166: dress_039
+    400168: dress_040
+    400170: dress_041
+    400172: dress_042
+    400174: dress_043
+    400176: dress_044
+    400178: dress_045
+    400180: dress_046
+    400182: dress_047
+    400184: dress_048
+    400186: dress_049
+    400188: dress_050
+    400190: dress_051
+    400192: dress_052
+    400194: dress_053
+    400196: dress_054
+    400198: dress_055
+    400200: dress_056
+    400202: dress_057
+    400204: dress_058
+    400206: dress_059
+    400208: dress_060
+    400210: dress_061
+    400212: dress_062
+    400214: dress_063
+    400216: dress_064
+    400218: dress_065
+    400220: dress_066
+    400222: dress_067
+    400224: dress_068
+    400226: dress_069
+    400228: dress_070
+    400230: dress_071
+    400232: dress_072
+    400234: dress_073
+    400236: dress_074
+    400238: dress_075
+    400240: dress_076
+    400242: dress_077
+    400244: dress_078
+    400246: dress_079
+    400248: dress_080
+    400250: dress_081
+    400252: dress_089
+    400254: dress_090
+    400256: dress_091
+    400258: dress_092
+    400260: dress_093
+    400262: dress_094
+    400264: dress_095
+    400266: dress_096
+    400268: dress_097
+    400270: dress_098
+    400272: dress_099
+    400274: dress_100
+    400276: frontdress_029
+    400278: frontdress_030
+    400280: frontdress_031
+    400282: frontdress_032
+    400284: frontdress_033
+    400286: frontdress_034
+    400288: frontdress_035
+    400290: frontdress_036
+    400292: Plane01
+    400294: tail_001
+    400296: tail_002
+    400298: tail_003
+    400300: tail_004
+    400302: tail_005
+    400304: tail_006
+    400306: tail_007
+    400308: tail_008
+    400310: tail_009
+    400312: tail_010
+    400314: tail_011
+    400316: tail_012
+    400318: tail_013
+    400320: tail_014
+    400322: tail_015
+    400324: tail_016
+    400326: tail_017
+    400328: tail_018
+    400330: tail_019
+    400332: tail_020
+    400334: tail_021
+    400336: tail_022
+    400338: tail_023
+    400340: tail_024
+    400342: tail_025
+    400344: tail_026
+    400346: tail_027
+    400348: tail_028
+    400350: //RootNode
+    2300000: Plane01
+    3300000: Plane01
+    4300000: Plane01
+    7400000: yinxing_idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: yinxing_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Footsteps
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+          L Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+          L Finger01/Bip001 L Finger02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+          L Finger01/Bip001 L Finger02/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001
+          L Finger11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001
+          L Finger11/Bip001 L Finger12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger1/Bip001
+          L Finger11/Bip001 L Finger12/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001
+          L Finger21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001
+          L Finger21/Bip001 L Finger22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger2/Bip001
+          L Finger21/Bip001 L Finger22/Bip001 L Finger2Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3/Bip001
+          L Finger31
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3/Bip001
+          L Finger31/Bip001 L Finger32
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger3/Bip001
+          L Finger31/Bip001 L Finger32/Bip001 L Finger3Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4/Bip001
+          L Finger41
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4/Bip001
+          L Finger41/Bip001 L Finger42
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L
+          Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger4/Bip001
+          L Finger41/Bip001 L Finger42/Bip001 L Finger4Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+          R Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+          R Finger01/Bip001 R Finger02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+          R Finger01/Bip001 R Finger02/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001
+          R Finger11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001
+          R Finger11/Bip001 R Finger12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger1/Bip001
+          R Finger11/Bip001 R Finger12/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001
+          R Finger21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001
+          R Finger21/Bip001 R Finger22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger2/Bip001
+          R Finger21/Bip001 R Finger22/Bip001 R Finger2Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3/Bip001
+          R Finger31
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3/Bip001
+          R Finger31/Bip001 R Finger32
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger3/Bip001
+          R Finger31/Bip001 R Finger32/Bip001 R Finger3Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4/Bip001
+          R Finger41
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4/Bip001
+          R Finger41/Bip001 R Finger42
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R
+          Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger4/Bip001
+          R Finger41/Bip001 R Finger42/Bip001 R Finger4Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_089
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_089/chest_090
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_089/chest_090/chest_091
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_092
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_092/chest_093
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/chest_092/chest_093/chest_094
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083/Bone084/Bone085
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083/Bone084/Bone085/Bone086
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083/Bone084/Bone085/Bone086/Bone087
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bone082/Bone083/Bone084/Bone085/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037/dress_038
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037/dress_038/dress_039
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037/dress_038/dress_039/dress_040
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037/dress_038/dress_039/dress_040/dress_041
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_037/dress_038/dress_039/dress_040/dress_041/dress_042
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043/dress_044
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043/dress_044/dress_045
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043/dress_044/dress_045/dress_046
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043/dress_044/dress_045/dress_046/dress_047
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_043/dress_044/dress_045/dress_046/dress_047/dress_048
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049/dress_050
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049/dress_050/dress_051
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049/dress_050/dress_051/dress_052
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049/dress_050/dress_051/dress_052/dress_053
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_049/dress_050/dress_051/dress_052/dress_053/dress_054
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055/dress_056
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055/dress_056/dress_057
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055/dress_056/dress_057/dress_058
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055/dress_056/dress_057/dress_058/dress_059
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_055/dress_056/dress_057/dress_058/dress_059/dress_060
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062/dress_063
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062/dress_063/dress_064
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062/dress_063/dress_064/dress_065
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062/dress_063/dress_064/dress_065/dress_066
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_061/dress_062/dress_063/dress_064/dress_065/dress_066/dress_067
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069/dress_070
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069/dress_070/dress_071
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069/dress_070/dress_071/dress_072
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069/dress_070/dress_071/dress_072/dress_073
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_068/dress_069/dress_070/dress_071/dress_072/dress_073/dress_074
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076/dress_077
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076/dress_077/dress_078
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076/dress_077/dress_078/dress_079
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076/dress_077/dress_078/dress_079/dress_080
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_075/dress_076/dress_077/dress_078/dress_079/dress_080/dress_081
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089/dress_090
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089/dress_090/dress_091
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089/dress_090/dress_091/dress_092
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089/dress_090/dress_091/dress_092/dress_093
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_089/dress_090/dress_091/dress_092/dress_093/dress_094
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095/dress_096
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095/dress_096/dress_097
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095/dress_096/dress_097/dress_098
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095/dress_096/dress_097/dress_098/dress_099
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/dress_095/dress_096/dress_097/dress_098/dress_099/dress_100
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031/frontdress_032
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031/frontdress_032/frontdress_033
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031/frontdress_032/frontdress_033/frontdress_034
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031/frontdress_032/frontdress_033/frontdress_034/frontdress_035
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/frontdress_029/frontdress_030/frontdress_031/frontdress_032/frontdress_033/frontdress_034/frontdress_035/frontdress_036
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003/tail_004
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003/tail_004/tail_005
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003/tail_004/tail_005/tail_006
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003/tail_004/tail_005/tail_006/tail_007
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_001/tail_002/tail_003/tail_004/tail_005/tail_006/tail_007/tail_008
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011/tail_012
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011/tail_012/tail_013
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011/tail_012/tail_013/tail_014
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011/tail_012/tail_013/tail_014/tail_015
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_009/tail_010/tail_011/tail_012/tail_013/tail_014/tail_015/tail_016
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017/tail_018
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017/tail_018/tail_019
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017/tail_018/tail_019/tail_020
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017/tail_018/tail_019/tail_020/tail_021
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_017/tail_018/tail_019/tail_020/tail_021/tail_022
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023/tail_024
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023/tail_024/tail_025
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023/tail_024/tail_025/tail_026
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023/tail_024/tail_025/tail_026/tail_027
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/tail_023/tail_024/tail_025/tail_026/tail_027/tail_028
+        weight: 1
+      - path: Bip001/Bip001 Prop1
+        weight: 1
+      - path: Bip001/Bip001 Prop2
+        weight: 1
+      - path: Plane01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 7dd10b409a4dd6243a313d32bac603e5,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

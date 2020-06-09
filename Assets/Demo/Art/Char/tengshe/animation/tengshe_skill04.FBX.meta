@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 44e4aa8676fe1e14cba3dca06017fb26
+timeCreated: 1497249287
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: tengshe
+    100002: Tengshe_bip_01
+    100004: Tengshe_body_01
+    100006: Tengshe_body_02
+    100008: Tengshe_body_03
+    100010: Tengshe_body_04
+    100012: Tengshe_body_05
+    100014: Tengshe_body_06
+    100016: Tengshe_body_07
+    100018: Tengshe_body_08
+    100020: Tengshe_body_09
+    100022: Tengshe_body_10
+    100024: Tengshe_body_11
+    100026: Tengshe_body_12
+    100028: Tengshe_body_13
+    100030: Tengshe_hair_01
+    100032: Tengshe_hair_02
+    100034: Tengshe_hair_03
+    100036: Tengshe_hair_04
+    100038: Tengshe_hair_06
+    100040: Tengshe_hair_07
+    100042: Tengshe_hair_08
+    100044: Tengshe_hair_10
+    100046: Tengshe_hair_11
+    100048: Tengshe_hair_12
+    100050: Tengshe_hair_13
+    100052: Tengshe_hair_15
+    100054: Tengshe_hair_16
+    100056: Tengshe_hair_17
+    100058: Tengshe_head_01
+    100060: Tengshe_mouth_01
+    100062: Tengshe_neck_01
+    100064: Tengshe_neck_02
+    100066: //RootNode
+    100068: Tengshe_tongue_01
+    100070: Tengshe_tongue_02
+    100072: Tengshe_tongue_03
+    100074: Tengshe_tongue_04
+    100076: Tengshe_tongue_05
+    100078: Tengshe_wing_02
+    100080: Tengshe_wing_03
+    100082: Tengshe_wing_05
+    100084: Tengshe_wing_06
+    100086: Tengshe_wing_08
+    100088: Tengshe_wing_09
+    100090: Tengshe_wing_10
+    100092: Tengshe_wing_11
+    100094: Tengshe_wing_12
+    100096: Tengshe_wing_13
+    100098: Tengshe_wing_15
+    100100: Tengshe_wing_16
+    100102: Tengshe_wing_17
+    100104: Tengshe_wing_19
+    100106: Tengshe_wing_20
+    100108: Tengshe_wing_21
+    100110: Tengshe_wing_23
+    100112: Tengshe_wing_24
+    100114: Tengshe_wing_26
+    100116: Tengshe_wing_27
+    100118: Tengshe_wing_28
+    100120: Tengshe_wing_29
+    100122: Tengshe_wing_30
+    100124: Tengshe_wing_31
+    100126: Tengshe_wing_33
+    100128: Tengshe_wing_34
+    100130: Tengshe_wing_35
+    100132: Tengshe_wing_37
+    100134: Tengshe_wing_38
+    100136: Tengshe_wing_39
+    100138: Tengshe_wing_41
+    100140: Tengshe_wing_42
+    400000: tengshe
+    400002: Tengshe_bip_01
+    400004: Tengshe_body_01
+    400006: Tengshe_body_02
+    400008: Tengshe_body_03
+    400010: Tengshe_body_04
+    400012: Tengshe_body_05
+    400014: Tengshe_body_06
+    400016: Tengshe_body_07
+    400018: Tengshe_body_08
+    400020: Tengshe_body_09
+    400022: Tengshe_body_10
+    400024: Tengshe_body_11
+    400026: Tengshe_body_12
+    400028: Tengshe_body_13
+    400030: Tengshe_hair_01
+    400032: Tengshe_hair_02
+    400034: Tengshe_hair_03
+    400036: Tengshe_hair_04
+    400038: Tengshe_hair_06
+    400040: Tengshe_hair_07
+    400042: Tengshe_hair_08
+    400044: Tengshe_hair_10
+    400046: Tengshe_hair_11
+    400048: Tengshe_hair_12
+    400050: Tengshe_hair_13
+    400052: Tengshe_hair_15
+    400054: Tengshe_hair_16
+    400056: Tengshe_hair_17
+    400058: Tengshe_head_01
+    400060: Tengshe_mouth_01
+    400062: Tengshe_neck_01
+    400064: Tengshe_neck_02
+    400066: //RootNode
+    400068: Tengshe_tongue_01
+    400070: Tengshe_tongue_02
+    400072: Tengshe_tongue_03
+    400074: Tengshe_tongue_04
+    400076: Tengshe_tongue_05
+    400078: Tengshe_wing_02
+    400080: Tengshe_wing_03
+    400082: Tengshe_wing_05
+    400084: Tengshe_wing_06
+    400086: Tengshe_wing_08
+    400088: Tengshe_wing_09
+    400090: Tengshe_wing_10
+    400092: Tengshe_wing_11
+    400094: Tengshe_wing_12
+    400096: Tengshe_wing_13
+    400098: Tengshe_wing_15
+    400100: Tengshe_wing_16
+    400102: Tengshe_wing_17
+    400104: Tengshe_wing_19
+    400106: Tengshe_wing_20
+    400108: Tengshe_wing_21
+    400110: Tengshe_wing_23
+    400112: Tengshe_wing_24
+    400114: Tengshe_wing_26
+    400116: Tengshe_wing_27
+    400118: Tengshe_wing_28
+    400120: Tengshe_wing_29
+    400122: Tengshe_wing_30
+    400124: Tengshe_wing_31
+    400126: Tengshe_wing_33
+    400128: Tengshe_wing_34
+    400130: Tengshe_wing_35
+    400132: Tengshe_wing_37
+    400134: Tengshe_wing_38
+    400136: Tengshe_wing_39
+    400138: Tengshe_wing_41
+    400140: Tengshe_wing_42
+    4300000: tengshe
+    7400000: tengshe_skill04_Pre
+    7400002: tengshe_skill04_Atk
+    7400004: tengshe_skill04_End
+    9500000: //RootNode
+    13700000: tengshe
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tengshe
+    second: {fileID: 2100000, guid: 707c21b3e7d727743847bfe62bca3a3f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tengshe_skill04_Pre
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.015387219
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 216040
+        messageOptions: 0
+      - time: 0
+        functionName: PlaySound
+        data: 401601
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tengshe
+        weight: 1
+      - path: Tengshe_bip_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12/Tengshe_body_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02/Tengshe_wing_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05/Tengshe_wing_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03/Tengshe_hair_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07/Tengshe_hair_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12/Tengshe_hair_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16/Tengshe_hair_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04/Tengshe_tongue_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12/Tengshe_wing_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16/Tengshe_wing_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20/Tengshe_wing_21
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23/Tengshe_wing_24
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30/Tengshe_wing_31
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34/Tengshe_wing_35
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38/Tengshe_wing_39
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41/Tengshe_wing_42
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tengshe_skill04_Atk
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.35512948
+        functionName: PlayFxWithId
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 216041
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tengshe
+        weight: 1
+      - path: Tengshe_bip_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12/Tengshe_body_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02/Tengshe_wing_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05/Tengshe_wing_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03/Tengshe_hair_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07/Tengshe_hair_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12/Tengshe_hair_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16/Tengshe_hair_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04/Tengshe_tongue_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12/Tengshe_wing_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16/Tengshe_wing_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20/Tengshe_wing_21
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23/Tengshe_wing_24
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30/Tengshe_wing_31
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34/Tengshe_wing_35
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38/Tengshe_wing_39
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41/Tengshe_wing_42
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tengshe_skill04_End
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tengshe
+        weight: 1
+      - path: Tengshe_bip_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_body_02/Tengshe_body_03/Tengshe_body_04/Tengshe_body_05/Tengshe_body_06/Tengshe_body_07/Tengshe_body_08/Tengshe_body_09/Tengshe_body_10/Tengshe_body_11/Tengshe_body_12/Tengshe_body_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_02/Tengshe_wing_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_body_01/Tengshe_wing_05/Tengshe_wing_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_01/Tengshe_hair_02/Tengshe_hair_03/Tengshe_hair_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_06/Tengshe_hair_07/Tengshe_hair_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_10/Tengshe_hair_11/Tengshe_hair_12/Tengshe_hair_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_hair_15/Tengshe_hair_16/Tengshe_hair_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_neck_01/Tengshe_neck_02/Tengshe_head_01/Tengshe_mouth_01/Tengshe_tongue_01/Tengshe_tongue_02/Tengshe_tongue_03/Tengshe_tongue_04/Tengshe_tongue_05
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_12/Tengshe_wing_13
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_11/Tengshe_wing_15/Tengshe_wing_16/Tengshe_wing_17
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_10/Tengshe_wing_19/Tengshe_wing_20/Tengshe_wing_21
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_08/Tengshe_wing_09/Tengshe_wing_23/Tengshe_wing_24
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_30/Tengshe_wing_31
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_29/Tengshe_wing_33/Tengshe_wing_34/Tengshe_wing_35
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_28/Tengshe_wing_37/Tengshe_wing_38/Tengshe_wing_39
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41
+        weight: 1
+      - path: Tengshe_bip_01/Tengshe_wing_26/Tengshe_wing_27/Tengshe_wing_41/Tengshe_wing_42
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d937e388c39c5af42bac9450b8ddeafd,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

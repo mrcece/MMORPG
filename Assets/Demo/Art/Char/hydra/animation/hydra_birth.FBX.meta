@@ -1,0 +1,3092 @@
+fileFormatVersion: 2
+guid: 7ccd1fb38204b9641bbc3eb2cf1143ce
+timeCreated: 1510109093
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: biped Head
+    100002: biped Spine1
+    100004: biped_bone105
+    100006: biped_bone106
+    100008: biped_bone109
+    100010: biped_bone110
+    100012: biped_bone111
+    100014: biped_bone112
+    100016: biped_bone113
+    100018: biped_bone114
+    100020: biped_bone115
+    100022: biped_bone116
+    100024: biped_bone117
+    100026: biped_bone118
+    100028: biped_bone119
+    100030: biped_bone120
+    100032: biped_bone121
+    100034: biped_bone122
+    100036: biped_bone123
+    100038: biped_bone124
+    100040: biped_bone125
+    100042: biped_bone126
+    100044: biped_bone127
+    100046: biped_bone128
+    100048: biped_bone129
+    100050: biped_bone130
+    100052: biped_bone131
+    100054: biped_bone132
+    100056: biped_bone133
+    100058: biped_bone134
+    100060: biped_bone135
+    100062: biped_bone136
+    100064: biped_bone137
+    100066: biped_bone138
+    100068: biped_bone139
+    100070: biped_bone140
+    100072: biped_bone141
+    100074: biped_bone142
+    100076: biped_bone143
+    100078: biped_bone166
+    100080: biped_bone175
+    100082: biped_bone185
+    100084: biped_bone186
+    100086: biped_bone187
+    100088: biped_bone188
+    100090: biped_bone189
+    100092: biped_bone190
+    100094: biped_bone191
+    100096: biped_bone192
+    100098: biped_bone193
+    100100: biped_bone194
+    100102: biped_bone195
+    100104: biped_bone196
+    100106: biped_bone197
+    100108: biped_bone198.
+    100110: biped_bone47
+    100112: biped_bone48
+    100114: biped_bone51
+    100116: biped_bone52
+    100118: biped_bone53
+    100120: biped_bone54
+    100122: biped_bone73
+    100124: biped_bone75
+    100126: biped_bone92
+    100128: biped_bone94
+    100130: Bone01
+    100132: Bone016
+    100134: Bone017
+    100136: Bone018
+    100138: Bone019
+    100140: Bone02
+    100142: Bone020
+    100144: Bone021
+    100146: Bone022
+    100148: Bone023
+    100150: Bone024
+    100152: Bone025
+    100154: Bone026
+    100156: Bone027
+    100158: Bone028
+    100160: Bone029
+    100162: Bone03
+    100164: Bone030
+    100166: Bone031
+    100168: Bone032
+    100170: Bone033
+    100172: Bone034
+    100174: Bone035
+    100176: Bone036
+    100178: Bone037
+    100180: Bone038
+    100182: Bone039
+    100184: Bone04
+    100186: Bone040
+    100188: Bone041
+    100190: Bone042
+    100192: Bone043
+    100194: Bone044
+    100196: Bone05
+    100198: Bone06
+    100200: Bone07
+    100202: Bone08
+    100204: Bone09
+    100206: Bone10
+    100208: Bone11
+    100210: Bone12
+    100212: Bone13
+    100214: Bone14
+    100216: Bone15
+    100218: Box01
+    100220: Dummy002
+    100222: huang_01
+    100224: huang_02
+    100226: huang_03
+    100228: huang_04
+    100230: huang_05
+    100232: huang_06
+    100234: huang_07
+    100236: huang_08
+    100238: huang_09
+    100240: huang_10
+    100242: huang_100
+    100244: huang_101
+    100246: huang_102
+    100248: huang_103
+    100250: huang_104
+    100252: huang_105
+    100254: huang_106
+    100256: huang_107
+    100258: huang_108
+    100260: huang_109
+    100262: huang_11
+    100264: huang_110
+    100266: huang_111
+    100268: huang_112
+    100270: huang_113
+    100272: huang_114
+    100274: huang_115
+    100276: huang_116
+    100278: huang_117
+    100280: huang_118
+    100282: huang_119
+    100284: huang_12
+    100286: huang_120
+    100288: huang_121
+    100290: huang_122
+    100292: huang_123
+    100294: huang_124
+    100296: huang_125
+    100298: huang_126
+    100300: huang_127
+    100302: huang_128
+    100304: huang_129
+    100306: huang_13
+    100308: huang_130
+    100310: huang_131
+    100312: huang_132
+    100314: huang_133
+    100316: huang_134
+    100318: huang_135
+    100320: huang_136
+    100322: huang_137
+    100324: huang_138
+    100326: huang_139
+    100328: huang_14
+    100330: huang_140
+    100332: huang_141
+    100334: huang_142
+    100336: huang_143
+    100338: huang_144
+    100340: huang_145
+    100342: huang_146
+    100344: huang_147
+    100346: huang_148
+    100348: huang_149
+    100350: huang_15
+    100352: huang_150
+    100354: huang_151
+    100356: huang_152
+    100358: huang_153
+    100360: huang_154
+    100362: huang_155
+    100364: huang_156
+    100366: huang_157
+    100368: huang_158
+    100370: huang_159
+    100372: huang_16
+    100374: huang_160
+    100376: huang_161
+    100378: huang_162
+    100380: huang_163
+    100382: huang_164
+    100384: huang_165
+    100386: huang_166
+    100388: huang_167
+    100390: huang_168
+    100392: huang_169
+    100394: huang_17
+    100396: huang_170
+    100398: huang_171
+    100400: huang_172
+    100402: huang_173
+    100404: huang_174
+    100406: huang_175
+    100408: huang_176
+    100410: huang_177
+    100412: huang_178
+    100414: huang_179
+    100416: huang_18
+    100418: huang_180
+    100420: huang_181
+    100422: huang_182
+    100424: huang_183
+    100426: huang_184
+    100428: huang_185
+    100430: huang_186
+    100432: huang_187
+    100434: huang_188
+    100436: huang_189
+    100438: huang_19
+    100440: huang_190
+    100442: huang_191
+    100444: huang_192
+    100446: huang_193
+    100448: huang_194
+    100450: huang_195
+    100452: huang_196
+    100454: huang_197
+    100456: huang_198
+    100458: huang_199
+    100460: huang_20
+    100462: huang_200
+    100464: huang_201
+    100466: huang_202
+    100468: huang_203
+    100470: huang_204
+    100472: huang_205
+    100474: huang_206
+    100476: huang_207
+    100478: huang_208
+    100480: huang_209
+    100482: huang_21
+    100484: huang_210
+    100486: huang_211
+    100488: huang_212
+    100490: huang_213
+    100492: huang_214
+    100494: huang_215
+    100496: huang_216
+    100498: huang_217
+    100500: huang_218
+    100502: huang_219
+    100504: huang_22
+    100506: huang_220
+    100508: huang_221
+    100510: huang_222
+    100512: huang_223
+    100514: huang_224
+    100516: huang_225
+    100518: huang_226
+    100520: huang_227
+    100522: huang_228
+    100524: huang_229
+    100526: huang_23
+    100528: huang_230
+    100530: huang_231
+    100532: huang_232
+    100534: huang_233
+    100536: huang_234
+    100538: huang_235
+    100540: huang_236
+    100542: huang_237
+    100544: huang_238
+    100546: huang_239
+    100548: huang_24
+    100550: huang_240
+    100552: huang_241
+    100554: huang_242
+    100556: huang_243
+    100558: huang_244
+    100560: huang_245
+    100562: huang_246
+    100564: huang_247
+    100566: huang_248
+    100568: huang_25
+    100570: huang_26
+    100572: huang_27
+    100574: huang_28
+    100576: huang_29
+    100578: huang_30
+    100580: huang_31
+    100582: huang_32
+    100584: huang_33
+    100586: huang_34
+    100588: huang_35
+    100590: huang_36
+    100592: huang_37
+    100594: huang_38
+    100596: huang_39
+    100598: huang_40
+    100600: huang_41
+    100602: huang_42
+    100604: huang_43
+    100606: huang_44
+    100608: huang_45
+    100610: huang_46
+    100612: huang_47
+    100614: huang_48
+    100616: huang_49
+    100618: huang_50
+    100620: huang_51
+    100622: huang_52
+    100624: huang_53
+    100626: huang_54
+    100628: huang_55
+    100630: huang_56
+    100632: huang_57
+    100634: huang_58
+    100636: huang_59
+    100638: huang_60
+    100640: huang_61
+    100642: huang_62
+    100644: huang_63
+    100646: huang_64
+    100648: huang_65
+    100650: huang_66
+    100652: huang_67
+    100654: huang_68
+    100656: huang_69
+    100658: huang_70
+    100660: huang_71
+    100662: huang_72
+    100664: huang_73
+    100666: huang_74
+    100668: huang_75
+    100670: huang_76
+    100672: huang_77
+    100674: huang_78
+    100676: huang_79
+    100678: huang_80
+    100680: huang_81
+    100682: huang_82
+    100684: huang_83
+    100686: huang_84
+    100688: huang_85
+    100690: huang_86
+    100692: huang_87
+    100694: huang_88
+    100696: huang_89
+    100698: huang_90
+    100700: huang_91
+    100702: huang_92
+    100704: huang_93
+    100706: huang_94
+    100708: huang_95
+    100710: huang_96
+    100712: huang_97
+    100714: huang_98
+    100716: huang_99
+    100718: //RootNode
+    100720: IK Chain01
+    100722: lan_01
+    100724: lan_02
+    100726: lan_03
+    100728: lan_04
+    100730: lan_05
+    100732: lan_06
+    100734: lan_07
+    100736: lan_08
+    100738: lan_09
+    100740: lan_10
+    100742: lan_100
+    100744: lan_101
+    100746: lan_102
+    100748: lan_103
+    100750: lan_104
+    100752: lan_105
+    100754: lan_106
+    100756: lan_107
+    100758: lan_108
+    100760: lan_109
+    100762: lan_11
+    100764: lan_110
+    100766: lan_111
+    100768: lan_112
+    100770: lan_113
+    100772: lan_114
+    100774: lan_115
+    100776: lan_116
+    100778: lan_117
+    100780: lan_118
+    100782: lan_119
+    100784: lan_12
+    100786: lan_120
+    100788: lan_121
+    100790: lan_122
+    100792: lan_123
+    100794: lan_124
+    100796: lan_125
+    100798: lan_126
+    100800: lan_127
+    100802: lan_128
+    100804: lan_129
+    100806: lan_13
+    100808: lan_130
+    100810: lan_131
+    100812: lan_132
+    100814: lan_133
+    100816: lan_134
+    100818: lan_135
+    100820: lan_136
+    100822: lan_137
+    100824: lan_138
+    100826: lan_139
+    100828: lan_14
+    100830: lan_140
+    100832: lan_141
+    100834: lan_142
+    100836: lan_143
+    100838: lan_144
+    100840: lan_145
+    100842: lan_146
+    100844: lan_147
+    100846: lan_148
+    100848: lan_149
+    100850: lan_15
+    100852: lan_150
+    100854: lan_151
+    100856: lan_152
+    100858: lan_153
+    100860: lan_154
+    100862: lan_155
+    100864: lan_156
+    100866: lan_157
+    100868: lan_158
+    100870: lan_159
+    100872: lan_16
+    100874: lan_160
+    100876: lan_161
+    100878: lan_162
+    100880: lan_163
+    100882: lan_164
+    100884: lan_165
+    100886: lan_166
+    100888: lan_167
+    100890: lan_168
+    100892: lan_169
+    100894: lan_17
+    100896: lan_170
+    100898: lan_171
+    100900: lan_172
+    100902: lan_173
+    100904: lan_174
+    100906: lan_175
+    100908: lan_176
+    100910: lan_177
+    100912: lan_178
+    100914: lan_179
+    100916: lan_18
+    100918: lan_180
+    100920: lan_181
+    100922: lan_182
+    100924: lan_183
+    100926: lan_184
+    100928: lan_185
+    100930: lan_186
+    100932: lan_187
+    100934: lan_188
+    100936: lan_189
+    100938: lan_19
+    100940: lan_190
+    100942: lan_191
+    100944: lan_192
+    100946: lan_193
+    100948: lan_194
+    100950: lan_195
+    100952: lan_196
+    100954: lan_197
+    100956: lan_198
+    100958: lan_199
+    100960: lan_20
+    100962: lan_200
+    100964: lan_201
+    100966: lan_202
+    100968: lan_203
+    100970: lan_204
+    100972: lan_205
+    100974: lan_206
+    100976: lan_207
+    100978: lan_208
+    100980: lan_209
+    100982: lan_21
+    100984: lan_210
+    100986: lan_211
+    100988: lan_212
+    100990: lan_213
+    100992: lan_214
+    100994: lan_215
+    100996: lan_216
+    100998: lan_217
+    101000: lan_218
+    101002: lan_219
+    101004: lan_22
+    101006: lan_220
+    101008: lan_221
+    101010: lan_222
+    101012: lan_223
+    101014: lan_224
+    101016: lan_225
+    101018: lan_226
+    101020: lan_227
+    101022: lan_228
+    101024: lan_229
+    101026: lan_23
+    101028: lan_230
+    101030: lan_231
+    101032: lan_232
+    101034: lan_233
+    101036: lan_234
+    101038: lan_235
+    101040: lan_236
+    101042: lan_237
+    101044: lan_238
+    101046: lan_239
+    101048: lan_24
+    101050: lan_240
+    101052: lan_241
+    101054: lan_242
+    101056: lan_243
+    101058: lan_244
+    101060: lan_245
+    101062: lan_246
+    101064: lan_247
+    101066: lan_248
+    101068: lan_25
+    101070: lan_26
+    101072: lan_27
+    101074: lan_28
+    101076: lan_29
+    101078: lan_30
+    101080: lan_31
+    101082: lan_32
+    101084: lan_33
+    101086: lan_34
+    101088: lan_35
+    101090: lan_36
+    101092: lan_37
+    101094: lan_38
+    101096: lan_39
+    101098: lan_40
+    101100: lan_41
+    101102: lan_42
+    101104: lan_43
+    101106: lan_44
+    101108: lan_45
+    101110: lan_46
+    101112: lan_47
+    101114: lan_48
+    101116: lan_49
+    101118: lan_50
+    101120: lan_51
+    101122: lan_52
+    101124: lan_53
+    101126: lan_54
+    101128: lan_55
+    101130: lan_56
+    101132: lan_57
+    101134: lan_58
+    101136: lan_59
+    101138: lan_60
+    101140: lan_61
+    101142: lan_62
+    101144: lan_63
+    101146: lan_64
+    101148: lan_65
+    101150: lan_66
+    101152: lan_67
+    101154: lan_68
+    101156: lan_69
+    101158: lan_70
+    101160: lan_71
+    101162: lan_72
+    101164: lan_73
+    101166: lan_74
+    101168: lan_75
+    101170: lan_76
+    101172: lan_77
+    101174: lan_78
+    101176: lan_79
+    101178: lan_80
+    101180: lan_81
+    101182: lan_82
+    101184: lan_83
+    101186: lan_84
+    101188: lan_85
+    101190: lan_86
+    101192: lan_87
+    101194: lan_88
+    101196: lan_89
+    101198: lan_90
+    101200: lan_91
+    101202: lan_92
+    101204: lan_93
+    101206: lan_94
+    101208: lan_95
+    101210: lan_96
+    101212: lan_97
+    101214: lan_98
+    101216: lan_99
+    101218: Line01
+    101220: Line02
+    101222: Point01
+    101224: Point02
+    101226: Point03
+    101228: Point04
+    101230: Point05
+    101232: Point06
+    101234: Point07
+    101236: Point08
+    101238: Point09
+    101240: Point10
+    101242: Point100
+    101244: Point101
+    101246: Point102
+    101248: Point103
+    101250: Point104
+    101252: Point105
+    101254: Point106
+    101256: Point107
+    101258: Point108
+    101260: Point109
+    101262: Point11
+    101264: Point110
+    101266: Point111
+    101268: Point112
+    101270: Point113
+    101272: Point114
+    101274: Point115
+    101276: Point116
+    101278: Point117
+    101280: Point118
+    101282: Point119
+    101284: Point12
+    101286: Point120
+    101288: Point121
+    101290: Point122
+    101292: Point123
+    101294: Point124
+    101296: Point125
+    101298: Point126
+    101300: Point127
+    101302: Point128
+    101304: Point129
+    101306: Point13
+    101308: Point130
+    101310: Point131
+    101312: Point132
+    101314: Point133
+    101316: Point134
+    101318: Point135
+    101320: Point136
+    101322: Point137
+    101324: Point138
+    101326: Point139
+    101328: Point14
+    101330: Point140
+    101332: Point141
+    101334: Point142
+    101336: Point15
+    101338: Point17
+    101340: Point18
+    101342: Point19
+    101344: Point20
+    101346: Point21
+    101348: Point22
+    101350: Point23
+    101352: Point24
+    101354: Point25
+    101356: Point26
+    101358: Point27
+    101360: Point28
+    101362: Point29
+    101364: Point30
+    101366: Point31
+    101368: Point32
+    101370: Point33
+    101372: Point34
+    101374: Point35
+    101376: Point37
+    101378: Point38
+    101380: Point39
+    101382: Point40
+    101384: Point41
+    101386: Point43
+    101388: Point44
+    101390: Point45
+    101392: Point46
+    101394: Point47
+    101396: Point48
+    101398: Point49
+    101400: Point50
+    101402: Point51
+    101404: Point52
+    101406: Point53
+    101408: Point54
+    101410: Point55
+    101412: Point56
+    101414: Point57
+    101416: Point58
+    101418: Point59
+    101420: Point60
+    101422: Point62
+    101424: Point63
+    101426: Point64
+    101428: Point65
+    101430: Point66
+    101432: Point68
+    101434: Point69
+    101436: Point70
+    101438: Point71
+    101440: Point72
+    101442: Point73
+    101444: Point74
+    101446: Point75
+    101448: Point76
+    101450: Point77
+    101452: Point78
+    101454: Point79
+    101456: Point80
+    101458: Point81
+    101460: Point82
+    101462: Point83
+    101464: Point84
+    101466: Point86
+    101468: Point87
+    101470: Point88
+    101472: Point89
+    101474: Point90
+    101476: Point92
+    101478: Point93
+    101480: Point94
+    101482: Point95
+    101484: Point96
+    101486: Point97
+    101488: Point98
+    101490: Point99
+    400000: biped Head
+    400002: biped Spine1
+    400004: biped_bone105
+    400006: biped_bone106
+    400008: biped_bone109
+    400010: biped_bone110
+    400012: biped_bone111
+    400014: biped_bone112
+    400016: biped_bone113
+    400018: biped_bone114
+    400020: biped_bone115
+    400022: biped_bone116
+    400024: biped_bone117
+    400026: biped_bone118
+    400028: biped_bone119
+    400030: biped_bone120
+    400032: biped_bone121
+    400034: biped_bone122
+    400036: biped_bone123
+    400038: biped_bone124
+    400040: biped_bone125
+    400042: biped_bone126
+    400044: biped_bone127
+    400046: biped_bone128
+    400048: biped_bone129
+    400050: biped_bone130
+    400052: biped_bone131
+    400054: biped_bone132
+    400056: biped_bone133
+    400058: biped_bone134
+    400060: biped_bone135
+    400062: biped_bone136
+    400064: biped_bone137
+    400066: biped_bone138
+    400068: biped_bone139
+    400070: biped_bone140
+    400072: biped_bone141
+    400074: biped_bone142
+    400076: biped_bone143
+    400078: biped_bone166
+    400080: biped_bone175
+    400082: biped_bone185
+    400084: biped_bone186
+    400086: biped_bone187
+    400088: biped_bone188
+    400090: biped_bone189
+    400092: biped_bone190
+    400094: biped_bone191
+    400096: biped_bone192
+    400098: biped_bone193
+    400100: biped_bone194
+    400102: biped_bone195
+    400104: biped_bone196
+    400106: biped_bone197
+    400108: biped_bone198.
+    400110: biped_bone47
+    400112: biped_bone48
+    400114: biped_bone51
+    400116: biped_bone52
+    400118: biped_bone53
+    400120: biped_bone54
+    400122: biped_bone73
+    400124: biped_bone75
+    400126: biped_bone92
+    400128: biped_bone94
+    400130: Bone01
+    400132: Bone016
+    400134: Bone017
+    400136: Bone018
+    400138: Bone019
+    400140: Bone02
+    400142: Bone020
+    400144: Bone021
+    400146: Bone022
+    400148: Bone023
+    400150: Bone024
+    400152: Bone025
+    400154: Bone026
+    400156: Bone027
+    400158: Bone028
+    400160: Bone029
+    400162: Bone03
+    400164: Bone030
+    400166: Bone031
+    400168: Bone032
+    400170: Bone033
+    400172: Bone034
+    400174: Bone035
+    400176: Bone036
+    400178: Bone037
+    400180: Bone038
+    400182: Bone039
+    400184: Bone04
+    400186: Bone040
+    400188: Bone041
+    400190: Bone042
+    400192: Bone043
+    400194: Bone044
+    400196: Bone05
+    400198: Bone06
+    400200: Bone07
+    400202: Bone08
+    400204: Bone09
+    400206: Bone10
+    400208: Bone11
+    400210: Bone12
+    400212: Bone13
+    400214: Bone14
+    400216: Bone15
+    400218: Box01
+    400220: Dummy002
+    400222: huang_01
+    400224: huang_02
+    400226: huang_03
+    400228: huang_04
+    400230: huang_05
+    400232: huang_06
+    400234: huang_07
+    400236: huang_08
+    400238: huang_09
+    400240: huang_10
+    400242: huang_100
+    400244: huang_101
+    400246: huang_102
+    400248: huang_103
+    400250: huang_104
+    400252: huang_105
+    400254: huang_106
+    400256: huang_107
+    400258: huang_108
+    400260: huang_109
+    400262: huang_11
+    400264: huang_110
+    400266: huang_111
+    400268: huang_112
+    400270: huang_113
+    400272: huang_114
+    400274: huang_115
+    400276: huang_116
+    400278: huang_117
+    400280: huang_118
+    400282: huang_119
+    400284: huang_12
+    400286: huang_120
+    400288: huang_121
+    400290: huang_122
+    400292: huang_123
+    400294: huang_124
+    400296: huang_125
+    400298: huang_126
+    400300: huang_127
+    400302: huang_128
+    400304: huang_129
+    400306: huang_13
+    400308: huang_130
+    400310: huang_131
+    400312: huang_132
+    400314: huang_133
+    400316: huang_134
+    400318: huang_135
+    400320: huang_136
+    400322: huang_137
+    400324: huang_138
+    400326: huang_139
+    400328: huang_14
+    400330: huang_140
+    400332: huang_141
+    400334: huang_142
+    400336: huang_143
+    400338: huang_144
+    400340: huang_145
+    400342: huang_146
+    400344: huang_147
+    400346: huang_148
+    400348: huang_149
+    400350: huang_15
+    400352: huang_150
+    400354: huang_151
+    400356: huang_152
+    400358: huang_153
+    400360: huang_154
+    400362: huang_155
+    400364: huang_156
+    400366: huang_157
+    400368: huang_158
+    400370: huang_159
+    400372: huang_16
+    400374: huang_160
+    400376: huang_161
+    400378: huang_162
+    400380: huang_163
+    400382: huang_164
+    400384: huang_165
+    400386: huang_166
+    400388: huang_167
+    400390: huang_168
+    400392: huang_169
+    400394: huang_17
+    400396: huang_170
+    400398: huang_171
+    400400: huang_172
+    400402: huang_173
+    400404: huang_174
+    400406: huang_175
+    400408: huang_176
+    400410: huang_177
+    400412: huang_178
+    400414: huang_179
+    400416: huang_18
+    400418: huang_180
+    400420: huang_181
+    400422: huang_182
+    400424: huang_183
+    400426: huang_184
+    400428: huang_185
+    400430: huang_186
+    400432: huang_187
+    400434: huang_188
+    400436: huang_189
+    400438: huang_19
+    400440: huang_190
+    400442: huang_191
+    400444: huang_192
+    400446: huang_193
+    400448: huang_194
+    400450: huang_195
+    400452: huang_196
+    400454: huang_197
+    400456: huang_198
+    400458: huang_199
+    400460: huang_20
+    400462: huang_200
+    400464: huang_201
+    400466: huang_202
+    400468: huang_203
+    400470: huang_204
+    400472: huang_205
+    400474: huang_206
+    400476: huang_207
+    400478: huang_208
+    400480: huang_209
+    400482: huang_21
+    400484: huang_210
+    400486: huang_211
+    400488: huang_212
+    400490: huang_213
+    400492: huang_214
+    400494: huang_215
+    400496: huang_216
+    400498: huang_217
+    400500: huang_218
+    400502: huang_219
+    400504: huang_22
+    400506: huang_220
+    400508: huang_221
+    400510: huang_222
+    400512: huang_223
+    400514: huang_224
+    400516: huang_225
+    400518: huang_226
+    400520: huang_227
+    400522: huang_228
+    400524: huang_229
+    400526: huang_23
+    400528: huang_230
+    400530: huang_231
+    400532: huang_232
+    400534: huang_233
+    400536: huang_234
+    400538: huang_235
+    400540: huang_236
+    400542: huang_237
+    400544: huang_238
+    400546: huang_239
+    400548: huang_24
+    400550: huang_240
+    400552: huang_241
+    400554: huang_242
+    400556: huang_243
+    400558: huang_244
+    400560: huang_245
+    400562: huang_246
+    400564: huang_247
+    400566: huang_248
+    400568: huang_25
+    400570: huang_26
+    400572: huang_27
+    400574: huang_28
+    400576: huang_29
+    400578: huang_30
+    400580: huang_31
+    400582: huang_32
+    400584: huang_33
+    400586: huang_34
+    400588: huang_35
+    400590: huang_36
+    400592: huang_37
+    400594: huang_38
+    400596: huang_39
+    400598: huang_40
+    400600: huang_41
+    400602: huang_42
+    400604: huang_43
+    400606: huang_44
+    400608: huang_45
+    400610: huang_46
+    400612: huang_47
+    400614: huang_48
+    400616: huang_49
+    400618: huang_50
+    400620: huang_51
+    400622: huang_52
+    400624: huang_53
+    400626: huang_54
+    400628: huang_55
+    400630: huang_56
+    400632: huang_57
+    400634: huang_58
+    400636: huang_59
+    400638: huang_60
+    400640: huang_61
+    400642: huang_62
+    400644: huang_63
+    400646: huang_64
+    400648: huang_65
+    400650: huang_66
+    400652: huang_67
+    400654: huang_68
+    400656: huang_69
+    400658: huang_70
+    400660: huang_71
+    400662: huang_72
+    400664: huang_73
+    400666: huang_74
+    400668: huang_75
+    400670: huang_76
+    400672: huang_77
+    400674: huang_78
+    400676: huang_79
+    400678: huang_80
+    400680: huang_81
+    400682: huang_82
+    400684: huang_83
+    400686: huang_84
+    400688: huang_85
+    400690: huang_86
+    400692: huang_87
+    400694: huang_88
+    400696: huang_89
+    400698: huang_90
+    400700: huang_91
+    400702: huang_92
+    400704: huang_93
+    400706: huang_94
+    400708: huang_95
+    400710: huang_96
+    400712: huang_97
+    400714: huang_98
+    400716: huang_99
+    400718: //RootNode
+    400720: IK Chain01
+    400722: lan_01
+    400724: lan_02
+    400726: lan_03
+    400728: lan_04
+    400730: lan_05
+    400732: lan_06
+    400734: lan_07
+    400736: lan_08
+    400738: lan_09
+    400740: lan_10
+    400742: lan_100
+    400744: lan_101
+    400746: lan_102
+    400748: lan_103
+    400750: lan_104
+    400752: lan_105
+    400754: lan_106
+    400756: lan_107
+    400758: lan_108
+    400760: lan_109
+    400762: lan_11
+    400764: lan_110
+    400766: lan_111
+    400768: lan_112
+    400770: lan_113
+    400772: lan_114
+    400774: lan_115
+    400776: lan_116
+    400778: lan_117
+    400780: lan_118
+    400782: lan_119
+    400784: lan_12
+    400786: lan_120
+    400788: lan_121
+    400790: lan_122
+    400792: lan_123
+    400794: lan_124
+    400796: lan_125
+    400798: lan_126
+    400800: lan_127
+    400802: lan_128
+    400804: lan_129
+    400806: lan_13
+    400808: lan_130
+    400810: lan_131
+    400812: lan_132
+    400814: lan_133
+    400816: lan_134
+    400818: lan_135
+    400820: lan_136
+    400822: lan_137
+    400824: lan_138
+    400826: lan_139
+    400828: lan_14
+    400830: lan_140
+    400832: lan_141
+    400834: lan_142
+    400836: lan_143
+    400838: lan_144
+    400840: lan_145
+    400842: lan_146
+    400844: lan_147
+    400846: lan_148
+    400848: lan_149
+    400850: lan_15
+    400852: lan_150
+    400854: lan_151
+    400856: lan_152
+    400858: lan_153
+    400860: lan_154
+    400862: lan_155
+    400864: lan_156
+    400866: lan_157
+    400868: lan_158
+    400870: lan_159
+    400872: lan_16
+    400874: lan_160
+    400876: lan_161
+    400878: lan_162
+    400880: lan_163
+    400882: lan_164
+    400884: lan_165
+    400886: lan_166
+    400888: lan_167
+    400890: lan_168
+    400892: lan_169
+    400894: lan_17
+    400896: lan_170
+    400898: lan_171
+    400900: lan_172
+    400902: lan_173
+    400904: lan_174
+    400906: lan_175
+    400908: lan_176
+    400910: lan_177
+    400912: lan_178
+    400914: lan_179
+    400916: lan_18
+    400918: lan_180
+    400920: lan_181
+    400922: lan_182
+    400924: lan_183
+    400926: lan_184
+    400928: lan_185
+    400930: lan_186
+    400932: lan_187
+    400934: lan_188
+    400936: lan_189
+    400938: lan_19
+    400940: lan_190
+    400942: lan_191
+    400944: lan_192
+    400946: lan_193
+    400948: lan_194
+    400950: lan_195
+    400952: lan_196
+    400954: lan_197
+    400956: lan_198
+    400958: lan_199
+    400960: lan_20
+    400962: lan_200
+    400964: lan_201
+    400966: lan_202
+    400968: lan_203
+    400970: lan_204
+    400972: lan_205
+    400974: lan_206
+    400976: lan_207
+    400978: lan_208
+    400980: lan_209
+    400982: lan_21
+    400984: lan_210
+    400986: lan_211
+    400988: lan_212
+    400990: lan_213
+    400992: lan_214
+    400994: lan_215
+    400996: lan_216
+    400998: lan_217
+    401000: lan_218
+    401002: lan_219
+    401004: lan_22
+    401006: lan_220
+    401008: lan_221
+    401010: lan_222
+    401012: lan_223
+    401014: lan_224
+    401016: lan_225
+    401018: lan_226
+    401020: lan_227
+    401022: lan_228
+    401024: lan_229
+    401026: lan_23
+    401028: lan_230
+    401030: lan_231
+    401032: lan_232
+    401034: lan_233
+    401036: lan_234
+    401038: lan_235
+    401040: lan_236
+    401042: lan_237
+    401044: lan_238
+    401046: lan_239
+    401048: lan_24
+    401050: lan_240
+    401052: lan_241
+    401054: lan_242
+    401056: lan_243
+    401058: lan_244
+    401060: lan_245
+    401062: lan_246
+    401064: lan_247
+    401066: lan_248
+    401068: lan_25
+    401070: lan_26
+    401072: lan_27
+    401074: lan_28
+    401076: lan_29
+    401078: lan_30
+    401080: lan_31
+    401082: lan_32
+    401084: lan_33
+    401086: lan_34
+    401088: lan_35
+    401090: lan_36
+    401092: lan_37
+    401094: lan_38
+    401096: lan_39
+    401098: lan_40
+    401100: lan_41
+    401102: lan_42
+    401104: lan_43
+    401106: lan_44
+    401108: lan_45
+    401110: lan_46
+    401112: lan_47
+    401114: lan_48
+    401116: lan_49
+    401118: lan_50
+    401120: lan_51
+    401122: lan_52
+    401124: lan_53
+    401126: lan_54
+    401128: lan_55
+    401130: lan_56
+    401132: lan_57
+    401134: lan_58
+    401136: lan_59
+    401138: lan_60
+    401140: lan_61
+    401142: lan_62
+    401144: lan_63
+    401146: lan_64
+    401148: lan_65
+    401150: lan_66
+    401152: lan_67
+    401154: lan_68
+    401156: lan_69
+    401158: lan_70
+    401160: lan_71
+    401162: lan_72
+    401164: lan_73
+    401166: lan_74
+    401168: lan_75
+    401170: lan_76
+    401172: lan_77
+    401174: lan_78
+    401176: lan_79
+    401178: lan_80
+    401180: lan_81
+    401182: lan_82
+    401184: lan_83
+    401186: lan_84
+    401188: lan_85
+    401190: lan_86
+    401192: lan_87
+    401194: lan_88
+    401196: lan_89
+    401198: lan_90
+    401200: lan_91
+    401202: lan_92
+    401204: lan_93
+    401206: lan_94
+    401208: lan_95
+    401210: lan_96
+    401212: lan_97
+    401214: lan_98
+    401216: lan_99
+    401218: Line01
+    401220: Line02
+    401222: Point01
+    401224: Point02
+    401226: Point03
+    401228: Point04
+    401230: Point05
+    401232: Point06
+    401234: Point07
+    401236: Point08
+    401238: Point09
+    401240: Point10
+    401242: Point100
+    401244: Point101
+    401246: Point102
+    401248: Point103
+    401250: Point104
+    401252: Point105
+    401254: Point106
+    401256: Point107
+    401258: Point108
+    401260: Point109
+    401262: Point11
+    401264: Point110
+    401266: Point111
+    401268: Point112
+    401270: Point113
+    401272: Point114
+    401274: Point115
+    401276: Point116
+    401278: Point117
+    401280: Point118
+    401282: Point119
+    401284: Point12
+    401286: Point120
+    401288: Point121
+    401290: Point122
+    401292: Point123
+    401294: Point124
+    401296: Point125
+    401298: Point126
+    401300: Point127
+    401302: Point128
+    401304: Point129
+    401306: Point13
+    401308: Point130
+    401310: Point131
+    401312: Point132
+    401314: Point133
+    401316: Point134
+    401318: Point135
+    401320: Point136
+    401322: Point137
+    401324: Point138
+    401326: Point139
+    401328: Point14
+    401330: Point140
+    401332: Point141
+    401334: Point142
+    401336: Point15
+    401338: Point17
+    401340: Point18
+    401342: Point19
+    401344: Point20
+    401346: Point21
+    401348: Point22
+    401350: Point23
+    401352: Point24
+    401354: Point25
+    401356: Point26
+    401358: Point27
+    401360: Point28
+    401362: Point29
+    401364: Point30
+    401366: Point31
+    401368: Point32
+    401370: Point33
+    401372: Point34
+    401374: Point35
+    401376: Point37
+    401378: Point38
+    401380: Point39
+    401382: Point40
+    401384: Point41
+    401386: Point43
+    401388: Point44
+    401390: Point45
+    401392: Point46
+    401394: Point47
+    401396: Point48
+    401398: Point49
+    401400: Point50
+    401402: Point51
+    401404: Point52
+    401406: Point53
+    401408: Point54
+    401410: Point55
+    401412: Point56
+    401414: Point57
+    401416: Point58
+    401418: Point59
+    401420: Point60
+    401422: Point62
+    401424: Point63
+    401426: Point64
+    401428: Point65
+    401430: Point66
+    401432: Point68
+    401434: Point69
+    401436: Point70
+    401438: Point71
+    401440: Point72
+    401442: Point73
+    401444: Point74
+    401446: Point75
+    401448: Point76
+    401450: Point77
+    401452: Point78
+    401454: Point79
+    401456: Point80
+    401458: Point81
+    401460: Point82
+    401462: Point83
+    401464: Point84
+    401466: Point86
+    401468: Point87
+    401470: Point88
+    401472: Point89
+    401474: Point90
+    401476: Point92
+    401478: Point93
+    401480: Point94
+    401482: Point95
+    401484: Point96
+    401486: Point97
+    401488: Point98
+    401490: Point99
+    7400000: hydra_birth
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hydra_birth
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biped Head
+        weight: 1
+      - path: biped Head/biped_bone143
+        weight: 1
+      - path: biped Head/Bone016
+        weight: 1
+      - path: biped Head/Bone016/Bone017
+        weight: 1
+      - path: biped Head/Bone016/Bone023
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: biped Head/Bone016/Bone023/Bone024/Bone025/Bone026/Bone027/Bone028
+        weight: 1
+      - path: biped Head/Bone016/Bone029
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: biped Head/Bone016/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: biped Head/Bone016/Bone034
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: biped Head/Bone016/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: biped Head/Bone016/Bone040
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: biped Head/Bone016/Bone040/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: biped Spine1
+        weight: 1
+      - path: biped Spine1/biped_bone94
+        weight: 1
+      - path: biped_bone47
+        weight: 1
+      - path: biped_bone47/biped_bone48
+        weight: 1
+      - path: biped_bone51
+        weight: 1
+      - path: biped_bone51/biped_bone52
+        weight: 1
+      - path: biped_bone53
+        weight: 1
+      - path: biped_bone53/biped_bone54
+        weight: 1
+      - path: biped_bone73
+        weight: 1
+      - path: biped_bone73/biped_bone123
+        weight: 1
+      - path: biped_bone75
+        weight: 1
+      - path: biped_bone75/biped_bone124
+        weight: 1
+      - path: biped_bone105
+        weight: 1
+      - path: biped_bone105/biped_bone106
+        weight: 1
+      - path: biped_bone109
+        weight: 1
+      - path: biped_bone109/biped_bone110
+        weight: 1
+      - path: biped_bone111
+        weight: 1
+      - path: biped_bone111/biped_bone112
+        weight: 1
+      - path: biped_bone113
+        weight: 1
+      - path: biped_bone113/biped_bone114
+        weight: 1
+      - path: biped_bone115
+        weight: 1
+      - path: biped_bone115/biped_bone116
+        weight: 1
+      - path: biped_bone117
+        weight: 1
+      - path: biped_bone117/biped_bone118
+        weight: 1
+      - path: biped_bone119
+        weight: 1
+      - path: biped_bone119/biped_bone120
+        weight: 1
+      - path: biped_bone121
+        weight: 1
+      - path: biped_bone121/biped_bone122
+        weight: 1
+      - path: biped_bone125
+        weight: 1
+      - path: biped_bone125/biped_bone142
+        weight: 1
+      - path: biped_bone126
+        weight: 1
+      - path: biped_bone126/biped_bone127
+        weight: 1
+      - path: biped_bone128
+        weight: 1
+      - path: biped_bone128/biped_bone129
+        weight: 1
+      - path: biped_bone130
+        weight: 1
+      - path: biped_bone130/biped_bone131
+        weight: 1
+      - path: biped_bone132
+        weight: 1
+      - path: biped_bone132/biped_bone133
+        weight: 1
+      - path: biped_bone134
+        weight: 1
+      - path: biped_bone134/biped_bone135
+        weight: 1
+      - path: biped_bone136
+        weight: 1
+      - path: biped_bone136/biped_bone137
+        weight: 1
+      - path: biped_bone138
+        weight: 1
+      - path: biped_bone138/biped_bone139
+        weight: 1
+      - path: biped_bone140
+        weight: 1
+      - path: biped_bone140/biped_bone141
+        weight: 1
+      - path: biped_bone166
+        weight: 1
+      - path: biped_bone166/biped_bone175
+        weight: 1
+      - path: biped_bone185
+        weight: 1
+      - path: biped_bone185/biped_bone186
+        weight: 1
+      - path: biped_bone187
+        weight: 1
+      - path: biped_bone187/biped_bone188
+        weight: 1
+      - path: biped_bone189
+        weight: 1
+      - path: biped_bone189/biped_bone190
+        weight: 1
+      - path: biped_bone191
+        weight: 1
+      - path: biped_bone191/biped_bone192
+        weight: 1
+      - path: biped_bone193
+        weight: 1
+      - path: biped_bone193/biped_bone194
+        weight: 1
+      - path: biped_bone195
+        weight: 1
+      - path: biped_bone195/biped_bone92
+        weight: 1
+      - path: biped_bone196
+        weight: 1
+      - path: biped_bone196/biped_bone197
+        weight: 1
+      - path: biped_bone196/biped_bone197/biped_bone198.
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Box01
+        weight: 1
+      - path: Dummy002/Box01/Bone01
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Bone10
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Bone09/Point52
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Bone08/Point51
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Bone07/Point50
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Bone06/Point49
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Bone05/Point48
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Bone04/Point47
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Bone03/Point46
+        weight: 1
+      - path: Dummy002/Box01/Bone01/Bone02/Point45
+        weight: 1
+      - path: Dummy002/Box01/Bone11
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Bone12
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Bone15/Point25/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Bone13/Bone14/Point140
+        weight: 1
+      - path: Dummy002/Box01/Bone11/Point141
+        weight: 1
+      - path: Dummy002/Box01/IK Chain01
+        weight: 1
+      - path: Dummy002/Box01/Point04
+        weight: 1
+      - path: Dummy002/Box01/Point44
+        weight: 1
+      - path: Dummy002/Box01/Point44/Point142
+        weight: 1
+      - path: Dummy002/huang_124
+        weight: 1
+      - path: Dummy002/huang_124/huang_125
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_132
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_132/huang_133
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_132/huang_133/huang_134
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_132/huang_133/huang_247
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_132/huang_136
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_131/huang_137
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_130/huang_138
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_129/huang_139
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_128/huang_140
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_127/huang_141
+        weight: 1
+      - path: Dummy002/huang_124/huang_125/huang_126/huang_142
+        weight: 1
+      - path: Dummy002/huang_124/huang_143
+        weight: 1
+      - path: Dummy002/huang_124/huang_143/huang_144
+        weight: 1
+      - path: Dummy002/huang_124/huang_145
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_149
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248/huang_151
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248/huang_151/huang_152
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248/huang_151/huang_152/huang_153
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248/huang_151/huang_152/huang_153/huang_154
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_148/huang_248/huang_151/huang_152/huang_153/huang_154/huang_155
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_146/huang_147/huang_156
+        weight: 1
+      - path: Dummy002/huang_124/huang_145/huang_157
+        weight: 1
+      - path: Dummy002/huang_124/huang_158
+        weight: 1
+      - path: Dummy002/huang_124/huang_159
+        weight: 1
+      - path: Dummy002/lan_124
+        weight: 1
+      - path: Dummy002/lan_124/lan_125
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_132
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_132/lan_133
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_132/lan_133/lan_134
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_132/lan_133/lan_247
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_132/lan_136
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_131/lan_137
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_130/lan_138
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_129/lan_139
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_128/lan_140
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_127/lan_141
+        weight: 1
+      - path: Dummy002/lan_124/lan_125/lan_126/lan_142
+        weight: 1
+      - path: Dummy002/lan_124/lan_143
+        weight: 1
+      - path: Dummy002/lan_124/lan_143/lan_144
+        weight: 1
+      - path: Dummy002/lan_124/lan_145
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_149
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248/lan_151
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248/lan_151/lan_152
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248/lan_151/lan_152/lan_153
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248/lan_151/lan_152/lan_153/lan_154
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_148/lan_248/lan_151/lan_152/lan_153/lan_154/lan_155
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_146/lan_147/lan_156
+        weight: 1
+      - path: Dummy002/lan_124/lan_145/lan_157
+        weight: 1
+      - path: Dummy002/lan_124/lan_158
+        weight: 1
+      - path: Dummy002/lan_124/lan_159
+        weight: 1
+      - path: huang_01
+        weight: 1
+      - path: huang_02
+        weight: 1
+      - path: huang_02/huang_03
+        weight: 1
+      - path: huang_02/huang_04
+        weight: 1
+      - path: huang_02/huang_04/huang_05
+        weight: 1
+      - path: huang_06
+        weight: 1
+      - path: huang_06/huang_07
+        weight: 1
+      - path: huang_06/huang_08
+        weight: 1
+      - path: huang_06/huang_08/huang_09
+        weight: 1
+      - path: huang_10
+        weight: 1
+      - path: huang_10/huang_11
+        weight: 1
+      - path: huang_10/huang_12
+        weight: 1
+      - path: huang_10/huang_12/huang_13
+        weight: 1
+      - path: huang_14
+        weight: 1
+      - path: huang_14/huang_15
+        weight: 1
+      - path: huang_14/huang_16
+        weight: 1
+      - path: huang_14/huang_16/huang_17
+        weight: 1
+      - path: huang_18
+        weight: 1
+      - path: huang_18/huang_19
+        weight: 1
+      - path: huang_18/huang_20
+        weight: 1
+      - path: huang_18/huang_20/huang_21
+        weight: 1
+      - path: huang_22
+        weight: 1
+      - path: huang_22/huang_23
+        weight: 1
+      - path: huang_22/huang_24
+        weight: 1
+      - path: huang_22/huang_24/huang_25
+        weight: 1
+      - path: huang_26
+        weight: 1
+      - path: huang_26/huang_27
+        weight: 1
+      - path: huang_26/huang_28
+        weight: 1
+      - path: huang_26/huang_28/huang_29
+        weight: 1
+      - path: huang_30
+        weight: 1
+      - path: huang_30/huang_31
+        weight: 1
+      - path: huang_30/huang_32
+        weight: 1
+      - path: huang_30/huang_32/huang_33
+        weight: 1
+      - path: huang_34
+        weight: 1
+      - path: huang_34/huang_35
+        weight: 1
+      - path: huang_34/huang_36
+        weight: 1
+      - path: huang_34/huang_36/huang_37
+        weight: 1
+      - path: huang_38
+        weight: 1
+      - path: huang_38/huang_39
+        weight: 1
+      - path: huang_38/huang_40
+        weight: 1
+      - path: huang_38/huang_40/huang_41
+        weight: 1
+      - path: huang_42
+        weight: 1
+      - path: huang_42/huang_43
+        weight: 1
+      - path: huang_42/huang_44
+        weight: 1
+      - path: huang_42/huang_44/huang_45
+        weight: 1
+      - path: huang_46
+        weight: 1
+      - path: huang_46/huang_47
+        weight: 1
+      - path: huang_46/huang_48
+        weight: 1
+      - path: huang_46/huang_48/huang_49
+        weight: 1
+      - path: huang_50
+        weight: 1
+      - path: huang_50/huang_51
+        weight: 1
+      - path: huang_50/huang_52
+        weight: 1
+      - path: huang_50/huang_52/huang_53
+        weight: 1
+      - path: huang_54
+        weight: 1
+      - path: huang_54/huang_55
+        weight: 1
+      - path: huang_54/huang_56
+        weight: 1
+      - path: huang_54/huang_56/huang_57
+        weight: 1
+      - path: huang_58
+        weight: 1
+      - path: huang_58/huang_59
+        weight: 1
+      - path: huang_58/huang_60
+        weight: 1
+      - path: huang_58/huang_60/huang_61
+        weight: 1
+      - path: huang_62
+        weight: 1
+      - path: huang_62/huang_63
+        weight: 1
+      - path: huang_62/huang_64
+        weight: 1
+      - path: huang_62/huang_64/huang_65
+        weight: 1
+      - path: huang_66
+        weight: 1
+      - path: huang_66/huang_67
+        weight: 1
+      - path: huang_66/huang_68
+        weight: 1
+      - path: huang_66/huang_68/huang_69
+        weight: 1
+      - path: huang_70
+        weight: 1
+      - path: huang_70/huang_71
+        weight: 1
+      - path: huang_70/huang_72
+        weight: 1
+      - path: huang_70/huang_72/huang_73
+        weight: 1
+      - path: huang_74
+        weight: 1
+      - path: huang_74/huang_75
+        weight: 1
+      - path: huang_74/huang_76
+        weight: 1
+      - path: huang_74/huang_76/huang_77
+        weight: 1
+      - path: huang_78
+        weight: 1
+      - path: huang_78/huang_79
+        weight: 1
+      - path: huang_78/huang_80
+        weight: 1
+      - path: huang_78/huang_80/huang_81
+        weight: 1
+      - path: huang_82
+        weight: 1
+      - path: huang_82/huang_83
+        weight: 1
+      - path: huang_82/huang_84
+        weight: 1
+      - path: huang_82/huang_84/huang_85
+        weight: 1
+      - path: huang_86
+        weight: 1
+      - path: huang_86/huang_87
+        weight: 1
+      - path: huang_86/huang_88
+        weight: 1
+      - path: huang_86/huang_88/huang_89
+        weight: 1
+      - path: huang_90
+        weight: 1
+      - path: huang_91
+        weight: 1
+      - path: huang_91/huang_92
+        weight: 1
+      - path: huang_91/huang_93
+        weight: 1
+      - path: huang_91/huang_93/huang_94
+        weight: 1
+      - path: huang_95
+        weight: 1
+      - path: huang_95/huang_96
+        weight: 1
+      - path: huang_95/huang_97
+        weight: 1
+      - path: huang_95/huang_97/huang_98
+        weight: 1
+      - path: huang_99
+        weight: 1
+      - path: huang_99/huang_100
+        weight: 1
+      - path: huang_99/huang_101
+        weight: 1
+      - path: huang_99/huang_101/huang_102
+        weight: 1
+      - path: huang_103
+        weight: 1
+      - path: huang_103/huang_104
+        weight: 1
+      - path: huang_103/huang_105
+        weight: 1
+      - path: huang_103/huang_105/huang_106
+        weight: 1
+      - path: huang_107
+        weight: 1
+      - path: huang_107/huang_108
+        weight: 1
+      - path: huang_107/huang_109
+        weight: 1
+      - path: huang_107/huang_109/huang_110
+        weight: 1
+      - path: huang_111
+        weight: 1
+      - path: huang_111/huang_112
+        weight: 1
+      - path: huang_111/huang_113
+        weight: 1
+      - path: huang_111/huang_113/huang_114
+        weight: 1
+      - path: huang_115
+        weight: 1
+      - path: huang_115/huang_116
+        weight: 1
+      - path: huang_115/huang_117
+        weight: 1
+      - path: huang_115/huang_117/huang_118
+        weight: 1
+      - path: huang_119
+        weight: 1
+      - path: huang_119/huang_120
+        weight: 1
+      - path: huang_119/huang_121
+        weight: 1
+      - path: huang_119/huang_121/huang_122
+        weight: 1
+      - path: huang_123
+        weight: 1
+      - path: huang_135
+        weight: 1
+      - path: huang_135/huang_246
+        weight: 1
+      - path: huang_160
+        weight: 1
+      - path: huang_160/huang_161
+        weight: 1
+      - path: huang_160/huang_161/huang_162
+        weight: 1
+      - path: huang_163
+        weight: 1
+      - path: huang_163/huang_164
+        weight: 1
+      - path: huang_165
+        weight: 1
+      - path: huang_165/huang_166
+        weight: 1
+      - path: huang_167
+        weight: 1
+      - path: huang_167/huang_168
+        weight: 1
+      - path: huang_169
+        weight: 1
+      - path: huang_169/huang_170
+        weight: 1
+      - path: huang_171
+        weight: 1
+      - path: huang_171/huang_172
+        weight: 1
+      - path: huang_173
+        weight: 1
+      - path: huang_173/huang_174
+        weight: 1
+      - path: huang_175
+        weight: 1
+      - path: huang_175/huang_176
+        weight: 1
+      - path: huang_177
+        weight: 1
+      - path: huang_177/huang_178
+        weight: 1
+      - path: huang_179
+        weight: 1
+      - path: huang_179/huang_180
+        weight: 1
+      - path: huang_181
+        weight: 1
+      - path: huang_181/huang_182
+        weight: 1
+      - path: huang_183
+        weight: 1
+      - path: huang_183/huang_184
+        weight: 1
+      - path: huang_185
+        weight: 1
+      - path: huang_185/huang_186
+        weight: 1
+      - path: huang_187
+        weight: 1
+      - path: huang_187/huang_188
+        weight: 1
+      - path: huang_189
+        weight: 1
+      - path: huang_189/huang_190
+        weight: 1
+      - path: huang_191
+        weight: 1
+      - path: huang_191/huang_192
+        weight: 1
+      - path: huang_193
+        weight: 1
+      - path: huang_193/huang_194
+        weight: 1
+      - path: huang_195
+        weight: 1
+      - path: huang_195/huang_196
+        weight: 1
+      - path: huang_197
+        weight: 1
+      - path: huang_197/huang_198
+        weight: 1
+      - path: huang_199
+        weight: 1
+      - path: huang_199/huang_200
+        weight: 1
+      - path: huang_201
+        weight: 1
+      - path: huang_201/huang_202
+        weight: 1
+      - path: huang_203
+        weight: 1
+      - path: huang_203/huang_204
+        weight: 1
+      - path: huang_205
+        weight: 1
+      - path: huang_205/huang_206
+        weight: 1
+      - path: huang_207
+        weight: 1
+      - path: huang_207/huang_208
+        weight: 1
+      - path: huang_207/huang_209
+        weight: 1
+      - path: huang_207/huang_209/huang_210
+        weight: 1
+      - path: huang_207/huang_209/huang_211
+        weight: 1
+      - path: huang_207/huang_209/huang_211/huang_212
+        weight: 1
+      - path: huang_207/huang_209/huang_211/huang_212/huang_213
+        weight: 1
+      - path: huang_207/huang_209/huang_211/huang_212/huang_213/huang_214
+        weight: 1
+      - path: huang_207/huang_209/huang_211/huang_212/huang_213/huang_214/huang_215
+        weight: 1
+      - path: huang_207/huang_209/huang_211/huang_212/huang_213/huang_214/huang_215/huang_216
+        weight: 1
+      - path: huang_207/huang_209/huang_217
+        weight: 1
+      - path: huang_207/huang_209/huang_217/huang_218
+        weight: 1
+      - path: huang_207/huang_209/huang_217/huang_218/huang_219
+        weight: 1
+      - path: huang_207/huang_209/huang_217/huang_218/huang_219/huang_220
+        weight: 1
+      - path: huang_207/huang_209/huang_217/huang_218/huang_219/huang_220/huang_221
+        weight: 1
+      - path: huang_207/huang_209/huang_222
+        weight: 1
+      - path: huang_207/huang_209/huang_222/huang_223
+        weight: 1
+      - path: huang_207/huang_209/huang_222/huang_223/huang_224
+        weight: 1
+      - path: huang_207/huang_209/huang_222/huang_223/huang_224/huang_225
+        weight: 1
+      - path: huang_207/huang_209/huang_222/huang_223/huang_224/huang_225/huang_226
+        weight: 1
+      - path: huang_207/huang_209/huang_222/huang_223/huang_224/huang_225/huang_226/huang_227
+        weight: 1
+      - path: huang_207/huang_209/huang_228
+        weight: 1
+      - path: huang_207/huang_209/huang_228/huang_229
+        weight: 1
+      - path: huang_207/huang_209/huang_228/huang_229/huang_230
+        weight: 1
+      - path: huang_207/huang_209/huang_228/huang_229/huang_230/huang_231
+        weight: 1
+      - path: huang_207/huang_209/huang_228/huang_229/huang_230/huang_231/huang_232
+        weight: 1
+      - path: huang_233
+        weight: 1
+      - path: huang_233/huang_234
+        weight: 1
+      - path: huang_235
+        weight: 1
+      - path: huang_235/huang_236
+        weight: 1
+      - path: huang_237
+        weight: 1
+      - path: huang_237/huang_238
+        weight: 1
+      - path: huang_239
+        weight: 1
+      - path: huang_239/huang_240
+        weight: 1
+      - path: huang_241
+        weight: 1
+      - path: huang_241/huang_242
+        weight: 1
+      - path: huang_243
+        weight: 1
+      - path: huang_243/huang_244
+        weight: 1
+      - path: huang_245
+        weight: 1
+      - path: huang_245/huang_150
+        weight: 1
+      - path: lan_01
+        weight: 1
+      - path: lan_02
+        weight: 1
+      - path: lan_02/lan_03
+        weight: 1
+      - path: lan_02/lan_04
+        weight: 1
+      - path: lan_02/lan_04/lan_05
+        weight: 1
+      - path: lan_06
+        weight: 1
+      - path: lan_06/lan_07
+        weight: 1
+      - path: lan_06/lan_08
+        weight: 1
+      - path: lan_06/lan_08/lan_09
+        weight: 1
+      - path: lan_10
+        weight: 1
+      - path: lan_10/lan_11
+        weight: 1
+      - path: lan_10/lan_12
+        weight: 1
+      - path: lan_10/lan_12/lan_13
+        weight: 1
+      - path: lan_14
+        weight: 1
+      - path: lan_14/lan_15
+        weight: 1
+      - path: lan_14/lan_16
+        weight: 1
+      - path: lan_14/lan_16/lan_17
+        weight: 1
+      - path: lan_18
+        weight: 1
+      - path: lan_18/lan_19
+        weight: 1
+      - path: lan_18/lan_20
+        weight: 1
+      - path: lan_18/lan_20/lan_21
+        weight: 1
+      - path: lan_22
+        weight: 1
+      - path: lan_22/lan_23
+        weight: 1
+      - path: lan_22/lan_24
+        weight: 1
+      - path: lan_22/lan_24/lan_25
+        weight: 1
+      - path: lan_26
+        weight: 1
+      - path: lan_26/lan_27
+        weight: 1
+      - path: lan_26/lan_28
+        weight: 1
+      - path: lan_26/lan_28/lan_29
+        weight: 1
+      - path: lan_30
+        weight: 1
+      - path: lan_30/lan_31
+        weight: 1
+      - path: lan_30/lan_32
+        weight: 1
+      - path: lan_30/lan_32/lan_33
+        weight: 1
+      - path: lan_34
+        weight: 1
+      - path: lan_34/lan_35
+        weight: 1
+      - path: lan_34/lan_36
+        weight: 1
+      - path: lan_34/lan_36/lan_37
+        weight: 1
+      - path: lan_38
+        weight: 1
+      - path: lan_38/lan_39
+        weight: 1
+      - path: lan_38/lan_40
+        weight: 1
+      - path: lan_38/lan_40/lan_41
+        weight: 1
+      - path: lan_42
+        weight: 1
+      - path: lan_42/lan_43
+        weight: 1
+      - path: lan_42/lan_44
+        weight: 1
+      - path: lan_42/lan_44/lan_45
+        weight: 1
+      - path: lan_46
+        weight: 1
+      - path: lan_46/lan_47
+        weight: 1
+      - path: lan_46/lan_48
+        weight: 1
+      - path: lan_46/lan_48/lan_49
+        weight: 1
+      - path: lan_50
+        weight: 1
+      - path: lan_50/lan_51
+        weight: 1
+      - path: lan_50/lan_52
+        weight: 1
+      - path: lan_50/lan_52/lan_53
+        weight: 1
+      - path: lan_54
+        weight: 1
+      - path: lan_54/lan_55
+        weight: 1
+      - path: lan_54/lan_56
+        weight: 1
+      - path: lan_54/lan_56/lan_57
+        weight: 1
+      - path: lan_58
+        weight: 1
+      - path: lan_58/lan_59
+        weight: 1
+      - path: lan_58/lan_60
+        weight: 1
+      - path: lan_58/lan_60/lan_61
+        weight: 1
+      - path: lan_62
+        weight: 1
+      - path: lan_62/lan_63
+        weight: 1
+      - path: lan_62/lan_64
+        weight: 1
+      - path: lan_62/lan_64/lan_65
+        weight: 1
+      - path: lan_66
+        weight: 1
+      - path: lan_66/lan_67
+        weight: 1
+      - path: lan_66/lan_68
+        weight: 1
+      - path: lan_66/lan_68/lan_69
+        weight: 1
+      - path: lan_70
+        weight: 1
+      - path: lan_70/lan_71
+        weight: 1
+      - path: lan_70/lan_72
+        weight: 1
+      - path: lan_70/lan_72/lan_73
+        weight: 1
+      - path: lan_74
+        weight: 1
+      - path: lan_74/lan_75
+        weight: 1
+      - path: lan_74/lan_76
+        weight: 1
+      - path: lan_74/lan_76/lan_77
+        weight: 1
+      - path: lan_78
+        weight: 1
+      - path: lan_78/lan_79
+        weight: 1
+      - path: lan_78/lan_80
+        weight: 1
+      - path: lan_78/lan_80/lan_81
+        weight: 1
+      - path: lan_82
+        weight: 1
+      - path: lan_82/lan_83
+        weight: 1
+      - path: lan_82/lan_84
+        weight: 1
+      - path: lan_82/lan_84/lan_85
+        weight: 1
+      - path: lan_86
+        weight: 1
+      - path: lan_86/lan_87
+        weight: 1
+      - path: lan_86/lan_88
+        weight: 1
+      - path: lan_86/lan_88/lan_89
+        weight: 1
+      - path: lan_90
+        weight: 1
+      - path: lan_91
+        weight: 1
+      - path: lan_91/lan_92
+        weight: 1
+      - path: lan_91/lan_93
+        weight: 1
+      - path: lan_91/lan_93/lan_94
+        weight: 1
+      - path: lan_95
+        weight: 1
+      - path: lan_95/lan_96
+        weight: 1
+      - path: lan_95/lan_97
+        weight: 1
+      - path: lan_95/lan_97/lan_98
+        weight: 1
+      - path: lan_99
+        weight: 1
+      - path: lan_99/lan_100
+        weight: 1
+      - path: lan_99/lan_101
+        weight: 1
+      - path: lan_99/lan_101/lan_102
+        weight: 1
+      - path: lan_103
+        weight: 1
+      - path: lan_103/lan_104
+        weight: 1
+      - path: lan_103/lan_105
+        weight: 1
+      - path: lan_103/lan_105/lan_106
+        weight: 1
+      - path: lan_107
+        weight: 1
+      - path: lan_107/lan_108
+        weight: 1
+      - path: lan_107/lan_109
+        weight: 1
+      - path: lan_107/lan_109/lan_110
+        weight: 1
+      - path: lan_111
+        weight: 1
+      - path: lan_111/lan_112
+        weight: 1
+      - path: lan_111/lan_113
+        weight: 1
+      - path: lan_111/lan_113/lan_114
+        weight: 1
+      - path: lan_115
+        weight: 1
+      - path: lan_115/lan_116
+        weight: 1
+      - path: lan_115/lan_117
+        weight: 1
+      - path: lan_115/lan_117/lan_118
+        weight: 1
+      - path: lan_119
+        weight: 1
+      - path: lan_119/lan_120
+        weight: 1
+      - path: lan_119/lan_121
+        weight: 1
+      - path: lan_119/lan_121/lan_122
+        weight: 1
+      - path: lan_123
+        weight: 1
+      - path: lan_135
+        weight: 1
+      - path: lan_135/lan_246
+        weight: 1
+      - path: lan_160
+        weight: 1
+      - path: lan_160/lan_161
+        weight: 1
+      - path: lan_160/lan_161/lan_162
+        weight: 1
+      - path: lan_163
+        weight: 1
+      - path: lan_163/lan_164
+        weight: 1
+      - path: lan_165
+        weight: 1
+      - path: lan_165/lan_166
+        weight: 1
+      - path: lan_167
+        weight: 1
+      - path: lan_167/lan_168
+        weight: 1
+      - path: lan_169
+        weight: 1
+      - path: lan_169/lan_170
+        weight: 1
+      - path: lan_171
+        weight: 1
+      - path: lan_171/lan_172
+        weight: 1
+      - path: lan_173
+        weight: 1
+      - path: lan_173/lan_174
+        weight: 1
+      - path: lan_175
+        weight: 1
+      - path: lan_175/lan_176
+        weight: 1
+      - path: lan_177
+        weight: 1
+      - path: lan_177/lan_178
+        weight: 1
+      - path: lan_179
+        weight: 1
+      - path: lan_179/lan_180
+        weight: 1
+      - path: lan_181
+        weight: 1
+      - path: lan_181/lan_182
+        weight: 1
+      - path: lan_183
+        weight: 1
+      - path: lan_183/lan_184
+        weight: 1
+      - path: lan_185
+        weight: 1
+      - path: lan_185/lan_186
+        weight: 1
+      - path: lan_187
+        weight: 1
+      - path: lan_187/lan_188
+        weight: 1
+      - path: lan_189
+        weight: 1
+      - path: lan_189/lan_190
+        weight: 1
+      - path: lan_191
+        weight: 1
+      - path: lan_191/lan_192
+        weight: 1
+      - path: lan_193
+        weight: 1
+      - path: lan_193/lan_194
+        weight: 1
+      - path: lan_195
+        weight: 1
+      - path: lan_195/lan_196
+        weight: 1
+      - path: lan_197
+        weight: 1
+      - path: lan_197/lan_198
+        weight: 1
+      - path: lan_199
+        weight: 1
+      - path: lan_199/lan_200
+        weight: 1
+      - path: lan_201
+        weight: 1
+      - path: lan_201/lan_202
+        weight: 1
+      - path: lan_203
+        weight: 1
+      - path: lan_203/lan_204
+        weight: 1
+      - path: lan_205
+        weight: 1
+      - path: lan_205/lan_206
+        weight: 1
+      - path: lan_207
+        weight: 1
+      - path: lan_207/lan_208
+        weight: 1
+      - path: lan_207/lan_209
+        weight: 1
+      - path: lan_207/lan_209/lan_210
+        weight: 1
+      - path: lan_207/lan_209/lan_211
+        weight: 1
+      - path: lan_207/lan_209/lan_211/lan_212
+        weight: 1
+      - path: lan_207/lan_209/lan_211/lan_212/lan_213
+        weight: 1
+      - path: lan_207/lan_209/lan_211/lan_212/lan_213/lan_214
+        weight: 1
+      - path: lan_207/lan_209/lan_211/lan_212/lan_213/lan_214/lan_215
+        weight: 1
+      - path: lan_207/lan_209/lan_211/lan_212/lan_213/lan_214/lan_215/lan_216
+        weight: 1
+      - path: lan_207/lan_209/lan_217
+        weight: 1
+      - path: lan_207/lan_209/lan_217/lan_218
+        weight: 1
+      - path: lan_207/lan_209/lan_217/lan_218/lan_219
+        weight: 1
+      - path: lan_207/lan_209/lan_217/lan_218/lan_219/lan_220
+        weight: 1
+      - path: lan_207/lan_209/lan_217/lan_218/lan_219/lan_220/lan_221
+        weight: 1
+      - path: lan_207/lan_209/lan_222
+        weight: 1
+      - path: lan_207/lan_209/lan_222/lan_223
+        weight: 1
+      - path: lan_207/lan_209/lan_222/lan_223/lan_224
+        weight: 1
+      - path: lan_207/lan_209/lan_222/lan_223/lan_224/lan_225
+        weight: 1
+      - path: lan_207/lan_209/lan_222/lan_223/lan_224/lan_225/lan_226
+        weight: 1
+      - path: lan_207/lan_209/lan_222/lan_223/lan_224/lan_225/lan_226/lan_227
+        weight: 1
+      - path: lan_207/lan_209/lan_228
+        weight: 1
+      - path: lan_207/lan_209/lan_228/lan_229
+        weight: 1
+      - path: lan_207/lan_209/lan_228/lan_229/lan_230
+        weight: 1
+      - path: lan_207/lan_209/lan_228/lan_229/lan_230/lan_231
+        weight: 1
+      - path: lan_207/lan_209/lan_228/lan_229/lan_230/lan_231/lan_232
+        weight: 1
+      - path: lan_233
+        weight: 1
+      - path: lan_233/lan_234
+        weight: 1
+      - path: lan_235
+        weight: 1
+      - path: lan_235/lan_236
+        weight: 1
+      - path: lan_237
+        weight: 1
+      - path: lan_237/lan_238
+        weight: 1
+      - path: lan_239
+        weight: 1
+      - path: lan_239/lan_240
+        weight: 1
+      - path: lan_241
+        weight: 1
+      - path: lan_241/lan_242
+        weight: 1
+      - path: lan_243
+        weight: 1
+      - path: lan_243/lan_244
+        weight: 1
+      - path: lan_245
+        weight: 1
+      - path: lan_245/lan_150
+        weight: 1
+      - path: Line01
+        weight: 1
+      - path: Line02
+        weight: 1
+      - path: Point26
+        weight: 1
+      - path: Point26/Point27
+        weight: 1
+      - path: Point26/Point28
+        weight: 1
+      - path: Point26/Point28/Point29
+        weight: 1
+      - path: Point30
+        weight: 1
+      - path: Point30/Point31
+        weight: 1
+      - path: Point30/Point32
+        weight: 1
+      - path: Point30/Point32/Point33
+        weight: 1
+      - path: Point34
+        weight: 1
+      - path: Point34/Point59
+        weight: 1
+      - path: Point34/Point83
+        weight: 1
+      - path: Point34/Point83/Point01
+        weight: 1
+      - path: Point35
+        weight: 1
+      - path: Point35/Point60
+        weight: 1
+      - path: Point35/Point84
+        weight: 1
+      - path: Point35/Point84/Point02
+        weight: 1
+      - path: Point37
+        weight: 1
+      - path: Point37/Point62
+        weight: 1
+      - path: Point37/Point86
+        weight: 1
+      - path: Point37/Point86/Point03
+        weight: 1
+      - path: Point38
+        weight: 1
+      - path: Point38/Point63
+        weight: 1
+      - path: Point38/Point87
+        weight: 1
+      - path: Point38/Point87/Point08
+        weight: 1
+      - path: Point39
+        weight: 1
+      - path: Point39/Point64
+        weight: 1
+      - path: Point39/Point88
+        weight: 1
+      - path: Point39/Point88/Point07
+        weight: 1
+      - path: Point40
+        weight: 1
+      - path: Point40/Point65
+        weight: 1
+      - path: Point40/Point89
+        weight: 1
+      - path: Point40/Point89/Point06
+        weight: 1
+      - path: Point41
+        weight: 1
+      - path: Point41/Point66
+        weight: 1
+      - path: Point41/Point90
+        weight: 1
+      - path: Point41/Point90/Point05
+        weight: 1
+      - path: Point43
+        weight: 1
+      - path: Point43/Point68
+        weight: 1
+      - path: Point43/Point92
+        weight: 1
+      - path: Point43/Point92/Point15
+        weight: 1
+      - path: Point53
+        weight: 1
+      - path: Point53/Point54
+        weight: 1
+      - path: Point53/Point55
+        weight: 1
+      - path: Point53/Point55/Point119
+        weight: 1
+      - path: Point56
+        weight: 1
+      - path: Point56/Point81
+        weight: 1
+      - path: Point56/Point105
+        weight: 1
+      - path: Point56/Point105/Point23
+        weight: 1
+      - path: Point57
+        weight: 1
+      - path: Point57/Point82
+        weight: 1
+      - path: Point57/Point106
+        weight: 1
+      - path: Point57/Point106/Point24
+        weight: 1
+      - path: Point58
+        weight: 1
+      - path: Point107
+        weight: 1
+      - path: Point107/Point69
+        weight: 1
+      - path: Point107/Point93
+        weight: 1
+      - path: Point107/Point93/Point14
+        weight: 1
+      - path: Point108
+        weight: 1
+      - path: Point108/Point70
+        weight: 1
+      - path: Point108/Point94
+        weight: 1
+      - path: Point108/Point94/Point13
+        weight: 1
+      - path: Point109
+        weight: 1
+      - path: Point109/Point71
+        weight: 1
+      - path: Point109/Point95
+        weight: 1
+      - path: Point109/Point95/Point12
+        weight: 1
+      - path: Point110
+        weight: 1
+      - path: Point110/Point72
+        weight: 1
+      - path: Point110/Point96
+        weight: 1
+      - path: Point110/Point96/Point11
+        weight: 1
+      - path: Point111
+        weight: 1
+      - path: Point111/Point73
+        weight: 1
+      - path: Point111/Point97
+        weight: 1
+      - path: Point111/Point97/Point10
+        weight: 1
+      - path: Point112
+        weight: 1
+      - path: Point112/Point74
+        weight: 1
+      - path: Point112/Point98
+        weight: 1
+      - path: Point112/Point98/Point09
+        weight: 1
+      - path: Point113
+        weight: 1
+      - path: Point113/Point75
+        weight: 1
+      - path: Point113/Point99
+        weight: 1
+      - path: Point113/Point99/Point22
+        weight: 1
+      - path: Point114
+        weight: 1
+      - path: Point114/Point76
+        weight: 1
+      - path: Point114/Point100
+        weight: 1
+      - path: Point114/Point100/Point21
+        weight: 1
+      - path: Point115
+        weight: 1
+      - path: Point115/Point77
+        weight: 1
+      - path: Point115/Point101
+        weight: 1
+      - path: Point115/Point101/Point20
+        weight: 1
+      - path: Point116
+        weight: 1
+      - path: Point116/Point78
+        weight: 1
+      - path: Point116/Point102
+        weight: 1
+      - path: Point116/Point102/Point19
+        weight: 1
+      - path: Point117
+        weight: 1
+      - path: Point117/Point79
+        weight: 1
+      - path: Point117/Point103
+        weight: 1
+      - path: Point117/Point103/Point18
+        weight: 1
+      - path: Point118
+        weight: 1
+      - path: Point118/Point80
+        weight: 1
+      - path: Point118/Point104
+        weight: 1
+      - path: Point118/Point104/Point17
+        weight: 1
+      - path: Point120
+        weight: 1
+      - path: Point120/Point121
+        weight: 1
+      - path: Point120/Point122
+        weight: 1
+      - path: Point120/Point122/Point123
+        weight: 1
+      - path: Point124
+        weight: 1
+      - path: Point124/Point125
+        weight: 1
+      - path: Point124/Point126
+        weight: 1
+      - path: Point124/Point126/Point127
+        weight: 1
+      - path: Point128
+        weight: 1
+      - path: Point128/Point129
+        weight: 1
+      - path: Point128/Point130
+        weight: 1
+      - path: Point128/Point130/Point131
+        weight: 1
+      - path: Point132
+        weight: 1
+      - path: Point132/Point133
+        weight: 1
+      - path: Point132/Point134
+        weight: 1
+      - path: Point132/Point134/Point135
+        weight: 1
+      - path: Point136
+        weight: 1
+      - path: Point136/Point137
+        weight: 1
+      - path: Point136/Point138
+        weight: 1
+      - path: Point136/Point138/Point139
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f1e7e359aba00e0468f695b8c3d5c93c,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

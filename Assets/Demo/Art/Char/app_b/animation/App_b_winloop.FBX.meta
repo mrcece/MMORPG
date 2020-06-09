@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 99d699225910f4040bfb50df0dd4c48c
+timeCreated: 1532334523
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger01
+    100014: Bip001 L Finger02
+    100016: Bip001 L Finger1
+    100018: Bip001 L Finger11
+    100020: Bip001 L Finger12
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger22
+    100028: Bip001 L Finger3
+    100030: Bip001 L Finger31
+    100032: Bip001 L Finger32
+    100034: Bip001 L Finger4
+    100036: Bip001 L Finger41
+    100038: Bip001 L Finger42
+    100040: Bip001 L Foot
+    100042: Bip001 L Forearm
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L UpperArm
+    100052: Bip001 Neck
+    100054: Bip001 Pelvis
+    100056: Bip001 Prop1
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger02
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger12
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger22
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger32
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger42
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R Hand
+    100098: Bip001 R Thigh
+    100100: Bip001 R Toe0
+    100102: Bip001 R UpperArm
+    100104: Bip001 Spine
+    100106: Bip001 Spine1
+    100108: Bone001
+    100110: Bone002
+    100112: Bone003
+    100114: Bone004
+    100116: head_01
+    100118: head_02
+    100120: head_03
+    100122: head_04
+    100124: head_05
+    100126: head_06
+    100128: head_07
+    100130: head_08
+    100132: head_09
+    100134: head_10
+    100136: head_11
+    100138: head_12
+    100140: head_13
+    100142: head_14
+    100144: head_15
+    100146: head_16
+    100148: head_17
+    100150: head_18
+    100152: head_19
+    100154: head_20
+    100156: head_21
+    100158: head_22
+    100160: ribbon_01
+    100162: ribbon_02
+    100164: ribbon_03
+    100166: ribbon_04
+    100168: ribbon_05
+    100170: ribbon_06
+    100172: ribbon_07
+    100174: ribbon_08
+    100176: ribbon_09
+    100178: ribbon_10
+    100180: ribbon_11
+    100182: ribbon_12
+    100184: ribbon_13
+    100186: ribbon_14
+    100188: ribbon_15
+    100190: ribbon_16
+    100192: ribbon_17
+    100194: ribbon_18
+    100196: ribbon_19
+    100198: ribbon_20
+    100200: ribbon_21
+    100202: ribbon_22
+    100204: ribbon_23
+    100206: ribbon_24
+    100208: ribbon_25
+    100210: ribbon_26
+    100212: ribbon_27
+    100214: ribbon_28
+    100216: ribbon_29
+    100218: ribbon_30
+    100220: ribbon_31
+    100222: ribbon_32
+    100224: ribbon_33
+    100226: ribbon_34
+    100228: ribbon_35
+    100230: ribbon_36
+    100232: ribbon_37
+    100234: ribbon_38
+    100236: ribbon_39
+    100238: ribbon_40
+    100240: ribbon_41
+    100242: ribbon_42
+    100244: ribbon_43
+    100246: ribbon_44
+    100248: ribbon_45
+    100250: ribbon_46
+    100252: weiba_01
+    100254: weiba_02
+    100256: weiba_03
+    100258: weiba_04
+    100260: weiba_05
+    100262: weiba_06
+    100264: weiba_07
+    100266: weiba_08
+    100268: xiuzi_01
+    100270: xiuzi_02
+    100272: xiuzi_03
+    100274: xiuzi_04
+    100276: xiuzi_05
+    100278: xiuzi_06
+    100280: xiuzi_07
+    100282: xiuzi_08
+    100284: xiuzi_09
+    100286: xiuzi_10
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger01
+    400014: Bip001 L Finger02
+    400016: Bip001 L Finger1
+    400018: Bip001 L Finger11
+    400020: Bip001 L Finger12
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger22
+    400028: Bip001 L Finger3
+    400030: Bip001 L Finger31
+    400032: Bip001 L Finger32
+    400034: Bip001 L Finger4
+    400036: Bip001 L Finger41
+    400038: Bip001 L Finger42
+    400040: Bip001 L Foot
+    400042: Bip001 L Forearm
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L UpperArm
+    400052: Bip001 Neck
+    400054: Bip001 Pelvis
+    400056: Bip001 Prop1
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger02
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger12
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger22
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger32
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger42
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R Hand
+    400098: Bip001 R Thigh
+    400100: Bip001 R Toe0
+    400102: Bip001 R UpperArm
+    400104: Bip001 Spine
+    400106: Bip001 Spine1
+    400108: Bone001
+    400110: Bone002
+    400112: Bone003
+    400114: Bone004
+    400116: head_01
+    400118: head_02
+    400120: head_03
+    400122: head_04
+    400124: head_05
+    400126: head_06
+    400128: head_07
+    400130: head_08
+    400132: head_09
+    400134: head_10
+    400136: head_11
+    400138: head_12
+    400140: head_13
+    400142: head_14
+    400144: head_15
+    400146: head_16
+    400148: head_17
+    400150: head_18
+    400152: head_19
+    400154: head_20
+    400156: head_21
+    400158: head_22
+    400160: ribbon_01
+    400162: ribbon_02
+    400164: ribbon_03
+    400166: ribbon_04
+    400168: ribbon_05
+    400170: ribbon_06
+    400172: ribbon_07
+    400174: ribbon_08
+    400176: ribbon_09
+    400178: ribbon_10
+    400180: ribbon_11
+    400182: ribbon_12
+    400184: ribbon_13
+    400186: ribbon_14
+    400188: ribbon_15
+    400190: ribbon_16
+    400192: ribbon_17
+    400194: ribbon_18
+    400196: ribbon_19
+    400198: ribbon_20
+    400200: ribbon_21
+    400202: ribbon_22
+    400204: ribbon_23
+    400206: ribbon_24
+    400208: ribbon_25
+    400210: ribbon_26
+    400212: ribbon_27
+    400214: ribbon_28
+    400216: ribbon_29
+    400218: ribbon_30
+    400220: ribbon_31
+    400222: ribbon_32
+    400224: ribbon_33
+    400226: ribbon_34
+    400228: ribbon_35
+    400230: ribbon_36
+    400232: ribbon_37
+    400234: ribbon_38
+    400236: ribbon_39
+    400238: ribbon_40
+    400240: ribbon_41
+    400242: ribbon_42
+    400244: ribbon_43
+    400246: ribbon_44
+    400248: ribbon_45
+    400250: ribbon_46
+    400252: weiba_01
+    400254: weiba_02
+    400256: weiba_03
+    400258: weiba_04
+    400260: weiba_05
+    400262: weiba_06
+    400264: weiba_07
+    400266: weiba_08
+    400268: xiuzi_01
+    400270: xiuzi_02
+    400272: xiuzi_03
+    400274: xiuzi_04
+    400276: xiuzi_05
+    400278: xiuzi_06
+    400280: xiuzi_07
+    400282: xiuzi_08
+    400284: xiuzi_09
+    400286: xiuzi_10
+    7400000: App_b_winloop
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: App_b_winloop
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 82f1d9be9d3f4ff4bb7d701d32ee6638
+timeCreated: 1508124664
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CloudKaiXingGBK
+  fontNames:
+  - CloudKaiXingGBK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

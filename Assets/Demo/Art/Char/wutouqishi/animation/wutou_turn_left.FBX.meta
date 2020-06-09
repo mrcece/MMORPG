@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 3a031bfe724238844b4d8ffabe290f9f
+timeCreated: 1524142254
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Foot
+    100012: Bip001 L Forearm
+    100014: Bip001 L Hand
+    100016: Bip001 L HorseLink
+    100018: Bip001 L Thigh
+    100020: Bip001 L Toe0
+    100022: Bip001 L UpperArm
+    100024: Bip001 Neck
+    100026: Bip001 Neck1
+    100028: Bip001 Pelvis
+    100030: Bip001 R Calf
+    100032: Bip001 R Clavicle
+    100034: Bip001 R Finger0
+    100036: Bip001 R Foot
+    100038: Bip001 R Forearm
+    100040: Bip001 R Hand
+    100042: Bip001 R HorseLink
+    100044: Bip001 R Thigh
+    100046: Bip001 R Toe0
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Bip001 Spine1
+    100054: Bip002
+    100056: Bip002 L Calf
+    100058: Bip002 L Clavicle
+    100060: Bip002 L Finger0
+    100062: Bip002 L Finger01
+    100064: Bip002 L Finger02
+    100066: Bip002 L Finger1
+    100068: Bip002 L Finger11
+    100070: Bip002 L Finger12
+    100072: Bip002 L Finger2
+    100074: Bip002 L Finger21
+    100076: Bip002 L Finger22
+    100078: Bip002 L Finger3
+    100080: Bip002 L Finger31
+    100082: Bip002 L Finger32
+    100084: Bip002 L Foot
+    100086: Bip002 L Forearm
+    100088: Bip002 L ForeTwist
+    100090: Bip002 L Hand
+    100092: Bip002 L Thigh
+    100094: Bip002 L Toe0
+    100096: Bip002 L UpperArm
+    100098: Bip002 Neck
+    100100: Bip002 Pelvis
+    100102: Bip002 Prop1
+    100104: Bip002 Prop2
+    100106: Bip002 R Calf
+    100108: Bip002 R Clavicle
+    100110: Bip002 R Finger0
+    100112: Bip002 R Finger01
+    100114: Bip002 R Finger02
+    100116: Bip002 R Finger1
+    100118: Bip002 R Finger11
+    100120: Bip002 R Finger12
+    100122: Bip002 R Finger2
+    100124: Bip002 R Finger21
+    100126: Bip002 R Finger22
+    100128: Bip002 R Finger3
+    100130: Bip002 R Finger31
+    100132: Bip002 R Finger32
+    100134: Bip002 R Foot
+    100136: Bip002 R Forearm
+    100138: Bip002 R ForeTwist
+    100140: Bip002 R Hand
+    100142: Bip002 R Thigh
+    100144: Bip002 R Toe0
+    100146: Bip002 R UpperArm
+    100148: Bip002 Spine
+    100150: Bip002 Spine1
+    100152: Bone002
+    100154: Bone002(mirrored)
+    100156: Bone007
+    100158: Bone010
+    100160: Bone012
+    100162: Bone015
+    100164: Bone015(mirrored)
+    100166: Bone018
+    100168: Bone018(mirrored)
+    100170: ExposeTransform001
+    100172: //RootNode
+    100174: wutouqishi_Head
+    100176: wutouqishi_maan_01
+    100178: wutouqishi_maan_02
+    100180: wutouqishi_maerduo_L
+    100182: wutouqishi_maerduo_R
+    100184: wutouqishi_majiao_00
+    100186: wutouqishi_majiao_01
+    100188: wutouqishi_majiao_02
+    100190: wutouqishi_majiao_03
+    100192: wutouqishi_majiao_04
+    100194: wutouqishi_majiao_05
+    100196: wutouqishi_majiao_06
+    100198: wutouqishi_majiao_07
+    100200: wutouqishi_mawei_00
+    100202: wutouqishi_mawei_0006
+    100204: wutouqishi_mawei_01
+    100206: wutouqishi_mawei_02
+    100208: wutouqishi_mawei_03
+    100210: wutouqishi_mawei_04
+    100212: wutouqishi_mawei_05
+    100214: wutouqishi_mawei_06
+    100216: wutouqishi_mazui_00
+    100218: wutouqishi_pifeng_00
+    100220: wutouqishi_pifeng_01
+    100222: wutouqishi_pifeng_02
+    100224: wutouqishi_pifeng_03
+    100226: wutouqishi_pifeng_04
+    100228: wutouqishi_pifeng_05
+    100230: wutouqishi_pifeng_06
+    100232: wutouqishi_pifeng_07
+    100234: wutouqishi_pifeng_08
+    100236: wutouqishi_pifeng_09
+    100238: wutouqishi_pifeng_10
+    100240: wutouqishi_pifeng_11
+    100242: wutouqishi_pifeng_12
+    100244: wutouqishi_pifeng_13
+    100246: wutouqishi_qianbai_00
+    100248: wutouqishi_qianbai_01
+    100250: wutouqishi_qianbai_02
+    100252: wutouqishi_qianbai_03
+    100254: wutouqishi_qianbai_04
+    100256: wutouqishi_qianbai_05
+    100258: wutouqishi_touyumao_00
+    100260: wutouqishi_zongmao_00
+    100262: wutouqishi_zongmao_01
+    100264: wutouqishi_zongmao_02
+    100266: wutouqishi_zongmao_03
+    100268: wutouqishi_zongmao_04
+    100270: Bip001 Footsteps
+    100272: Bip001 HeadNub
+    100274: Bip001 L Finger0Nub
+    100276: Bip001 L Toe0Nub
+    100278: Bip001 R Finger0Nub
+    100280: Bip001 R Toe0Nub
+    100282: Bip002 Footsteps
+    100284: Bip002 Head
+    100286: Bip002 HeadNub
+    100288: Bip002 L Finger0Nub
+    100290: Bip002 L Finger1Nub
+    100292: Bip002 L Finger2Nub
+    100294: Bip002 L Finger3Nub
+    100296: Bip002 L Toe0Nub
+    100298: Bip002 R Finger0Nub
+    100300: Bip002 R Finger1Nub
+    100302: Bip002 R Finger2Nub
+    100304: Bip002 R Finger3Nub
+    100306: Bip002 R Toe0Nub
+    100308: Particle View 01
+    100310: Particle View 01 1
+    100312: Particle View 01 10
+    100314: Particle View 01 11
+    100316: Particle View 01 12
+    100318: Particle View 01 13
+    100320: Particle View 01 14
+    100322: Particle View 01 15
+    100324: Particle View 01 16
+    100326: Particle View 01 17
+    100328: Particle View 01 18
+    100330: Particle View 01 19
+    100332: Particle View 01 2
+    100334: Particle View 01 20
+    100336: Particle View 01 21
+    100338: Particle View 01 22
+    100340: Particle View 01 23
+    100342: Particle View 01 24
+    100344: Particle View 01 25
+    100346: Particle View 01 26
+    100348: Particle View 01 27
+    100350: Particle View 01 28
+    100352: Particle View 01 29
+    100354: Particle View 01 3
+    100356: Particle View 01 30
+    100358: Particle View 01 31
+    100360: Particle View 01 32
+    100362: Particle View 01 33
+    100364: Particle View 01 34
+    100366: Particle View 01 35
+    100368: Particle View 01 36
+    100370: Particle View 01 37
+    100372: Particle View 01 38
+    100374: Particle View 01 39
+    100376: Particle View 01 4
+    100378: Particle View 01 40
+    100380: Particle View 01 41
+    100382: Particle View 01 42
+    100384: Particle View 01 43
+    100386: Particle View 01 44
+    100388: Particle View 01 45
+    100390: Particle View 01 46
+    100392: Particle View 01 47
+    100394: Particle View 01 48
+    100396: Particle View 01 49
+    100398: Particle View 01 5
+    100400: Particle View 01 50
+    100402: Particle View 01 51
+    100404: Particle View 01 52
+    100406: Particle View 01 53
+    100408: Particle View 01 54
+    100410: Particle View 01 55
+    100412: Particle View 01 56
+    100414: Particle View 01 57
+    100416: Particle View 01 58
+    100418: Particle View 01 59
+    100420: Particle View 01 6
+    100422: Particle View 01 60
+    100424: Particle View 01 61
+    100426: Particle View 01 62
+    100428: Particle View 01 63
+    100430: Particle View 01 64
+    100432: Particle View 01 65
+    100434: Particle View 01 66
+    100436: Particle View 01 67
+    100438: Particle View 01 68
+    100440: Particle View 01 69
+    100442: Particle View 01 7
+    100444: Particle View 01 70
+    100446: Particle View 01 71
+    100448: Particle View 01 72
+    100450: Particle View 01 73
+    100452: Particle View 01 74
+    100454: Particle View 01 75
+    100456: Particle View 01 76
+    100458: Particle View 01 77
+    100460: Particle View 01 78
+    100462: Particle View 01 79
+    100464: Particle View 01 8
+    100466: Particle View 01 80
+    100468: Particle View 01 9
+    100470: Plane001
+    100472: wutouqishi_1
+    100474: wutouqishi_2
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Foot
+    400012: Bip001 L Forearm
+    400014: Bip001 L Hand
+    400016: Bip001 L HorseLink
+    400018: Bip001 L Thigh
+    400020: Bip001 L Toe0
+    400022: Bip001 L UpperArm
+    400024: Bip001 Neck
+    400026: Bip001 Neck1
+    400028: Bip001 Pelvis
+    400030: Bip001 R Calf
+    400032: Bip001 R Clavicle
+    400034: Bip001 R Finger0
+    400036: Bip001 R Foot
+    400038: Bip001 R Forearm
+    400040: Bip001 R Hand
+    400042: Bip001 R HorseLink
+    400044: Bip001 R Thigh
+    400046: Bip001 R Toe0
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Bip001 Spine1
+    400054: Bip002
+    400056: Bip002 L Calf
+    400058: Bip002 L Clavicle
+    400060: Bip002 L Finger0
+    400062: Bip002 L Finger01
+    400064: Bip002 L Finger02
+    400066: Bip002 L Finger1
+    400068: Bip002 L Finger11
+    400070: Bip002 L Finger12
+    400072: Bip002 L Finger2
+    400074: Bip002 L Finger21
+    400076: Bip002 L Finger22
+    400078: Bip002 L Finger3
+    400080: Bip002 L Finger31
+    400082: Bip002 L Finger32
+    400084: Bip002 L Foot
+    400086: Bip002 L Forearm
+    400088: Bip002 L ForeTwist
+    400090: Bip002 L Hand
+    400092: Bip002 L Thigh
+    400094: Bip002 L Toe0
+    400096: Bip002 L UpperArm
+    400098: Bip002 Neck
+    400100: Bip002 Pelvis
+    400102: Bip002 Prop1
+    400104: Bip002 Prop2
+    400106: Bip002 R Calf
+    400108: Bip002 R Clavicle
+    400110: Bip002 R Finger0
+    400112: Bip002 R Finger01
+    400114: Bip002 R Finger02
+    400116: Bip002 R Finger1
+    400118: Bip002 R Finger11
+    400120: Bip002 R Finger12
+    400122: Bip002 R Finger2
+    400124: Bip002 R Finger21
+    400126: Bip002 R Finger22
+    400128: Bip002 R Finger3
+    400130: Bip002 R Finger31
+    400132: Bip002 R Finger32
+    400134: Bip002 R Foot
+    400136: Bip002 R Forearm
+    400138: Bip002 R ForeTwist
+    400140: Bip002 R Hand
+    400142: Bip002 R Thigh
+    400144: Bip002 R Toe0
+    400146: Bip002 R UpperArm
+    400148: Bip002 Spine
+    400150: Bip002 Spine1
+    400152: Bone002
+    400154: Bone002(mirrored)
+    400156: Bone007
+    400158: Bone010
+    400160: Bone012
+    400162: Bone015
+    400164: Bone015(mirrored)
+    400166: Bone018
+    400168: Bone018(mirrored)
+    400170: ExposeTransform001
+    400172: //RootNode
+    400174: wutouqishi_Head
+    400176: wutouqishi_maan_01
+    400178: wutouqishi_maan_02
+    400180: wutouqishi_maerduo_L
+    400182: wutouqishi_maerduo_R
+    400184: wutouqishi_majiao_00
+    400186: wutouqishi_majiao_01
+    400188: wutouqishi_majiao_02
+    400190: wutouqishi_majiao_03
+    400192: wutouqishi_majiao_04
+    400194: wutouqishi_majiao_05
+    400196: wutouqishi_majiao_06
+    400198: wutouqishi_majiao_07
+    400200: wutouqishi_mawei_00
+    400202: wutouqishi_mawei_0006
+    400204: wutouqishi_mawei_01
+    400206: wutouqishi_mawei_02
+    400208: wutouqishi_mawei_03
+    400210: wutouqishi_mawei_04
+    400212: wutouqishi_mawei_05
+    400214: wutouqishi_mawei_06
+    400216: wutouqishi_mazui_00
+    400218: wutouqishi_pifeng_00
+    400220: wutouqishi_pifeng_01
+    400222: wutouqishi_pifeng_02
+    400224: wutouqishi_pifeng_03
+    400226: wutouqishi_pifeng_04
+    400228: wutouqishi_pifeng_05
+    400230: wutouqishi_pifeng_06
+    400232: wutouqishi_pifeng_07
+    400234: wutouqishi_pifeng_08
+    400236: wutouqishi_pifeng_09
+    400238: wutouqishi_pifeng_10
+    400240: wutouqishi_pifeng_11
+    400242: wutouqishi_pifeng_12
+    400244: wutouqishi_pifeng_13
+    400246: wutouqishi_qianbai_00
+    400248: wutouqishi_qianbai_01
+    400250: wutouqishi_qianbai_02
+    400252: wutouqishi_qianbai_03
+    400254: wutouqishi_qianbai_04
+    400256: wutouqishi_qianbai_05
+    400258: wutouqishi_touyumao_00
+    400260: wutouqishi_zongmao_00
+    400262: wutouqishi_zongmao_01
+    400264: wutouqishi_zongmao_02
+    400266: wutouqishi_zongmao_03
+    400268: wutouqishi_zongmao_04
+    400270: Bip001 Footsteps
+    400272: Bip001 HeadNub
+    400274: Bip001 L Finger0Nub
+    400276: Bip001 L Toe0Nub
+    400278: Bip001 R Finger0Nub
+    400280: Bip001 R Toe0Nub
+    400282: Bip002 Footsteps
+    400284: Bip002 Head
+    400286: Bip002 HeadNub
+    400288: Bip002 L Finger0Nub
+    400290: Bip002 L Finger1Nub
+    400292: Bip002 L Finger2Nub
+    400294: Bip002 L Finger3Nub
+    400296: Bip002 L Toe0Nub
+    400298: Bip002 R Finger0Nub
+    400300: Bip002 R Finger1Nub
+    400302: Bip002 R Finger2Nub
+    400304: Bip002 R Finger3Nub
+    400306: Bip002 R Toe0Nub
+    400308: Particle View 01
+    400310: Particle View 01 1
+    400312: Particle View 01 10
+    400314: Particle View 01 11
+    400316: Particle View 01 12
+    400318: Particle View 01 13
+    400320: Particle View 01 14
+    400322: Particle View 01 15
+    400324: Particle View 01 16
+    400326: Particle View 01 17
+    400328: Particle View 01 18
+    400330: Particle View 01 19
+    400332: Particle View 01 2
+    400334: Particle View 01 20
+    400336: Particle View 01 21
+    400338: Particle View 01 22
+    400340: Particle View 01 23
+    400342: Particle View 01 24
+    400344: Particle View 01 25
+    400346: Particle View 01 26
+    400348: Particle View 01 27
+    400350: Particle View 01 28
+    400352: Particle View 01 29
+    400354: Particle View 01 3
+    400356: Particle View 01 30
+    400358: Particle View 01 31
+    400360: Particle View 01 32
+    400362: Particle View 01 33
+    400364: Particle View 01 34
+    400366: Particle View 01 35
+    400368: Particle View 01 36
+    400370: Particle View 01 37
+    400372: Particle View 01 38
+    400374: Particle View 01 39
+    400376: Particle View 01 4
+    400378: Particle View 01 40
+    400380: Particle View 01 41
+    400382: Particle View 01 42
+    400384: Particle View 01 43
+    400386: Particle View 01 44
+    400388: Particle View 01 45
+    400390: Particle View 01 46
+    400392: Particle View 01 47
+    400394: Particle View 01 48
+    400396: Particle View 01 49
+    400398: Particle View 01 5
+    400400: Particle View 01 50
+    400402: Particle View 01 51
+    400404: Particle View 01 52
+    400406: Particle View 01 53
+    400408: Particle View 01 54
+    400410: Particle View 01 55
+    400412: Particle View 01 56
+    400414: Particle View 01 57
+    400416: Particle View 01 58
+    400418: Particle View 01 59
+    400420: Particle View 01 6
+    400422: Particle View 01 60
+    400424: Particle View 01 61
+    400426: Particle View 01 62
+    400428: Particle View 01 63
+    400430: Particle View 01 64
+    400432: Particle View 01 65
+    400434: Particle View 01 66
+    400436: Particle View 01 67
+    400438: Particle View 01 68
+    400440: Particle View 01 69
+    400442: Particle View 01 7
+    400444: Particle View 01 70
+    400446: Particle View 01 71
+    400448: Particle View 01 72
+    400450: Particle View 01 73
+    400452: Particle View 01 74
+    400454: Particle View 01 75
+    400456: Particle View 01 76
+    400458: Particle View 01 77
+    400460: Particle View 01 78
+    400462: Particle View 01 79
+    400464: Particle View 01 8
+    400466: Particle View 01 80
+    400468: Particle View 01 9
+    400470: Plane001
+    400472: wutouqishi_1
+    400474: wutouqishi_2
+    2300000: Plane001
+    3300000: Plane001
+    4300000: wutouqishi_1
+    4300002: wutouqishi_2
+    4300004: Plane001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: wutouqishi_1
+    13700002: wutouqishi_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: ea9921827ac8bac4789fec367e625ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wutouqishi_12
+    second: {fileID: 2100000, guid: f5eb800859409a0438ddc6caed6854d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wutouqishi_21
+    second: {fileID: 2100000, guid: 7eff190b1545ea14bb5a6f32f3268aeb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

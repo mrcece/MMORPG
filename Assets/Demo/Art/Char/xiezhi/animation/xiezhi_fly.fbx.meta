@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: d06a6092055397f42b3d5aa17dcd5863
+timeCreated: 1493971093
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Foot
+    100014: Bip001 L Forearm
+    100016: Bip001 L Hand
+    100018: Bip001 L HorseLink
+    100020: Bip001 L Thigh
+    100022: Bip001 L Toe0
+    100024: Bip001 L Toe01
+    100026: Bip001 L UpperArm
+    100028: Bip001 Neck
+    100030: Bip001 Neck1
+    100032: Bip001 Neck2
+    100034: Bip001 Pelvis
+    100036: Bip001 R Calf
+    100038: Bip001 R Clavicle
+    100040: Bip001 R Finger0
+    100042: Bip001 R Finger01
+    100044: Bip001 R Foot
+    100046: Bip001 R Forearm
+    100048: Bip001 R Hand
+    100050: Bip001 R HorseLink
+    100052: Bip001 R Thigh
+    100054: Bip001 R Toe0
+    100056: Bip001 R Toe01
+    100058: Bip001 R UpperArm
+    100060: Bip001 Spine
+    100062: Bip001 Spine1
+    100064: Bip001 Spine2
+    100066: xieshi_ear_01
+    100068: xieshi_ear_02
+    100070: xieshi_ear_03
+    100072: xieshi_ear_04
+    100074: xieshi_ear_05
+    100076: xieshi_ear_06
+    100078: xieshi_ear_07
+    100080: xieshi_ear_08
+    100082: xieshi_hair_01
+    100084: xieshi_hair_02
+    100086: xieshi_hair_03
+    100088: xieshi_hair_04
+    100090: xieshi_hair_05
+    100092: xieshi_hair_06
+    100094: xieshi_hair_07
+    100096: xieshi_hair_08
+    100098: xieshi_hair_09
+    100100: xieshi_hair_10
+    100102: xieshi_hair_11
+    100104: xieshi_hair_12
+    100106: xieshi_hair_13
+    100108: xieshi_hair_14
+    100110: xieshi_hair_15
+    100112: xieshi_hair_16
+    100114: xieshi_hair_17
+    100116: xieshi_hair_18
+    100118: xieshi_hair_19
+    100120: xieshi_hair_20
+    100122: xieshi_hair_21
+    100124: xieshi_hair_22
+    100126: xieshi_hair_23
+    100128: xieshi_hair_24
+    100130: xieshi_hair_25
+    100132: xieshi_hair_26
+    100134: xieshi_hair_27
+    100136: xieshi_hair_28
+    100138: xieshi_hair_29
+    100140: xieshi_mouth_01
+    100142: xieshi_mouth_02
+    100144: xieshi_piaodai_01
+    100146: xieshi_piaodai_02
+    100148: xieshi_piaodai_03
+    100150: xieshi_piaodai_04
+    100152: xieshi_piaodai_05
+    100154: xieshi_piaodai_06
+    100156: xieshi_piaodai_07
+    100158: xieshi_piaodai_08
+    100160: //RootNode
+    100162: xiezhi_tail_01
+    100164: xiezhi_tail_02
+    100166: xiezhi_tail_03
+    100168: xiezhi_tail_04
+    100170: xiezhi_tail_05
+    100172: xiezhi_tail_06
+    100174: xiezhi_tail_07
+    100176: xiezhi_tail_08
+    100178: xiezhi_tail_09
+    100180: xiezhi_tail_10
+    100182: xiezhi_tail_11
+    100184: xiezhi_tail_12
+    100186: xiezhi_tail_13
+    100188: xiezhi_tail_14
+    100190: xiezhi_tail_15
+    100192: xiezhi_tail_16
+    100194: xiezhi_tail_17
+    100196: xiezhi_tail_18
+    100198: xiezhi_tail_19
+    100200: xiezhi_tail_20
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Foot
+    400014: Bip001 L Forearm
+    400016: Bip001 L Hand
+    400018: Bip001 L HorseLink
+    400020: Bip001 L Thigh
+    400022: Bip001 L Toe0
+    400024: Bip001 L Toe01
+    400026: Bip001 L UpperArm
+    400028: Bip001 Neck
+    400030: Bip001 Neck1
+    400032: Bip001 Neck2
+    400034: Bip001 Pelvis
+    400036: Bip001 R Calf
+    400038: Bip001 R Clavicle
+    400040: Bip001 R Finger0
+    400042: Bip001 R Finger01
+    400044: Bip001 R Foot
+    400046: Bip001 R Forearm
+    400048: Bip001 R Hand
+    400050: Bip001 R HorseLink
+    400052: Bip001 R Thigh
+    400054: Bip001 R Toe0
+    400056: Bip001 R Toe01
+    400058: Bip001 R UpperArm
+    400060: Bip001 Spine
+    400062: Bip001 Spine1
+    400064: Bip001 Spine2
+    400066: xieshi_ear_01
+    400068: xieshi_ear_02
+    400070: xieshi_ear_03
+    400072: xieshi_ear_04
+    400074: xieshi_ear_05
+    400076: xieshi_ear_06
+    400078: xieshi_ear_07
+    400080: xieshi_ear_08
+    400082: xieshi_hair_01
+    400084: xieshi_hair_02
+    400086: xieshi_hair_03
+    400088: xieshi_hair_04
+    400090: xieshi_hair_05
+    400092: xieshi_hair_06
+    400094: xieshi_hair_07
+    400096: xieshi_hair_08
+    400098: xieshi_hair_09
+    400100: xieshi_hair_10
+    400102: xieshi_hair_11
+    400104: xieshi_hair_12
+    400106: xieshi_hair_13
+    400108: xieshi_hair_14
+    400110: xieshi_hair_15
+    400112: xieshi_hair_16
+    400114: xieshi_hair_17
+    400116: xieshi_hair_18
+    400118: xieshi_hair_19
+    400120: xieshi_hair_20
+    400122: xieshi_hair_21
+    400124: xieshi_hair_22
+    400126: xieshi_hair_23
+    400128: xieshi_hair_24
+    400130: xieshi_hair_25
+    400132: xieshi_hair_26
+    400134: xieshi_hair_27
+    400136: xieshi_hair_28
+    400138: xieshi_hair_29
+    400140: xieshi_mouth_01
+    400142: xieshi_mouth_02
+    400144: xieshi_piaodai_01
+    400146: xieshi_piaodai_02
+    400148: xieshi_piaodai_03
+    400150: xieshi_piaodai_04
+    400152: xieshi_piaodai_05
+    400154: xieshi_piaodai_06
+    400156: xieshi_piaodai_07
+    400158: xieshi_piaodai_08
+    400160: //RootNode
+    400162: xiezhi_tail_01
+    400164: xiezhi_tail_02
+    400166: xiezhi_tail_03
+    400168: xiezhi_tail_04
+    400170: xiezhi_tail_05
+    400172: xiezhi_tail_06
+    400174: xiezhi_tail_07
+    400176: xiezhi_tail_08
+    400178: xiezhi_tail_09
+    400180: xiezhi_tail_10
+    400182: xiezhi_tail_11
+    400184: xiezhi_tail_12
+    400186: xiezhi_tail_13
+    400188: xiezhi_tail_14
+    400190: xiezhi_tail_15
+    400192: xiezhi_tail_16
+    400194: xiezhi_tail_17
+    400196: xiezhi_tail_18
+    400198: xiezhi_tail_19
+    400200: xiezhi_tail_20
+    7400000: xiezhi_fly_Pre
+    7400002: xiezhi_fly_End
+    7400004: xiezhi_standup
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: xiezhi_fly_Pre
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0/Bip001 L Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28/xieshi_hair_29
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0/Bip001 R Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25/xieshi_hair_26
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0/Bip001 L Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22/xieshi_hair_23
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03/xieshi_ear_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07/xieshi_ear_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01/xieshi_mouth_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0/Bip001 R Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18/xieshi_hair_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02/xieshi_hair_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06/xieshi_hair_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03/xieshi_piaodai_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07/xieshi_piaodai_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10/xieshi_hair_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14/xieshi_hair_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06/xiezhi_tail_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19/xiezhi_tail_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11/xiezhi_tail_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15/xiezhi_tail_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xiezhi_fly_End
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0/Bip001 L Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28/xieshi_hair_29
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0/Bip001 R Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25/xieshi_hair_26
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0/Bip001 L Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22/xieshi_hair_23
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03/xieshi_ear_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07/xieshi_ear_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01/xieshi_mouth_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0/Bip001 R Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18/xieshi_hair_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02/xieshi_hair_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06/xieshi_hair_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03/xieshi_piaodai_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07/xieshi_piaodai_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10/xieshi_hair_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14/xieshi_hair_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06/xiezhi_tail_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19/xiezhi_tail_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11/xiezhi_tail_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15/xiezhi_tail_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xiezhi_standup
+      takeName: Take 001
+      firstFrame: 47
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/Bip001 L Foot/Bip001 L Toe0/Bip001 L Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L HorseLink/xieshi_hair_27/xieshi_hair_28/xieshi_hair_29
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/Bip001 R Foot/Bip001 R Toe0/Bip001 R Toe01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R HorseLink/xieshi_hair_24/xieshi_hair_25/xieshi_hair_26
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+          L Finger0/Bip001 L Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/xieshi_hair_20/xieshi_hair_21/xieshi_hair_22/xieshi_hair_23
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_01/xieshi_ear_02/xieshi_ear_03/xieshi_ear_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_ear_05/xieshi_ear_06/xieshi_ear_07/xieshi_ear_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Neck1/Bip001 Neck2/Bip001 Head/xieshi_mouth_01/xieshi_mouth_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+          R Finger0/Bip001 R Finger01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/xieshi_hair_16/xieshi_hair_17/xieshi_hair_18/xieshi_hair_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/xieshi_hair_01/xieshi_hair_02/xieshi_hair_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_hair_04/xieshi_hair_05/xieshi_hair_06/xieshi_hair_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_01/xieshi_piaodai_02/xieshi_piaodai_03/xieshi_piaodai_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/xieshi_piaodai_05/xieshi_piaodai_06/xieshi_piaodai_07/xieshi_piaodai_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/xieshi_hair_08/xieshi_hair_09/xieshi_hair_10/xieshi_hair_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xieshi_hair_12/xieshi_hair_13/xieshi_hair_14/xieshi_hair_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_05/xiezhi_tail_06/xiezhi_tail_07
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_02/xiezhi_tail_03/xiezhi_tail_04/xiezhi_tail_17/xiezhi_tail_18/xiezhi_tail_19/xiezhi_tail_20
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_08/xiezhi_tail_09/xiezhi_tail_10/xiezhi_tail_11/xiezhi_tail_12
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/xiezhi_tail_01/xiezhi_tail_13/xiezhi_tail_14/xiezhi_tail_15/xiezhi_tail_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6559508
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9812c21d56059124daa72a85da161891,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

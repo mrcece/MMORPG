@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 658171108f7eff94394912917c69eca7
+timeCreated: 1506482420
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Foot
+    100012: Bip001 L Forearm
+    100014: Bip001 L Hand
+    100016: Bip001 L HorseLink
+    100018: Bip001 L Thigh
+    100020: Bip001 L Toe0
+    100022: Bip001 L UpperArm
+    100024: Bip001 Neck
+    100026: Bip001 Neck1
+    100028: Bip001 Pelvis
+    100030: Bip001 R Calf
+    100032: Bip001 R Clavicle
+    100034: Bip001 R Finger0
+    100036: Bip001 R Foot
+    100038: Bip001 R Forearm
+    100040: Bip001 R Hand
+    100042: Bip001 R HorseLink
+    100044: Bip001 R Thigh
+    100046: Bip001 R Toe0
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Bip001 Spine1
+    100054: Bip002
+    100056: Bip002 Head
+    100058: Bip002 L Calf
+    100060: Bip002 L Clavicle
+    100062: Bip002 L Finger0
+    100064: Bip002 L Finger01
+    100066: Bip002 L Finger02
+    100068: Bip002 L Finger1
+    100070: Bip002 L Finger11
+    100072: Bip002 L Finger12
+    100074: Bip002 L Finger2
+    100076: Bip002 L Finger21
+    100078: Bip002 L Finger22
+    100080: Bip002 L Finger3
+    100082: Bip002 L Finger31
+    100084: Bip002 L Finger32
+    100086: Bip002 L Foot
+    100088: Bip002 L Forearm
+    100090: Bip002 L ForeTwist
+    100092: Bip002 L Hand
+    100094: Bip002 L Thigh
+    100096: Bip002 L Toe0
+    100098: Bip002 L UpperArm
+    100100: Bip002 Neck
+    100102: Bip002 Pelvis
+    100104: Bip002 Prop1
+    100106: Bip002 Prop2
+    100108: Bip002 R Calf
+    100110: Bip002 R Clavicle
+    100112: Bip002 R Finger0
+    100114: Bip002 R Finger01
+    100116: Bip002 R Finger02
+    100118: Bip002 R Finger1
+    100120: Bip002 R Finger11
+    100122: Bip002 R Finger12
+    100124: Bip002 R Finger2
+    100126: Bip002 R Finger21
+    100128: Bip002 R Finger22
+    100130: Bip002 R Finger3
+    100132: Bip002 R Finger31
+    100134: Bip002 R Finger32
+    100136: Bip002 R Foot
+    100138: Bip002 R Forearm
+    100140: Bip002 R ForeTwist
+    100142: Bip002 R Hand
+    100144: Bip002 R Thigh
+    100146: Bip002 R Toe0
+    100148: Bip002 R UpperArm
+    100150: Bip002 Spine
+    100152: Bip002 Spine1
+    100154: Bone002
+    100156: Bone002(mirrored)
+    100158: Bone007
+    100160: Bone010
+    100162: Bone012
+    100164: Bone015
+    100166: Bone015(mirrored)
+    100168: Bone018
+    100170: Bone018(mirrored)
+    100172: ExposeTransform001
+    100174: //RootNode
+    100176: wutouqishi_Head
+    100178: wutouqishi_maan_01
+    100180: wutouqishi_maan_02
+    100182: wutouqishi_maerduo_L
+    100184: wutouqishi_maerduo_R
+    100186: wutouqishi_majiao_00
+    100188: wutouqishi_majiao_01
+    100190: wutouqishi_majiao_02
+    100192: wutouqishi_majiao_03
+    100194: wutouqishi_majiao_04
+    100196: wutouqishi_majiao_05
+    100198: wutouqishi_majiao_06
+    100200: wutouqishi_majiao_07
+    100202: wutouqishi_mawei_00
+    100204: wutouqishi_mawei_0006
+    100206: wutouqishi_mawei_01
+    100208: wutouqishi_mawei_02
+    100210: wutouqishi_mawei_03
+    100212: wutouqishi_mawei_04
+    100214: wutouqishi_mawei_05
+    100216: wutouqishi_mawei_06
+    100218: wutouqishi_mazui_00
+    100220: wutouqishi_pifeng_00
+    100222: wutouqishi_pifeng_01
+    100224: wutouqishi_pifeng_02
+    100226: wutouqishi_pifeng_03
+    100228: wutouqishi_pifeng_04
+    100230: wutouqishi_pifeng_05
+    100232: wutouqishi_pifeng_06
+    100234: wutouqishi_pifeng_07
+    100236: wutouqishi_pifeng_08
+    100238: wutouqishi_pifeng_09
+    100240: wutouqishi_pifeng_10
+    100242: wutouqishi_pifeng_11
+    100244: wutouqishi_pifeng_12
+    100246: wutouqishi_pifeng_13
+    100248: wutouqishi_qianbai_00
+    100250: wutouqishi_qianbai_01
+    100252: wutouqishi_qianbai_02
+    100254: wutouqishi_qianbai_03
+    100256: wutouqishi_qianbai_04
+    100258: wutouqishi_qianbai_05
+    100260: wutouqishi_touyumao_00
+    100262: wutouqishi_zongmao_00
+    100264: wutouqishi_zongmao_01
+    100266: wutouqishi_zongmao_02
+    100268: wutouqishi_zongmao_03
+    100270: wutouqishi_zongmao_04
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Foot
+    400012: Bip001 L Forearm
+    400014: Bip001 L Hand
+    400016: Bip001 L HorseLink
+    400018: Bip001 L Thigh
+    400020: Bip001 L Toe0
+    400022: Bip001 L UpperArm
+    400024: Bip001 Neck
+    400026: Bip001 Neck1
+    400028: Bip001 Pelvis
+    400030: Bip001 R Calf
+    400032: Bip001 R Clavicle
+    400034: Bip001 R Finger0
+    400036: Bip001 R Foot
+    400038: Bip001 R Forearm
+    400040: Bip001 R Hand
+    400042: Bip001 R HorseLink
+    400044: Bip001 R Thigh
+    400046: Bip001 R Toe0
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Bip001 Spine1
+    400054: Bip002
+    400056: Bip002 Head
+    400058: Bip002 L Calf
+    400060: Bip002 L Clavicle
+    400062: Bip002 L Finger0
+    400064: Bip002 L Finger01
+    400066: Bip002 L Finger02
+    400068: Bip002 L Finger1
+    400070: Bip002 L Finger11
+    400072: Bip002 L Finger12
+    400074: Bip002 L Finger2
+    400076: Bip002 L Finger21
+    400078: Bip002 L Finger22
+    400080: Bip002 L Finger3
+    400082: Bip002 L Finger31
+    400084: Bip002 L Finger32
+    400086: Bip002 L Foot
+    400088: Bip002 L Forearm
+    400090: Bip002 L ForeTwist
+    400092: Bip002 L Hand
+    400094: Bip002 L Thigh
+    400096: Bip002 L Toe0
+    400098: Bip002 L UpperArm
+    400100: Bip002 Neck
+    400102: Bip002 Pelvis
+    400104: Bip002 Prop1
+    400106: Bip002 Prop2
+    400108: Bip002 R Calf
+    400110: Bip002 R Clavicle
+    400112: Bip002 R Finger0
+    400114: Bip002 R Finger01
+    400116: Bip002 R Finger02
+    400118: Bip002 R Finger1
+    400120: Bip002 R Finger11
+    400122: Bip002 R Finger12
+    400124: Bip002 R Finger2
+    400126: Bip002 R Finger21
+    400128: Bip002 R Finger22
+    400130: Bip002 R Finger3
+    400132: Bip002 R Finger31
+    400134: Bip002 R Finger32
+    400136: Bip002 R Foot
+    400138: Bip002 R Forearm
+    400140: Bip002 R ForeTwist
+    400142: Bip002 R Hand
+    400144: Bip002 R Thigh
+    400146: Bip002 R Toe0
+    400148: Bip002 R UpperArm
+    400150: Bip002 Spine
+    400152: Bip002 Spine1
+    400154: Bone002
+    400156: Bone002(mirrored)
+    400158: Bone007
+    400160: Bone010
+    400162: Bone012
+    400164: Bone015
+    400166: Bone015(mirrored)
+    400168: Bone018
+    400170: Bone018(mirrored)
+    400172: ExposeTransform001
+    400174: //RootNode
+    400176: wutouqishi_Head
+    400178: wutouqishi_maan_01
+    400180: wutouqishi_maan_02
+    400182: wutouqishi_maerduo_L
+    400184: wutouqishi_maerduo_R
+    400186: wutouqishi_majiao_00
+    400188: wutouqishi_majiao_01
+    400190: wutouqishi_majiao_02
+    400192: wutouqishi_majiao_03
+    400194: wutouqishi_majiao_04
+    400196: wutouqishi_majiao_05
+    400198: wutouqishi_majiao_06
+    400200: wutouqishi_majiao_07
+    400202: wutouqishi_mawei_00
+    400204: wutouqishi_mawei_0006
+    400206: wutouqishi_mawei_01
+    400208: wutouqishi_mawei_02
+    400210: wutouqishi_mawei_03
+    400212: wutouqishi_mawei_04
+    400214: wutouqishi_mawei_05
+    400216: wutouqishi_mawei_06
+    400218: wutouqishi_mazui_00
+    400220: wutouqishi_pifeng_00
+    400222: wutouqishi_pifeng_01
+    400224: wutouqishi_pifeng_02
+    400226: wutouqishi_pifeng_03
+    400228: wutouqishi_pifeng_04
+    400230: wutouqishi_pifeng_05
+    400232: wutouqishi_pifeng_06
+    400234: wutouqishi_pifeng_07
+    400236: wutouqishi_pifeng_08
+    400238: wutouqishi_pifeng_09
+    400240: wutouqishi_pifeng_10
+    400242: wutouqishi_pifeng_11
+    400244: wutouqishi_pifeng_12
+    400246: wutouqishi_pifeng_13
+    400248: wutouqishi_qianbai_00
+    400250: wutouqishi_qianbai_01
+    400252: wutouqishi_qianbai_02
+    400254: wutouqishi_qianbai_03
+    400256: wutouqishi_qianbai_04
+    400258: wutouqishi_qianbai_05
+    400260: wutouqishi_touyumao_00
+    400262: wutouqishi_zongmao_00
+    400264: wutouqishi_zongmao_01
+    400266: wutouqishi_zongmao_02
+    400268: wutouqishi_zongmao_03
+    400270: wutouqishi_zongmao_04
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

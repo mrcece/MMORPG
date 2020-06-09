@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: be319b744bed239419fc6daff7eb45e8
+timeCreated: 1482826695
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger0Nub
+    100012: Bip001 L Foot
+    100014: Bip001 L Forearm
+    100016: Bip001 L Hand
+    100018: Bip001 L Thigh
+    100020: Bip001 L Toe0
+    100022: Bip001 L Toe0Nub
+    100024: Bip001 L UpperArm
+    100026: Bip001 Neck
+    100028: Bip001 Neck1
+    100030: Bip001 Pelvis
+    100032: Bip001 Ponytail1
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Foot
+    100042: Bip001 R Forearm
+    100044: Bip001 R Hand
+    100046: Bip001 R Thigh
+    100048: Bip001 R Toe0
+    100050: Bip001 R UpperArm
+    100052: Bip001 Spine
+    100054: Bip001 Spine1
+    100056: Bone009
+    100058: Bone010
+    100060: ExposeTransform001
+    100062: ExposeTransform002
+    100064: ExposeTransform003
+    100066: ExposeTransform004
+    100068: ExposeTransform005
+    100070: ExposeTransform006
+    100072: ExposeTransform007
+    100074: fire_wolf
+    100076: //RootNode
+    100078: ribbon_01
+    100080: ribbon_02
+    100082: ribbon_03
+    100084: ribbon_04
+    100086: ribbon_05
+    100088: ribbon_06
+    100090: ribbon_07
+    100092: ribbon_08
+    100094: ribbon_09
+    100096: ribbon_10
+    100098: ribbon_11
+    100100: ribbon_12
+    100102: ribbon_13
+    100104: ribbon_14
+    100106: ribbon_15
+    100108: ribbon_16
+    100110: ribbon_17
+    100112: ribbon_18
+    100114: ribbon_19
+    100116: ribbon_20
+    100118: ribbon_21
+    100120: ribbon_22
+    100122: ribbon_23
+    100124: ribbon_24
+    100126: ribbon_25
+    100128: ribbon_26
+    100130: ribbon_27
+    100132: ribbon_28
+    100134: tail_01
+    100136: tail_02
+    100138: tail_03
+    100140: tail_04
+    100142: tail_05
+    100144: tail_06
+    100146: tail_07
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger0Nub
+    400012: Bip001 L Foot
+    400014: Bip001 L Forearm
+    400016: Bip001 L Hand
+    400018: Bip001 L Thigh
+    400020: Bip001 L Toe0
+    400022: Bip001 L Toe0Nub
+    400024: Bip001 L UpperArm
+    400026: Bip001 Neck
+    400028: Bip001 Neck1
+    400030: Bip001 Pelvis
+    400032: Bip001 Ponytail1
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Foot
+    400042: Bip001 R Forearm
+    400044: Bip001 R Hand
+    400046: Bip001 R Thigh
+    400048: Bip001 R Toe0
+    400050: Bip001 R UpperArm
+    400052: Bip001 Spine
+    400054: Bip001 Spine1
+    400056: Bone009
+    400058: Bone010
+    400060: ExposeTransform001
+    400062: ExposeTransform002
+    400064: ExposeTransform003
+    400066: ExposeTransform004
+    400068: ExposeTransform005
+    400070: ExposeTransform006
+    400072: ExposeTransform007
+    400074: fire_wolf
+    400076: //RootNode
+    400078: ribbon_01
+    400080: ribbon_02
+    400082: ribbon_03
+    400084: ribbon_04
+    400086: ribbon_05
+    400088: ribbon_06
+    400090: ribbon_07
+    400092: ribbon_08
+    400094: ribbon_09
+    400096: ribbon_10
+    400098: ribbon_11
+    400100: ribbon_12
+    400102: ribbon_13
+    400104: ribbon_14
+    400106: ribbon_15
+    400108: ribbon_16
+    400110: ribbon_17
+    400112: ribbon_18
+    400114: ribbon_19
+    400116: ribbon_20
+    400118: ribbon_21
+    400120: ribbon_22
+    400122: ribbon_23
+    400124: ribbon_24
+    400126: ribbon_25
+    400128: ribbon_26
+    400130: ribbon_27
+    400132: ribbon_28
+    400134: tail_01
+    400136: tail_02
+    400138: tail_03
+    400140: tail_04
+    400142: tail_05
+    400144: tail_06
+    400146: tail_07
+    4300000: fire_wolf
+    9500000: //RootNode
+    13700000: fire_wolf
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.332361
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
